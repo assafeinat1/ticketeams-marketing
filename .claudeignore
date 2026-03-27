@@ -1,0 +1,3 @@
+# RedRok Domain Isolation
+# worldcup-app is a separate project — do not scan, read, or process
+worldcup-app/

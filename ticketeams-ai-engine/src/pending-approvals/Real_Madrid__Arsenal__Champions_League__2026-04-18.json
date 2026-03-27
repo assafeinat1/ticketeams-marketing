@@ -1,0 +1,156 @@
+{
+  "matchKey": "Real_Madrid__Arsenal__Champions_League__2026-04-18",
+  "createdAt": "2026-03-19T11:44:27.183Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום בברנאבאו ממתין לך",
+      "body": "מדריד נגד ארסנל בליגת האלופות. חוו את הקסם, השאדות, הגולים. הכרטיס שלך לחלום ממתין.",
+      "cta": "קנה כרטיס עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "מדריד נגד ארסנל בליגת האלופות. חוו את הקסם, השאדות, הגולים. הכרטיס שלך לחלום ממתין.",
+          "headline": "חלום בברנאבאו ממתין לך",
+          "description": "קנה כרטיס עכשיו"
+        },
+        "instagram": {
+          "caption": "חלום בברנאבאו ממתין לך\n\nמדריד נגד ארסנל בליגת האלופות. חוו את הקסם, השאדות, הגולים. הכרטיס שלך לחלום ממתין.\n\nקנה כרטיס עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "מדריד מול ארסנל | 18.4.2026",
+      "body": "ליגת האלופות. מדריד נוגד ארסנל. אצטדיון סנטיאגו ברנאבאו. תאריך: 18 באפריל 2026. כרטיסים זמינים.",
+      "cta": "הזמן עכשיו",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "ליגת האלופות. מדריד נוגד ארסנל. אצטדיון סנטיאגו ברנאבאו. תאריך: 18 באפריל 2026. כרטיסים זמינים.",
+          "headline": "מדריד מול ארסנל | 18.4.2026",
+          "description": "הזמן עכשיו"
+        },
+        "instagram": {
+          "caption": "מדריד מול ארסנל | 18.4.2026\n\nליגת האלופות. מדריד נוגד ארסנל. אצטדיון סנטיאגו ברנאבאו. תאריך: 18 באפריל 2026. כרטיסים זמינים.\n\nהזמן עכשיו"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "מהר! מקומות נגמרים",
+      "body": "מדריד מול ארסנל — הכרטיסים הולכים במהירות. ברנאבאו חכה להם. אל תפספס את ההזדמנות!",
+      "cta": "בטח כרטיס היום",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "מדריד מול ארסנל — הכרטיסים הולכים במהירות. ברנאבאו חכה להם. אל תפספס את ההזדמנות!",
+          "headline": "מהר! מקומות נגמרים",
+          "description": "בטח כרטיס היום"
+        },
+        "instagram": {
+          "caption": "מהר! מקומות נגמרים\n\nמדריד מול ארסנל — הכרטיסים הולכים במהירות. ברנאבאו חכה להם. אל תפספס את ההזדמנות!\n\nבטח כרטיס היום"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "matchKey": "real_madrid__arsenal__champions_league__2026-04-18",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Arsenal",
+    "competition": "Champions League",
+    "date": "2026-04-18",
+    "stadium": "סנטיאגו ברנאבאו",
+    "currency": "EUR",
+    "generatedAt": "2026-03-19T11:46:08.171Z",
+    "recommendations": [],
+    "heatScore": 87,
+    "suggestedBudget": 225,
+    "eventName": "Real Madrid vs Arsenal"
+  },
+  "images": [
+    {
+      "style": "רגשית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_רגשית_post.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_רגשית_story.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_רגשית_square.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_מידעית_post.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_מידעית_story.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_מידעית_square.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_דחיפות_post.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_דחיפות_story.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_דחיפות_square.jpg"
+    }
+  ],
+  "selectedImageIndex": 0,
+  "approvedAt": "2026-03-19T11:46:08.170Z",
+  "selectedVersion": 1,
+  "selectedAd": {
+    "index": 1,
+    "style": "רגשית",
+    "headline": "חלום בברנאבאו ממתין לך",
+    "body": "מדריד נגד ארסנל בליגת האלופות. חוו את הקסם, השאדות, הגולים. הכרטיס שלך לחלום ממתין.",
+    "cta": "קנה כרטיס עכשיו",
+    "meta": {
+      "style": "רגשית",
+      "facebook": {
+        "primary_text": "מדריד נגד ארסנל בליגת האלופות. חוו את הקסם, השאדות, הגולים. הכרטיס שלך לחלום ממתין.",
+        "headline": "חלום בברנאבאו ממתין לך",
+        "description": "קנה כרטיס עכשיו"
+      },
+      "instagram": {
+        "caption": "חלום בברנאבאו ממתין לך\n\nמדריד נגד ארסנל בליגת האלופות. חוו את הקסם, השאדות, הגולים. הכרטיס שלך לחלום ממתין.\n\nקנה כרטיס עכשיו"
+      }
+    }
+  },
+  "budgetRecommendation": {
+    "eventName": "Real Madrid vs Arsenal",
+    "heatScore": 87,
+    "recommendedDailyBudget": 300,
+    "expectedROAS": null,
+    "recommendedDuration": 14,
+    "recommendedTargeting": "broad_prospecting",
+    "totalEstimatedBudget": 4200,
+    "daysUntilGame": 30
+  },
+  "publishedAt": "2026-03-19T11:46:25.026Z",
+  "campaignId": "120242335918950479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242335918950479"
+}

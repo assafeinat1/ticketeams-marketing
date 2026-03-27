@@ -1,0 +1,44 @@
+{
+  "intelligence": {
+    "corrections": [],
+    "preferences": [],
+    "lastUpdated": null
+  },
+  "finance": {
+    "corrections": [],
+    "preferences": [],
+    "lastUpdated": null
+  },
+  "creative": {
+    "corrections": [],
+    "preferences": [
+      {
+        "category": "text_length",
+        "detail": "תקצר את הטקסט של המודעה הקודמת",
+        "timestamp": "2026-03-19T14:07:00.074Z",
+        "preference": "shorter"
+      }
+    ],
+    "lastUpdated": "2026-03-19T14:07:00.074Z"
+  },
+  "scout": {
+    "corrections": [],
+    "preferences": [],
+    "lastUpdated": null
+  },
+  "cmo": {
+    "corrections": [],
+    "preferences": [],
+    "lastUpdated": null
+  },
+  "meta": {
+    "corrections": [],
+    "preferences": [],
+    "lastUpdated": null
+  },
+  "orchestrator": {
+    "corrections": [],
+    "preferences": [],
+    "lastUpdated": null
+  }
+}

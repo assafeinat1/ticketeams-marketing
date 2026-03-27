@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "partialSuccess": true,
+  "matchKey": "Real_Madrid__Arsenal__Champions_League__2026-03-19",
+  "campaignId": "120242342310560479",
+  "campaignName": "Real Madrid נגד Arsenal | לידים - 19.03.26",
+  "adSets": [],
+  "imageHashes": {
+    "feed": "3ef396aa00969ecade08173942926e98",
+    "story": "403c16c5fc363c49ebfab0ea674c1f89"
+  },
+  "status": "PAUSED",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242342310560479",
+  "warnings": [
+    "Ad set \"lookalike_purchase_1pct/feed\" failed: Meta API error (code 100): Invalid parameter",
+    "Ad set \"lookalike_purchase_1pct/story\" failed: Meta API error (code 100): Invalid parameter",
+    "Ad set \"retargeting_site_visitors_30d/feed\" failed: Meta API error (code 100): Invalid parameter",
+    "Ad set \"retargeting_site_visitors_30d/story\" failed: Meta API error (code 100): Invalid parameter",
+    "Ad set \"retargeting_fb_engagement/feed\" failed: Meta API error (code 100): Invalid parameter",
+    "Ad set \"retargeting_fb_engagement/story\" failed: Meta API error (code 100): Invalid parameter",
+    "Ad creative/ad creation skipped — pagePostPublish feature flag is off. Campaign + Ad Sets created. Enable page permissions to create full ads."
+  ],
+  "createdAt": "2026-03-19T15:12:30.050Z",
+  "lastStatusCheck": "2026-03-24T04:00:04.417Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pending-1774318500038",
+  "status": "pending",
+  "createdAt": "2026-03-24T02:15:00.038Z",
+  "decision": {
+    "type": "CREATE_CAMPAIGN",
+    "requiresApproval": true,
+    "priority": "high",
+    "event": {
+      "homeTeam": "ארסנל",
+      "awayTeam": "פולהאם",
+      "score": 65,
+      "tier": "onFire",
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "eventDate": "2026-05-02"
+    },
+    "existingCampaign": null,
+    "suggestedAction": {
+      "action": "create_campaign",
+      "matchKey": "ארסנל__פולהאם__unknown__",
+      "suggestedBudgetILS": 300,
+      "targeting": "broad_prospecting",
+      "reasoning": "Heat 65 (onFire) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+    },
+    "classification": "approval_required"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "matchKey": "Real_Madrid__Arsenal__Champions_League_Quarter-Final__2026-03-17",
+  "createdAt": "2026-03-17T10:00:42.397Z",
+  "status": "אושר",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום בברנאבאו",
+      "body": "כשמלך הספורט פוגש בגוונים זהובים. חוויה שתהיה לך בלב לנצח. הכרטיס שלך לחלום.",
+      "cta": "הזמן עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "כשמלך הספורט פוגש בגוונים זהובים. חוויה שתהיה לך בלב לנצח. הכרטיס שלך לחלום.",
+          "headline": "חלום בברנאבאו",
+          "description": "הזמן עכשיו"
+        },
+        "instagram": {
+          "caption": "חלום בברנאבאו\n\nכשמלך הספורט פוגש בגוונים זהובים. חוויה שתהיה לך בלב לנצח. הכרטיס שלך לחלום.\n\nהזמן עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "מדריד נגד ארסנל • רבע גמר",
+      "body": "תאריך: 17 במרץ 2026 | מקום: סנטיאגו ברנאבאו | תחרות: ליגת האלופות | כרטיסים זמינים.",
+      "cta": "קנה כרטיס",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "תאריך: 17 במרץ 2026 | מקום: סנטיאגו ברנאבאו | תחרות: ליגת האלופות | כרטיסים זמינים.",
+          "headline": "מדריד נגד ארסנל • רבע גמר",
+          "description": "קנה כרטיס"
+        },
+        "instagram": {
+          "caption": "מדריד נגד ארסנל • רבע גמר\n\nתאריך: 17 במרץ 2026 | מקום: סנטיאגו ברנאבאו | תחרות: ליגת האלופות | כרטיסים זמינים.\n\nקנה כרטיס"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "⏰ הכרטיסים נגמרים!",
+      "body": "מדריד מול ארסנל בברנאבאו • רבע גמר • 17.3.2026 | מקומות מוגבלים בלבד. אל תיפול החוצה.",
+      "cta": "בטל עכשיו",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "מדריד מול ארסנל בברנאבאו • רבע גמר • 17.3.2026 | מקומות מוגבלים בלבד. אל תיפול החוצה.",
+          "headline": "⏰ הכרטיסים נגמרים!",
+          "description": "בטל עכשיו"
+        },
+        "instagram": {
+          "caption": "⏰ הכרטיסים נגמרים!\n\nמדריד מול ארסנל בברנאבאו • רבע גמר • 17.3.2026 | מקומות מוגבלים בלבד. אל תיפול החוצה.\n\nבטל עכשיו"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "matchKey": "real_madrid__arsenal__champions_league_quarter-final__2026-03-17",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Arsenal",
+    "competition": "Champions League Quarter-Final",
+    "date": "2026-03-17",
+    "stadium": "סנטיאגו ברנאבאו",
+    "currency": "EUR",
+    "generatedAt": "2026-03-17T10:00:22.009Z",
+    "recommendations": [],
+    "heatScore": 87,
+    "suggestedBudget": 225
+  },
+  "images": [
+    {
+      "style": "רגשית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_רגשית_post.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_רגשית_story.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_רגשית_square.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_מידעית_post.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_מידעית_story.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_מידעית_square.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_דחיפות_post.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_דחיפות_story.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-17/Real-Madrid_Arsenal_2026-03-17_דחיפות_square.jpg"
+    }
+  ],
+  "approvedAt": "2026-03-18T20:21:12.260Z",
+  "selectedVersion": 2,
+  "selectedAd": {
+    "index": 2,
+    "style": "מידעית",
+    "headline": "מדריד נגד ארסנל • רבע גמר",
+    "body": "תאריך: 17 במרץ 2026 | מקום: סנטיאגו ברנאבאו | תחרות: ליגת האלופות | כרטיסים זמינים.",
+    "cta": "קנה כרטיס",
+    "meta": {
+      "style": "מידעית",
+      "facebook": {
+        "primary_text": "תאריך: 17 במרץ 2026 | מקום: סנטיאגו ברנאבאו | תחרות: ליגת האלופות | כרטיסים זמינים.",
+        "headline": "מדריד נגד ארסנל • רבע גמר",
+        "description": "קנה כרטיס"
+      },
+      "instagram": {
+        "caption": "מדריד נגד ארסנל • רבע גמר\n\nתאריך: 17 במרץ 2026 | מקום: סנטיאגו ברנאבאו | תחרות: ליגת האלופות | כרטיסים זמינים.\n\nקנה כרטיס"
+      }
+    }
+  },
+  "selectedImageIndex": 0
+}

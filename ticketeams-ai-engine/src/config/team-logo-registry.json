@@ -1,0 +1,142 @@
+{
+  "_comment": "Team logo registry — maps team keys to local file + Canva asset info",
+  "teams": {
+    "arsenal": {
+      "local": "arsenal.png",
+      "canva_id": "MAGXenJOPDU",
+      "canva_uuid": "a99d1c35-a722-441e-b1c4-6ee537e4c1e5"
+    },
+    "chelsea": {
+      "local": "chelsea.png",
+      "canva_id": "MAGXetVRPIU"
+    },
+    "liverpool": {
+      "local": "liverpool.png",
+      "canva_id": "MAGCvqFqHJU"
+    },
+    "man_city": {
+      "local": "man_city.png",
+      "canva_id": "MAGCvhN2BZA"
+    },
+    "man_utd": {
+      "local": "man_utd.png",
+      "canva_id": "MAGXe1iVxEU"
+    },
+    "tottenham": {
+      "local": "tottenham.png",
+      "canva_id": "MAGXfXkwPXA"
+    },
+    "barcelona": {
+      "local": "barcelona.png",
+      "canva_id": "MAGCvK6Aw1Q"
+    },
+    "real_madrid": {
+      "local": "real_madrid.png",
+      "canva_id": "MAGCvxkMEJQ",
+      "canva_uuid": "7e639f73-b21e-4d19-b872-be4a9c26edaf"
+    },
+    "atletico": {
+      "local": "atletico.png",
+      "canva_id": "MAGXfMDaWd0"
+    },
+    "real_sociedad": {
+      "local": "real_sociedad.png"
+    },
+    "celta_vigo": {
+      "local": "celta_vigo.png"
+    },
+    "bayern": {
+      "local": "bayern.png",
+      "canva_id": "MAGCvrU2-rM"
+    },
+    "dortmund": {
+      "local": "dortmund.png",
+      "canva_id": "MAGXfGelB6Q"
+    },
+    "frankfurt": {
+      "local": "frankfurt.png"
+    },
+    "rb_salzburg": {
+      "local": "rb_salzburg.png"
+    },
+    "juventus": {
+      "local": "juventus.png",
+      "canva_id": "MAGXe4gTKnY"
+    },
+    "milan": {
+      "local": "milan.png",
+      "canva_id": "MAGXe7TQ2Zk"
+    },
+    "inter": {
+      "local": "inter.png",
+      "canva_id": "MAGXfB0XCYk"
+    },
+    "napoli": {
+      "local": null,
+      "canva_id": "MAG7qU1uZj4",
+      "canva_uuid": "3edbb0ee-6aa9-44ff-a7af-08f64cae9ba7"
+    },
+    "psg": {
+      "local": "psg.png",
+      "canva_id": "MAGCvmGvAnU"
+    },
+    "benfica": {
+      "local": "benfica.png",
+      "canva_id": "MAGXfuawDcI"
+    },
+    "newcastle": {
+      "local": null,
+      "canva_id": "MAG4qtbbKJ4",
+      "canva_uuid": "034579f5-fc8b-4396-80f6-7aeeac5767f2"
+    },
+    "brighton": {
+      "local": null,
+      "canva_id": "MAG4qlbbIRk",
+      "canva_uuid": "142b45d2-025a-4732-957a-b7ce105e9ede"
+    },
+    "crystal_palace": {
+      "local": null,
+      "canva_id": "MAG4qpcZiog",
+      "canva_uuid": "f4aad2d0-5f4d-4376-8a1a-6b986c244cdb"
+    },
+    "nottingham_forest": {
+      "local": null,
+      "canva_id": "MAG4qmqBbFQ",
+      "canva_uuid": "ec0527c2-ff06-46ea-b2d1-1921ed887e34"
+    },
+    "aston_villa": {
+      "local": null,
+      "canva_id": "MAG4qi8_OPQ",
+      "canva_uuid": "c79ea966-474a-4d76-91f6-68c9d253c938"
+    },
+    "fc_copenhagen": {
+      "local": null,
+      "canva_id": "MAG7qQGLHdQ",
+      "canva_uuid": "24912f0e-f96e-48ef-a2c5-1cc7d208b8e5"
+    },
+    "as_monaco": {
+      "local": null,
+      "canva_id": "MAG7qcM3Jf8",
+      "canva_uuid": "9407f594-92cd-45d0-81b8-6402aab8038f"
+    }
+  },
+  "competitions": {
+    "champions_league": {
+      "local": "competition_champions_league.png",
+      "canva_id": "MAGxvVp5q9U",
+      "canva_uuid": "5e10990f-647b-4749-b7a9-635a1ff9443f"
+    },
+    "premier_league": {
+      "local": "competition_premier_league.png"
+    },
+    "serie_a": {
+      "local": "competition_serie_a.png"
+    },
+    "europa_league": {
+      "local": "competition_europa_league.png"
+    },
+    "bundesliga": {
+      "local": "competition_bundesliga.png"
+    }
+  }
+}

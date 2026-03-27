@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "partialSuccess": true,
+  "matchKey": "Barcelona__Real_Madrid__La_Liga__2026-05-10",
+  "campaignId": "120242354304220479",
+  "campaignName": "Barcelona נגד Real Madrid | לידים - 10.05.26",
+  "adSets": [
+    {
+      "adSetId": "120242354305030479",
+      "audienceKey": "lookalike_site_visitors_1pct",
+      "format": "feed",
+      "name": "Barcelona נגד Real Madrid | לידים - דומה (1%) - ביקורים באתר 30 יום - Feed - 10.05.26"
+    },
+    {
+      "adSetId": "120242354305810479",
+      "audienceKey": "lookalike_site_visitors_1pct",
+      "format": "story",
+      "name": "Barcelona נגד Real Madrid | לידים - דומה (1%) - ביקורים באתר 30 יום - Story - 10.05.26"
+    },
+    {
+      "adSetId": "120242354306970479",
+      "audienceKey": "retargeting_site_visitors_30d",
+      "format": "feed",
+      "name": "Barcelona נגד Real Madrid | לידים - ביקורים באתר 30 יום - Feed - 10.05.26"
+    },
+    {
+      "adSetId": "120242354308550479",
+      "audienceKey": "retargeting_site_visitors_30d",
+      "format": "story",
+      "name": "Barcelona נגד Real Madrid | לידים - ביקורים באתר 30 יום - Story - 10.05.26"
+    }
+  ],
+  "imageHashes": {
+    "feed": null,
+    "story": null
+  },
+  "status": "PAUSED",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242354304220479",
+  "warnings": [
+    "Ad creative/ad creation skipped — pagePostPublish feature flag is off. Campaign + Ad Sets created. Enable page permissions to create full ads."
+  ],
+  "createdAt": "2026-03-19T18:04:23.433Z",
+  "mondayItemId": "2791308340",
+  "mondayBoardId": 5046543095,
+  "lastStatusCheck": "2026-03-24T04:00:01.998Z"
+}

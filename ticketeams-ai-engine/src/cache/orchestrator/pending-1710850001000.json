@@ -1,0 +1,19 @@
+{
+  "id": "pending-1710850001000",
+  "status": "pending",
+  "createdAt": "2026-03-19T10:01:00.000Z",
+  "decision": {
+    "type": "PAUSE_CAMPAIGN",
+    "priority": "critical",
+    "campaign": {
+      "name": "Liverpool vs Everton — Leads",
+      "roas": 0.4,
+      "adSpend": 500
+    },
+    "suggestedAction": {
+      "action": "PAUSE_CAMPAIGN",
+      "reasoning": "ROAS 0.4x — far below 1.0 threshold, spending ₪500/day with negative returns",
+      "campaignId": "meta_campaign_123"
+    }
+  }
+}

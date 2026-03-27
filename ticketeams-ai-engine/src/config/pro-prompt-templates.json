@@ -1,0 +1,75 @@
+{
+  "_description": "10 curated pro prompt templates for Ticketeams image generation. Inspired by nano-banana prompt library patterns: detailed camera, specific lighting, atmosphere keywords, quality tags, negative prompts.",
+  "templates": [
+    {
+      "id": "epl_stadium_sunset",
+      "category": "stadium",
+      "tags": ["epl", "premier-league", "england", "sunset", "golden-hour"],
+      "prompt": "Hyper-realistic cinematic wide-angle photograph of a packed English Premier League football stadium at golden hour. 80,000 fans filling every seat, emerald green pitch under warm sunset light. Dramatic volumetric god rays streaming through the open roof, long shadows across the stands. Low camera angle from pitch level looking up at the towering stands. Warm orange and pink sky gradient fading to deep blue. Stadium floodlights beginning to glow against the twilight. Shallow depth of field on the nearest fans, deep focus on the far stand. Shot on ARRI Alexa 65, 14mm ultra-wide lens, f/2.8 aperture. Cinematic color grading with warm amber highlights and cool blue shadows. 8K UHD, photorealistic, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, overlays, branding, signs with words, people in foreground, blurry, low quality, cartoon, illustration, drawing"
+    },
+    {
+      "id": "ucl_night_epic",
+      "category": "stadium",
+      "tags": ["ucl", "champions-league", "night", "epic", "premium"],
+      "prompt": "Ultra-realistic cinematic photograph of a UEFA Champions League night at a legendary European football stadium. The pitch glows brilliant green under powerful white floodlights against a deep navy night sky. Packed terraces with 70,000 fans creating a wall of color. Dramatic rim lighting on the stadium roof structure, volumetric light beams cutting through subtle mist rising from the pitch. Low-angle hero shot from behind one goal, looking across the full length of the field. Deep blue and silver color palette with warm amber accent lighting on VIP sections. Shot on RED V-RAPTOR, 24mm anamorphic lens, cinematic 2.39:1 aspect ratio. Ultra-detailed texture on grass blades and seat rows. 8K HDR, photorealistic, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, overlays, branding, people in foreground, blurry, low quality, cartoon, illustration"
+    },
+    {
+      "id": "laliga_mediterranean",
+      "category": "stadium",
+      "tags": ["laliga", "spain", "barcelona", "madrid", "warm"],
+      "prompt": "Photorealistic cinematic aerial-tilt photograph of a Spanish La Liga football stadium during a warm Mediterranean evening. Deep orange and magenta sunset sky with wispy clouds above the open-air arena. Packed stands of 90,000 fans, the pitch a vivid green carpet under mixed natural and artificial light. Warm golden hour glow on the white concrete facade, long dramatic shadows. Camera positioned high above one corner flag, tilted down at 30 degrees showing the full bowl. Rich warm color grading: terracotta, burnt sienna, deep gold highlights. Subtle heat haze rising from the sunlit stands. Shot on Phase One IQ4 150MP, 50mm lens, f/4, medium depth of field. 8K UHD, cinematic film grain, photorealistic, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, overlays, branding, people in foreground, blurry, low quality, cartoon, illustration, rain"
+    },
+    {
+      "id": "ucl_trophy_spotlight",
+      "category": "trophy",
+      "tags": ["ucl", "champions-league", "trophy", "luxury", "dark"],
+      "prompt": "Hyper-realistic product photograph of the UEFA Champions League trophy (Big Ears) on a polished black marble pedestal. Single dramatic spotlight from above creating a cone of volumetric light through subtle smoke. The silver trophy gleams with sharp specular highlights and soft reflections on the marble surface. Deep black background fading to pure darkness. Blue-silver color palette with hints of warm gold in the reflections. Extreme detail on the engraved handles and metal texture. Floating dust particles catching the light. Shot on Hasselblad H6D-400c, 120mm macro lens, f/5.6, razor-sharp focus. Studio lighting with one key light and subtle fill. 8K UHD, photorealistic, luxury feel, no text, no logos, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, people, hands, blurry, low quality, cartoon, illustration, bright background"
+    },
+    {
+      "id": "celebration_confetti",
+      "category": "trophy",
+      "tags": ["celebration", "confetti", "victory", "gold", "party"],
+      "prompt": "Ultra-realistic cinematic photograph of a massive football victory celebration moment. Golden and silver confetti frozen mid-air in a dense shower, backlit by powerful stadium floodlights creating dramatic rim lighting on each piece. Blurred out-of-focus crowd in warm amber tones behind. Pyrotechnic sparklers and golden firework sparks scattered throughout the frame. Shallow depth of field with confetti sharp in the mid-ground, everything else in creamy bokeh. Warm gold and deep purple color grading. Volumetric light beams cutting through the confetti cloud. Shot on Canon EOS R5, 85mm f/1.2, high-speed capture at 1/2000s. Cinematic lens flare from stadium lights. 8K UHD, photorealistic, euphoric atmosphere, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, recognizable faces, specific team colors, blurry, low quality, cartoon, illustration"
+    },
+    {
+      "id": "london_skyline_night",
+      "category": "city",
+      "tags": ["london", "england", "skyline", "night", "epl"],
+      "prompt": "Cinematic ultra-wide photograph of the London skyline at blue hour, shot from across the Thames. Tower Bridge and The Shard glowing against a deep indigo sky with the last traces of sunset on the horizon. City lights reflected as golden streaks on the calm river surface. Distant Wembley Stadium arch faintly visible, lit in white against the sky. Cool blue-teal shadows contrasting with warm amber city lights. Low camera angle at water level, leading lines from the river toward the skyline. Atmospheric haze softening distant buildings. Shot on Sony A1, 35mm f/1.4, panoramic stitch. Cinematic color grading: teal and orange complementary palette. 8K UHD, photorealistic, moody and premium atmosphere, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, people, cars in foreground, blurry, low quality, cartoon, illustration, daytime"
+    },
+    {
+      "id": "barcelona_golden_hour",
+      "category": "city",
+      "tags": ["barcelona", "spain", "skyline", "golden-hour", "laliga"],
+      "prompt": "Photorealistic cinematic photograph of Barcelona cityscape at golden hour, viewed from Montjuic hill. The Mediterranean Sea shimmers gold and copper in the background. Sagrada Familia towers catching the last warm light, Camp Nou stadium visible in the mid-ground surrounded by the city grid. Warm terracotta rooftops stretching to the coastline. Rich golden light painting everything in honey and amber tones. Atmospheric perspective creating layers of depth. Shot on Fujifilm GFX 100S, 80mm f/2.8, medium format for extreme detail. Velvia-inspired color grading: saturated warm tones, deep shadows. Subtle lens flare from the setting sun. 8K UHD, photorealistic, warm Mediterranean atmosphere, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, people in foreground, cars, blurry, low quality, cartoon, illustration, cold tones, rain"
+    },
+    {
+      "id": "concert_arena_epic",
+      "category": "concert",
+      "tags": ["concert", "arena", "stage", "lights", "event"],
+      "prompt": "Hyper-realistic cinematic photograph of an epic indoor arena concert from the crowd's perspective. Massive LED stage screen displaying abstract geometric patterns in pink, orange, and purple. Powerful laser beams in magenta and cyan cutting through thick theatrical haze. 20,000 silhouetted fans with arms raised, backlit by the stage. Confetti cannons mid-burst. Low camera angle from the crowd, looking up at the elevated stage. Volumetric fog catching colored light beams. Rich saturated color palette: hot pink, electric orange, deep purple. Shot on Sony FX6, 16mm f/2.0, cinematic 2.39:1 widescreen. Motion blur on the laser beams, sharp focus on stage structure. 8K UHD, photorealistic, electric atmosphere, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, recognizable faces, specific band names, blurry overall, low quality, cartoon, illustration"
+    },
+    {
+      "id": "festival_outdoor_sunset",
+      "category": "concert",
+      "tags": ["festival", "outdoor", "sunset", "crowd", "event"],
+      "prompt": "Ultra-realistic cinematic photograph of a massive outdoor music festival at sunset. Tens of thousands of people stretching to the horizon, silhouetted against a blazing orange and magenta sky. Giant festival stage with towering LED panels glowing in the distance. Dust particles and fog catching the low sun's rays, creating golden volumetric light shafts. Festival flags and banners swaying in the breeze. Wide-angle establishing shot capturing the epic scale. Warm amber and deep crimson color grading with cool purple shadows. Shot on ARRI Alexa Mini, 21mm Cooke S7/i anamorphic lens, cinematic flare. Shallow foreground bokeh transitioning to sharp mid-ground crowd detail. 8K UHD, photorealistic, euphoric golden hour atmosphere, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, recognizable faces, specific artist names, blurry, low quality, cartoon, illustration, nighttime"
+    },
+    {
+      "id": "wc_fifa_global",
+      "category": "world-cup",
+      "tags": ["world-cup", "fifa", "mundial", "global", "premium"],
+      "prompt": "Hyper-realistic cinematic photograph of a FIFA World Cup atmosphere. A colossal modern football stadium seen from a dramatic low aerial angle at twilight, with the retractable roof partially open revealing a deep blue sky scattered with stars. The stadium exterior glows with slowly shifting LED panels in blue and gold. Thousands of fans streaming toward the entrances, creating rivers of light from their phones. Giant FIFA World Cup trophy hologram projected above the stadium in golden light. Firework trails and sparklers in the sky. Premium luxury atmosphere. Shot on RED V-RAPTOR 8K VV, 35mm Panavision Ultra Vista anamorphic lens, cinematic 2.76:1 ultra-widescreen. Rich midnight blue and warm gold color grading. Volumetric atmospheric haze. 8K UHD, photorealistic, epic and monumental scale, no text, no logos, no overlays, no watermarks.",
+      "negativePrompt": "text, logos, watermarks, specific team flags, recognizable faces, blurry, low quality, cartoon, illustration, daytime, small venue"
+    }
+  ]
+}

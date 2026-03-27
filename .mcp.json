@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest"
+      ]
+    },
+    "skill-factory": {
+      "command": "/Users/assafeinat/anati gravity/skills/skill-factory/.venv/bin/python",
+      "args": [
+        "/Users/assafeinat/anati gravity/skills/skill-factory/server.py"
+      ]
+    },
+    "stitch": {
+      "command": "node",
+      "args": [
+        "/Users/assafeinat/anati gravity/mcp-servers/stitch/server.js"
+      ],
+      "env": {
+        "STITCH_API_KEY": "AQ.Ab8RN6JuesGUAD-XJRm1C6NX_QtLzJvKmp9nBSYE8JWWzAGvNg"
+      }
+    }
+  }
+}

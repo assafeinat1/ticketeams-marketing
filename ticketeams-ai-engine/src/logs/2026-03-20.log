@@ -1,0 +1,2 @@
+{"ts":"2026-03-20T13:05:48.749Z","level":"warn","agent":"orchestrator","action":"dailySummary","message":"SMTP not configured — summary: 81 scanned, 62 hot, 0 decisions, 8 campaigns, token: 55.1 days remaining"}
+{"ts":"2026-03-20T13:07:09.190Z","level":"warn","agent":"orchestrator","action":"alertEmail","message":"SMTP not configured — alert: מודעה לא רצה — 0 חשיפות אחרי 6 שעות"}

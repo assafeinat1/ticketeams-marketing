@@ -1,0 +1,31 @@
+{
+  "id": "pending-1774318500036",
+  "status": "pending",
+  "createdAt": "2026-03-24T02:15:00.036Z",
+  "decision": {
+    "type": "CREATE_CAMPAIGN",
+    "requiresApproval": true,
+    "priority": "medium",
+    "event": {
+      "homeTeam": "מילאן",
+      "awayTeam": "אטאלנטה",
+      "score": 60,
+      "tier": "hot",
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "eventDate": "2026-05-10"
+    },
+    "existingCampaign": null,
+    "suggestedAction": {
+      "action": "create_campaign",
+      "matchKey": "מילאן__אטאלנטה__unknown__",
+      "suggestedBudgetILS": 225,
+      "targeting": "broad_prospecting",
+      "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+    },
+    "classification": "approval_required"
+  }
+}

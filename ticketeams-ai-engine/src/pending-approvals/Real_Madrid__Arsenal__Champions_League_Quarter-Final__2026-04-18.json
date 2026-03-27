@@ -1,0 +1,121 @@
+{
+  "matchKey": "Real_Madrid__Arsenal__Champions_League_Quarter-Final__2026-04-18",
+  "createdAt": "2026-03-24T12:35:20.595Z",
+  "status": "ממתין לאישור",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום בברנאבאו ממתין לך",
+      "body": "מדריד נגד ארסנל, רבע גמר אלופות. לילה קסום בגדול. הכרטיס שלך לחלום.",
+      "cta": "קנה כרטיס עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "מדריד נגד ארסנל, רבע גמר אלופות. לילה קסום בגדול. הכרטיס שלך לחלום.",
+          "headline": "חלום בברנאבאו ממתין לך",
+          "description": "קנה כרטיס עכשיו"
+        },
+        "instagram": {
+          "caption": "חלום בברנאבאו ממתין לך\n\nמדריד נגד ארסנל, רבע גמר אלופות. לילה קסום בגדול. הכרטיס שלך לחלום.\n\nקנה כרטיס עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "רבע גמר אלופות: 18 באפריל",
+      "body": "מדריד (Madrid) נגד ארסנל (Arsenal). אצטדיון סנטיאגו ברנאבאו. לילה היסטורי בחצי הגמר.",
+      "cta": "בחר מושב שלך",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "מדריד (Madrid) נגד ארסנל (Arsenal). אצטדיון סנטיאגו ברנאבאו. לילה היסטורי בחצי הגמר.",
+          "headline": "רבע גמר אלופות: 18 באפריל",
+          "description": "בחר מושב שלך"
+        },
+        "instagram": {
+          "caption": "רבע גמר אלופות: 18 באפריל\n\nמדריד (Madrid) נגד ארסנל (Arsenal). אצטדיון סנטיאגו ברנאבאו. לילה היסטורי בחצי הגמר.\n\nבחר מושב שלך"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "כרטיסים נגמרים במהירות!",
+      "body": "מדריד ארסנל ברבע הגמר. 18 באפריל בברנאבאו. אל תישאר בחוץ — הזמן בעד הקשת.",
+      "cta": "זמן עכשיו",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "מדריד ארסנל ברבע הגמר. 18 באפריל בברנאבאו. אל תישאר בחוץ — הזמן בעד הקשת.",
+          "headline": "כרטיסים נגמרים במהירות!",
+          "description": "זמן עכשיו"
+        },
+        "instagram": {
+          "caption": "כרטיסים נגמרים במהירות!\n\nמדריד ארסנל ברבע הגמר. 18 באפריל בברנאבאו. אל תישאר בחוץ — הזמן בעד הקשת.\n\nזמן עכשיו"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "matchKey": "real_madrid__arsenal__champions_league_quarter-final__2026-04-18",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Arsenal",
+    "competition": "Champions League Quarter-Final",
+    "date": "2026-04-18",
+    "stadium": "סנטיאגו ברנאבאו",
+    "currency": "EUR",
+    "generatedAt": "2026-03-24T12:35:05.770Z",
+    "recommendations": [],
+    "heatScore": 87,
+    "suggestedBudget": 300
+  },
+  "images": [
+    {
+      "style": "רגשית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_רגשית_post.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_רגשית_story.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_רגשית_square.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_מידעית_post.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_מידעית_story.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_מידעית_square.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_דחיפות_post.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_דחיפות_story.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-04-18/Real-Madrid_Arsenal_2026-04-18_דחיפות_square.jpg"
+    }
+  ]
+}

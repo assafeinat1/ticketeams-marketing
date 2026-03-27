@@ -1,0 +1,3710 @@
+{
+  "date": "2026-03-19",
+  "generatedAt": "2026-03-19T16:14:46.061Z",
+  "durationMs": 87215,
+  "totalAds": 3,
+  "scoredEvents": [
+    {
+      "homeTeam": "ברצלונה",
+      "awayTeam": "ריאל מדריד",
+      "eventDate": "2026-05-10",
+      "score": 65,
+      "tier": "onFire",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + derby/rivalry"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 40,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ארסנל",
+      "awayTeam": "פולהאם",
+      "eventDate": "2026-05-02",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ארסנל",
+      "awayTeam": "ברנלי",
+      "eventDate": "2026-05-17",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "קריסטל פאלאס",
+      "awayTeam": "ארסנל",
+      "eventDate": "2026-05-24",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "צ'לסי",
+      "awayTeam": "נוטינגהאם פורסט",
+      "eventDate": "2026-05-02",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ליברפול",
+      "awayTeam": "צ'לסי",
+      "eventDate": "2026-05-09",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "צ'לסי",
+      "awayTeam": "טוטנהאם",
+      "eventDate": "2026-05-17",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ליברפול",
+      "awayTeam": "ברנטפורד",
+      "eventDate": "2026-05-24",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "מנצ'סטר סיטי",
+      "awayTeam": "ברנטפורד",
+      "eventDate": "2026-05-09",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "מנצ'סטר סיטי",
+      "awayTeam": "אסטון וילה",
+      "eventDate": "2026-05-24",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "יובנטוס",
+      "awayTeam": "פיורנטינה",
+      "eventDate": "2026-05-17",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "מילאן",
+      "awayTeam": "אטאלנטה",
+      "eventDate": "2026-05-10",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "מילאן",
+      "awayTeam": "קליארי",
+      "eventDate": "2026-05-24",
+      "score": 60,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 37,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ארסנל",
+      "awayTeam": "ניוקאסל",
+      "eventDate": "2026-04-25",
+      "score": 59,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 39,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "צ'לסי",
+      "awayTeam": "מנצ'סטר יונייטד",
+      "eventDate": "2026-04-18",
+      "score": 59,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 39,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ברצלונה",
+      "awayTeam": "סלטה ויגו",
+      "eventDate": "2026-04-22",
+      "score": 59,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 39,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ליברפול",
+      "awayTeam": "קריסטל פאלאס",
+      "eventDate": "2026-04-25",
+      "score": 59,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 39,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "יובנטוס",
+      "awayTeam": "בולוניה",
+      "eventDate": "2026-04-19",
+      "score": 59,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 39,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "מילאן",
+      "awayTeam": "יובנטוס",
+      "eventDate": "2026-04-26",
+      "score": 59,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 39,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ספורטינג ליסבון",
+      "awayTeam": "ארסנל",
+      "eventDate": "2026-04-07",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ארסנל",
+      "awayTeam": "בורנמות'",
+      "eventDate": "2026-04-11",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ארסנל",
+      "awayTeam": "ספורטינג ליסבון",
+      "eventDate": "2026-04-14",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "צ'לסי",
+      "awayTeam": "מנצ'סטר סיטי",
+      "eventDate": "2026-04-12",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "אתלטיקו מדריד",
+      "awayTeam": "ברצלונה",
+      "eventDate": "2026-04-04",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ברצלונה",
+      "awayTeam": "אתלטיקו מדריד",
+      "eventDate": "2026-04-08",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ברצלונה",
+      "awayTeam": "אספניול",
+      "eventDate": "2026-04-12",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "פריז סן ז'רמן",
+      "awayTeam": "ליברפול",
+      "eventDate": "2026-04-08",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ליברפול",
+      "awayTeam": "פולהאם",
+      "eventDate": "2026-04-11",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ליברפול",
+      "awayTeam": "פריז סן ז'רמן",
+      "eventDate": "2026-04-14",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "יובנטוס",
+      "awayTeam": "גנואה",
+      "eventDate": "2026-04-06",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "נאפולי",
+      "awayTeam": "מילאן",
+      "eventDate": "2026-04-06",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "מילאן",
+      "awayTeam": "אודינזה",
+      "eventDate": "2026-04-12",
+      "score": 55,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "מנצ'סטר סיטי",
+      "awayTeam": "ארסנל",
+      "eventDate": "2026-03-22",
+      "score": 50,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "ברצלונה",
+      "awayTeam": "ראיו ויאקאנו",
+      "eventDate": "2026-03-22",
+      "score": 50,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "מילאן",
+      "awayTeam": "טורינו",
+      "eventDate": "2026-03-21",
+      "score": 50,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 100,
+          "detail": "listed + in stock"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "rawScore": 36,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "מנצ'סטר יונייטד",
+      "awayTeam": "ליברפול",
+      "eventDate": "2026-05-02",
+      "score": 41,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + derby/rivalry"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 25,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ברייטון",
+      "awayTeam": "צ'לסי",
+      "eventDate": "2026-04-26",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "אברטון",
+      "awayTeam": "ליברפול",
+      "eventDate": "2026-04-19",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ברנלי",
+      "awayTeam": "מנצ'סטר סיטי",
+      "eventDate": "2026-04-26",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "בורוסיה דורטמונד",
+      "awayTeam": "פרייבורג",
+      "eventDate": "2026-04-26",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ספורטינג ליסבון",
+      "awayTeam": "בנפיקה",
+      "eventDate": "2026-04-19",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "בנפיקה",
+      "awayTeam": "מוריריינסה",
+      "eventDate": "2026-04-26",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "אתלטיקו מדריד",
+      "awayTeam": "ריאל סוסיאדד",
+      "eventDate": "2026-04-18",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ריאל סוסיאדד",
+      "awayTeam": "חטאפה",
+      "eventDate": "2026-04-22",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "אוגסבורג",
+      "awayTeam": "איינטרכט פרנקפורט",
+      "eventDate": "2026-04-26",
+      "score": 37,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 80,
+          "detail": "confirmed fixture + in 4-6wk ad window"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 24,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ווסטהאם יונייטד",
+      "awayTeam": "ארסנל",
+      "eventDate": "2026-05-09",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "סנדרלנד",
+      "awayTeam": "צ'לסי",
+      "eventDate": "2026-05-24",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ברצלונה",
+      "awayTeam": "ריאל בטיס",
+      "eventDate": "2026-05-17",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ולנסיה",
+      "awayTeam": "ברצלונה",
+      "eventDate": "2026-05-24",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "אסטון וילה",
+      "awayTeam": "ליברפול",
+      "eventDate": "2026-05-17",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "אברטון",
+      "awayTeam": "מנצ'סטר סיטי",
+      "eventDate": "2026-05-02",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "בורנמות'",
+      "awayTeam": "מנצ'סטר סיטי",
+      "eventDate": "2026-05-17",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "בורוסיה דורטמונד",
+      "awayTeam": "איינטרכט פרנקפורט",
+      "eventDate": "2026-05-10",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ורדר ברמן",
+      "awayTeam": "בורוסיה דורטמונד",
+      "eventDate": "2026-05-16",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "יובנטוס",
+      "awayTeam": "הלאס ורונה",
+      "eventDate": "2026-05-03",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "טורינו",
+      "awayTeam": "יובנטוס",
+      "eventDate": "2026-05-24",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "גנואה",
+      "awayTeam": "מילאן",
+      "eventDate": "2026-05-17",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "בנפיקה",
+      "awayTeam": "בראגה",
+      "eventDate": "2026-05-10",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "סביליה",
+      "awayTeam": "ריאל סוסיאדד",
+      "eventDate": "2026-05-03",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ריאל סוסיאדד",
+      "awayTeam": "ריאל בטיס",
+      "eventDate": "2026-05-10",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "ריאל סוסיאדד",
+      "awayTeam": "ולנסיה",
+      "eventDate": "2026-05-17",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "אספניול",
+      "awayTeam": "ריאל סוסיאדד",
+      "eventDate": "2026-05-24",
+      "score": 36,
+      "tier": "hot",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 89,
+          "detail": "מאי (×1.6)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 22,
+      "seasonalMultiplier": 1.6
+    },
+    {
+      "homeTeam": "בנפיקה",
+      "awayTeam": "ויטוריה גימראש",
+      "eventDate": "2026-03-22",
+      "score": 35,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 40,
+          "detail": "1 competitor site selling"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SITES",
+        "SEASON"
+      ],
+      "rawScore": 25,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "סאות'המפטון",
+      "awayTeam": "ארסנל",
+      "eventDate": "2026-04-04",
+      "score": 32,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "צ'לסי",
+      "awayTeam": "פורט וייל",
+      "eventDate": "2026-04-04",
+      "score": 32,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "מנצ'סטר סיטי",
+      "awayTeam": "ליברפול",
+      "eventDate": "2026-04-04",
+      "score": 32,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "בורוסיה דורטמונד",
+      "awayTeam": "באייר לברקוזן",
+      "eventDate": "2026-04-11",
+      "score": 32,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "אטאלנטה",
+      "awayTeam": "יובנטוס",
+      "eventDate": "2026-04-12",
+      "score": 32,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "בנפיקה",
+      "awayTeam": "נאסיונל",
+      "eventDate": "2026-04-12",
+      "score": 32,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ריאל סוסיאדד",
+      "awayTeam": "לבאנטה",
+      "eventDate": "2026-04-04",
+      "score": 32,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "ריאל סוסיאדד",
+      "awayTeam": "אלאבס",
+      "eventDate": "2026-04-12",
+      "score": 32,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 83,
+          "detail": "אפריל (×1.5)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.5
+    },
+    {
+      "homeTeam": "איטליה",
+      "awayTeam": "צפון אירלנד",
+      "eventDate": null,
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "NBA",
+      "awayTeam": "ברלין",
+      "eventDate": null,
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "NBA",
+      "awayTeam": "לונדון",
+      "eventDate": null,
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "גרנד פרי ארה\"ב",
+      "awayTeam": "אוסטין",
+      "eventDate": null,
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "אברטון",
+      "awayTeam": "צ'לסי",
+      "eventDate": "2026-03-21",
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "ברייטון",
+      "awayTeam": "ליברפול",
+      "eventDate": "2026-03-21",
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "מנצ'סטר סיטי",
+      "awayTeam": "קריסטל פאלאס (המשחק נדחה למועד שטרם נקבע)",
+      "eventDate": "2026-03-21",
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "בורוסיה דורטמונד",
+      "awayTeam": "המבורג",
+      "eventDate": "2026-03-21",
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "יובנטוס",
+      "awayTeam": "סאסולו",
+      "eventDate": "2026-03-21",
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    },
+    {
+      "homeTeam": "מיינץ 05",
+      "awayTeam": "איינטרכט פרנקפורט",
+      "eventDate": "2026-03-22",
+      "score": 29,
+      "tier": "warm",
+      "breakdown": {
+        "competitorAds": {
+          "score": 0,
+          "detail": "0 competitor ads"
+        },
+        "ourSales": {
+          "score": 0,
+          "detail": "0 orders"
+        },
+        "leagueSchedules": {
+          "score": 60,
+          "detail": "confirmed fixture"
+        },
+        "competitorWebsites": {
+          "score": 0,
+          "detail": "0 competitor sites"
+        },
+        "ourWebsite": {
+          "score": 0,
+          "detail": "not listed on site"
+        },
+        "seasonality": {
+          "score": 78,
+          "detail": "מרץ (×1.4)"
+        }
+      },
+      "activeSources": [
+        "NEW",
+        "SEASON"
+      ],
+      "rawScore": 21,
+      "seasonalMultiplier": 1.4
+    }
+  ],
+  "newCompetitorAds": [
+    {
+      "delivery_start": "2023-06-28",
+      "body": "This ad ran without a required disclaimer.",
+      "title": "This ad ran without a required disclaimer.",
+      "description": "This ad ran without a required disclaimer.",
+      "page_name": "Arena tickets -כרטיסים וחבילות לארועי ספורט בעולם",
+      "page_id": "330684977663968",
+      "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=290548753378675&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+      "match_info": {
+        "matched": false,
+        "homeTeam": null,
+        "awayTeam": null,
+        "confidence": "none",
+        "rawText": "This ad ran without a required disclaimer. This ad ran without a required disclaimer. This ad ran wi"
+      },
+      "classification": {
+        "format_type": "Stadium",
+        "reasoning": "הפרסומת אינה מכילה תוכן ממשי - היא הודעת שגיאה על חוסר כתב הסכמה נדרש. בהיעדר תוכן משמעותי, לא ניתן לסווג לקטגוריה 'Human' (אין אנשים) או 'Urgency' (אין עדויות לדחיפות). ברירת המחדל היא 'Stadium' כקטגוריה כללית.",
+        "classified_at": "2026-03-19T11:56:54.333Z"
+      }
+    },
+    {
+      "delivery_start": "2023-06-28",
+      "body": "This ad ran without a required disclaimer.",
+      "title": "This ad ran without a required disclaimer.",
+      "description": "This ad ran without a required disclaimer.",
+      "page_name": "Arena tickets -כרטיסים וחבילות לארועי ספורט בעולם",
+      "page_id": "330684977663968",
+      "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=195102073520668&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+      "match_info": {
+        "matched": false,
+        "homeTeam": null,
+        "awayTeam": null,
+        "confidence": "none",
+        "rawText": "This ad ran without a required disclaimer. This ad ran without a required disclaimer. This ad ran wi"
+      },
+      "classification": {
+        "format_type": "Stadium",
+        "reasoning": "הפרסומת אינה מכילה תוכן ממשי - היא הודעת שגיאה על חוסר כתב ויתור. לא ניתן לסווג בהתבסס על התוכן החסר, אך בהעדר אלמנטים של אנשים (Human) או דחיפות (Urgency), הסיווג הברירת המחדל הוא Stadium כקטגוריה כללית.",
+        "classified_at": "2026-03-19T11:56:56.834Z"
+      }
+    },
+    {
+      "delivery_start": "2024-09-08",
+      "body": "⚽🎷 חבילות מהסרטים לאירועי ספורט והופעות בחו\"ל רוכשים רק בטיקטיק!\nלפרטים והזמנות הקליקו 👈 https://bit.ly/44ShcvM",
+      "title": "לפרטים והזמנות הקליקו 👈",
+      "description": "",
+      "page_name": "טיקטיק חבילות ספורט והופעות  TikTik",
+      "page_id": "414396735300394",
+      "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1034630757863483&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+      "match_info": {
+        "matched": false,
+        "homeTeam": null,
+        "awayTeam": null,
+        "confidence": "none",
+        "rawText": "לפרטים והזמנות הקליקו 👈 ⚽🎷 חבילות מהסרטים לאירועי ספורט והופעות בחו\"ל רוכשים רק בטיקטיק!\nלפרטים וה"
+      },
+      "classification": {
+        "format_type": "Unknown",
+        "reasoning": "Classification error: Expected ',' or '}' after property value in JSON at position 88 (line 3 column 59)"
+      }
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "critical",
+      "event": "ברצלונה vs ריאל מדריד",
+      "action": "להתחיל קמפיין פרסומי מיידית",
+      "reason": "Heat Score 65 — 3 מקורות פעילים",
+      "date": "2026-05-10"
+    },
+    {
+      "priority": "high",
+      "event": "ארסנל vs פולהאם",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-02"
+    },
+    {
+      "priority": "high",
+      "event": "ארסנל vs ברנלי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-17"
+    },
+    {
+      "priority": "high",
+      "event": "קריסטל פאלאס vs ארסנל",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-24"
+    },
+    {
+      "priority": "high",
+      "event": "צ'לסי vs נוטינגהאם פורסט",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-02"
+    },
+    {
+      "priority": "high",
+      "event": "ליברפול vs צ'לסי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-09"
+    },
+    {
+      "priority": "high",
+      "event": "צ'לסי vs טוטנהאם",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-17"
+    },
+    {
+      "priority": "high",
+      "event": "ליברפול vs ברנטפורד",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-24"
+    },
+    {
+      "priority": "high",
+      "event": "מנצ'סטר סיטי vs ברנטפורד",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-09"
+    },
+    {
+      "priority": "high",
+      "event": "מנצ'סטר סיטי vs אסטון וילה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-24"
+    },
+    {
+      "priority": "high",
+      "event": "יובנטוס vs פיורנטינה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-17"
+    },
+    {
+      "priority": "high",
+      "event": "מילאן vs אטאלנטה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-10"
+    },
+    {
+      "priority": "high",
+      "event": "מילאן vs קליארי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 60 — מגמה עולה",
+      "date": "2026-05-24"
+    },
+    {
+      "priority": "high",
+      "event": "ארסנל vs ניוקאסל",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 59 — מגמה עולה",
+      "date": "2026-04-25"
+    },
+    {
+      "priority": "high",
+      "event": "צ'לסי vs מנצ'סטר יונייטד",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 59 — מגמה עולה",
+      "date": "2026-04-18"
+    },
+    {
+      "priority": "high",
+      "event": "ברצלונה vs סלטה ויגו",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 59 — מגמה עולה",
+      "date": "2026-04-22"
+    },
+    {
+      "priority": "high",
+      "event": "ליברפול vs קריסטל פאלאס",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 59 — מגמה עולה",
+      "date": "2026-04-25"
+    },
+    {
+      "priority": "high",
+      "event": "יובנטוס vs בולוניה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 59 — מגמה עולה",
+      "date": "2026-04-19"
+    },
+    {
+      "priority": "high",
+      "event": "מילאן vs יובנטוס",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 59 — מגמה עולה",
+      "date": "2026-04-26"
+    },
+    {
+      "priority": "high",
+      "event": "ספורטינג ליסבון vs ארסנל",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-07"
+    },
+    {
+      "priority": "high",
+      "event": "ארסנל vs בורנמות'",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-11"
+    },
+    {
+      "priority": "high",
+      "event": "ארסנל vs ספורטינג ליסבון",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-14"
+    },
+    {
+      "priority": "high",
+      "event": "צ'לסי vs מנצ'סטר סיטי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-12"
+    },
+    {
+      "priority": "high",
+      "event": "אתלטיקו מדריד vs ברצלונה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-04"
+    },
+    {
+      "priority": "high",
+      "event": "ברצלונה vs אתלטיקו מדריד",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-08"
+    },
+    {
+      "priority": "high",
+      "event": "ברצלונה vs אספניול",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-12"
+    },
+    {
+      "priority": "high",
+      "event": "פריז סן ז'רמן vs ליברפול",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-08"
+    },
+    {
+      "priority": "high",
+      "event": "ליברפול vs פולהאם",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-11"
+    },
+    {
+      "priority": "high",
+      "event": "ליברפול vs פריז סן ז'רמן",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-14"
+    },
+    {
+      "priority": "high",
+      "event": "יובנטוס vs גנואה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-06"
+    },
+    {
+      "priority": "high",
+      "event": "נאפולי vs מילאן",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-06"
+    },
+    {
+      "priority": "high",
+      "event": "מילאן vs אודינזה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 55 — מגמה עולה",
+      "date": "2026-04-12"
+    },
+    {
+      "priority": "high",
+      "event": "מנצ'סטר סיטי vs ארסנל",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 50 — מגמה עולה",
+      "date": "2026-03-22"
+    },
+    {
+      "priority": "high",
+      "event": "ברצלונה vs ראיו ויאקאנו",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 50 — מגמה עולה",
+      "date": "2026-03-22"
+    },
+    {
+      "priority": "high",
+      "event": "מילאן vs טורינו",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 50 — מגמה עולה",
+      "date": "2026-03-21"
+    },
+    {
+      "priority": "high",
+      "event": "מנצ'סטר יונייטד vs ליברפול",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 41 — מגמה עולה",
+      "date": "2026-05-02"
+    },
+    {
+      "priority": "high",
+      "event": "ברייטון vs צ'לסי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-26"
+    },
+    {
+      "priority": "high",
+      "event": "אברטון vs ליברפול",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-19"
+    },
+    {
+      "priority": "high",
+      "event": "ברנלי vs מנצ'סטר סיטי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-26"
+    },
+    {
+      "priority": "high",
+      "event": "בורוסיה דורטמונד vs פרייבורג",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-26"
+    },
+    {
+      "priority": "high",
+      "event": "ספורטינג ליסבון vs בנפיקה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-19"
+    },
+    {
+      "priority": "high",
+      "event": "בנפיקה vs מוריריינסה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-26"
+    },
+    {
+      "priority": "high",
+      "event": "אתלטיקו מדריד vs ריאל סוסיאדד",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-18"
+    },
+    {
+      "priority": "high",
+      "event": "ריאל סוסיאדד vs חטאפה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-22"
+    },
+    {
+      "priority": "high",
+      "event": "אוגסבורג vs איינטרכט פרנקפורט",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 37 — מגמה עולה",
+      "date": "2026-04-26"
+    },
+    {
+      "priority": "high",
+      "event": "ווסטהאם יונייטד vs ארסנל",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-09"
+    },
+    {
+      "priority": "high",
+      "event": "סנדרלנד vs צ'לסי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-24"
+    },
+    {
+      "priority": "high",
+      "event": "ברצלונה vs ריאל בטיס",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-17"
+    },
+    {
+      "priority": "high",
+      "event": "ולנסיה vs ברצלונה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-24"
+    },
+    {
+      "priority": "high",
+      "event": "אסטון וילה vs ליברפול",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-17"
+    },
+    {
+      "priority": "high",
+      "event": "אברטון vs מנצ'סטר סיטי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-02"
+    },
+    {
+      "priority": "high",
+      "event": "בורנמות' vs מנצ'סטר סיטי",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-17"
+    },
+    {
+      "priority": "high",
+      "event": "בורוסיה דורטמונד vs איינטרכט פרנקפורט",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-10"
+    },
+    {
+      "priority": "high",
+      "event": "ורדר ברמן vs בורוסיה דורטמונד",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-16"
+    },
+    {
+      "priority": "high",
+      "event": "יובנטוס vs הלאס ורונה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-03"
+    },
+    {
+      "priority": "high",
+      "event": "טורינו vs יובנטוס",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-24"
+    },
+    {
+      "priority": "high",
+      "event": "גנואה vs מילאן",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-17"
+    },
+    {
+      "priority": "high",
+      "event": "בנפיקה vs בראגה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-10"
+    },
+    {
+      "priority": "high",
+      "event": "סביליה vs ריאל סוסיאדד",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-03"
+    },
+    {
+      "priority": "high",
+      "event": "ריאל סוסיאדד vs ריאל בטיס",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-10"
+    },
+    {
+      "priority": "high",
+      "event": "ריאל סוסיאדד vs ולנסיה",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-17"
+    },
+    {
+      "priority": "high",
+      "event": "אספניול vs ריאל סוסיאדד",
+      "action": "להכין חומרים שיווקיים ולתזמן פרסום",
+      "reason": "Heat Score 36 — מגמה עולה",
+      "date": "2026-05-24"
+    }
+  ],
+  "sourceSummary": {
+    "competitorAds": 3,
+    "salesItems": 500,
+    "fixtures": 81,
+    "scanSuggestions": 1,
+    "marketingItems": 10
+  }
+}

@@ -1,0 +1,1645 @@
+{
+  "runType": "hot-event-check",
+  "date": "2026-03-23",
+  "timestamp": "2026-03-23T15:11:21.834Z",
+  "decisionsCount": 57,
+  "actions": [
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "ארסנל",
+          "awayTeam": "ברנלי",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-17"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "ארסנל__ברנלי__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278673904",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278673904.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "קריסטל פאלאס",
+          "awayTeam": "ארסנל",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-24"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "קריסטל_פאלאס__ארסנל__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278674885",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278674885.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "ליברפול",
+          "awayTeam": "צ'לסי",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-09"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "ליברפול__צ'לסי__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278675463",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278675463.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "צ'לסי",
+          "awayTeam": "טוטנהאם",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-17"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "צ'לסי__טוטנהאם__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278676074",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278676074.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "ליברפול",
+          "awayTeam": "ברנטפורד",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-24"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "ליברפול__ברנטפורד__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278676650",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278676650.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "מנצ'סטר סיטי",
+          "awayTeam": "ברנטפורד",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-09"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "מנצ'סטר_סיטי__ברנטפורד__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278677237",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278677237.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "מנצ'סטר סיטי",
+          "awayTeam": "אסטון וילה",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-24"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "מנצ'סטר_סיטי__אסטון_וילה__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278677830",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278677830.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "יובנטוס",
+          "awayTeam": "פיורנטינה",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-17"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "יובנטוס__פיורנטינה__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278678381",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278678381.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "מילאן",
+          "awayTeam": "אטאלנטה",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-10"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "מילאן__אטאלנטה__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278678961",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278678961.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "medium",
+        "event": {
+          "homeTeam": "מילאן",
+          "awayTeam": "קליארי",
+          "score": 60,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-24"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "מילאן__קליארי__unknown__",
+          "suggestedBudgetILS": 225,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 60 (hot) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278679546",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278679546.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ארסנל",
+          "awayTeam": "ניוקאסל",
+          "score": 59,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-25"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 59 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ברצלונה",
+          "awayTeam": "סלטה ויגו",
+          "score": 59,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-22"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 59 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ליברפול",
+          "awayTeam": "קריסטל פאלאס",
+          "score": 59,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-25"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 59 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "מילאן",
+          "awayTeam": "יובנטוס",
+          "score": 59,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-26"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 59 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ספורטינג ליסבון",
+          "awayTeam": "ארסנל",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-07"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ארסנל",
+          "awayTeam": "בורנמות'",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-11"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ארסנל",
+          "awayTeam": "ספורטינג ליסבון",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-14"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "מנצ'סטר סיטי",
+          "awayTeam": "ארסנל",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-19"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "צ'לסי",
+          "awayTeam": "מנצ'סטר סיטי",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-12"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "צ'לסי",
+          "awayTeam": "מנצ'סטר יונייטד",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-18"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "אתלטיקו מדריד",
+          "awayTeam": "ברצלונה",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-04"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ברצלונה",
+          "awayTeam": "אתלטיקו מדריד",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-08"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ברצלונה",
+          "awayTeam": "אספניול",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-12"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "פריז סן ז'רמן",
+          "awayTeam": "ליברפול",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-08"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ליברפול",
+          "awayTeam": "פולהאם",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-11"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ליברפול",
+          "awayTeam": "פריז סן ז'רמן",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-14"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "יובנטוס",
+          "awayTeam": "גנואה",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-06"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "יובנטוס",
+          "awayTeam": "בולוניה",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-19"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "נאפולי",
+          "awayTeam": "מילאן",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-06"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "מילאן",
+          "awayTeam": "אודינזה",
+          "score": 55,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-12"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 55 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "מנצ'סטר יונייטד",
+          "awayTeam": "ליברפול",
+          "score": 45,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-02"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 45 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "אברטון",
+          "awayTeam": "מנצ'סטר סיטי",
+          "score": 41,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-02"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 41 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "יובנטוס",
+          "awayTeam": "הלאס ורונה",
+          "score": 41,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-03"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 41 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "סביליה",
+          "awayTeam": "ריאל סוסיאדד",
+          "score": 41,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-03"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 41 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ברייטון",
+          "awayTeam": "צ'לסי",
+          "score": 37,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-26"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 37 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ברנלי",
+          "awayTeam": "מנצ'סטר סיטי",
+          "score": 37,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-26"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 37 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "בורוסיה דורטמונד",
+          "awayTeam": "פרייבורג",
+          "score": 37,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-26"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 37 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "בנפיקה",
+          "awayTeam": "מוריריינסה",
+          "score": 37,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-26"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 37 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ריאל סוסיאדד",
+          "awayTeam": "חטאפה",
+          "score": 37,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-22"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 37 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "אוגסבורג",
+          "awayTeam": "איינטרכט פרנקפורט",
+          "score": 37,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-04-26"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 37 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ווסטהאם יונייטד",
+          "awayTeam": "ארסנל",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-09"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "סנדרלנד",
+          "awayTeam": "צ'לסי",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-24"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ברצלונה",
+          "awayTeam": "ריאל בטיס",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-17"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ולנסיה",
+          "awayTeam": "ברצלונה",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-24"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "אסטון וילה",
+          "awayTeam": "ליברפול",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-17"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "בורנמות'",
+          "awayTeam": "מנצ'סטר סיטי",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-17"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "בורוסיה דורטמונד",
+          "awayTeam": "איינטרכט פרנקפורט",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-10"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ורדר ברמן",
+          "awayTeam": "בורוסיה דורטמונד",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-16"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "טורינו",
+          "awayTeam": "יובנטוס",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-24"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "גנואה",
+          "awayTeam": "מילאן",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-17"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "בנפיקה",
+          "awayTeam": "בראגה",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-10"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ריאל סוסיאדד",
+          "awayTeam": "ריאל בטיס",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-10"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "ריאל סוסיאדד",
+          "awayTeam": "ולנסיה",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-17"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "FLAG_IN_REPORT",
+        "requiresApproval": false,
+        "priority": "low",
+        "event": {
+          "homeTeam": "אספניול",
+          "awayTeam": "ריאל סוסיאדד",
+          "score": 36,
+          "tier": "hot",
+          "activeSources": [
+            "NEW",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-24"
+        },
+        "suggestedAction": {
+          "action": "monitor",
+          "reasoning": "Heat 36 (hot) — מנטר, אין פעולה נדרשת"
+        },
+        "classification": "auto"
+      },
+      "executedAutomatically": true,
+      "result": {
+        "logged": true
+      }
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "high",
+        "event": {
+          "homeTeam": "ארסנל",
+          "awayTeam": "פולהאם",
+          "score": 65,
+          "tier": "onFire",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-02"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "ארסנל__פולהאם__unknown__",
+          "suggestedBudgetILS": 300,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 65 (onFire) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278680122",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278680122.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "high",
+        "event": {
+          "homeTeam": "צ'לסי",
+          "awayTeam": "נוטינגהאם פורסט",
+          "score": 65,
+          "tier": "onFire",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-02"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "צ'לסי__נוטינגהאם_פורסט__unknown__",
+          "suggestedBudgetILS": 300,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 65 (onFire) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278680705",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278680705.json"
+      },
+      "executedAutomatically": false
+    },
+    {
+      "decision": {
+        "type": "CREATE_CAMPAIGN",
+        "requiresApproval": true,
+        "priority": "high",
+        "event": {
+          "homeTeam": "ברצלונה",
+          "awayTeam": "ריאל מדריד",
+          "score": 65,
+          "tier": "onFire",
+          "activeSources": [
+            "NEW",
+            "SITE",
+            "SEASON"
+          ],
+          "eventDate": "2026-05-10"
+        },
+        "existingCampaign": null,
+        "suggestedAction": {
+          "action": "create_campaign",
+          "matchKey": "ברצלונה__ריאל_מדריד__unknown__",
+          "suggestedBudgetILS": 300,
+          "targeting": "broad_prospecting",
+          "reasoning": "Heat 65 (onFire) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+        },
+        "classification": "approval_required"
+      },
+      "approvalItem": {
+        "cachedId": "pending-1774278681266",
+        "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/cache/orchestrator/pending-1774278681266.json"
+      },
+      "executedAutomatically": false
+    }
+  ]
+}

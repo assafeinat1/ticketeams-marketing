@@ -1,0 +1,318 @@
+{
+  "matchKey": "Arsenal__Newcastle__Premier_League__2026-03-19",
+  "createdAt": "2026-03-19T15:28:25.178Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום הופך למציאות בסטדיון",
+      "body": "ארסנל נגד ניוקסל — המשחק שתמיד רצית לראות. חווה את הרוח, הקול, הזעם. הכרטיס שלך לחלום ממתין.",
+      "cta": "הזמן עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "ארסנל נגד ניוקסל — המשחק שתמיד רצית לראות. חווה את הרוח, הקול, הזעם. הכרטיס שלך לחלום ממתין.",
+          "headline": "חלום הופך למציאות בסטדיון",
+          "description": "הזמן עכשיו"
+        },
+        "instagram": {
+          "caption": "חלום הופך למציאות בסטדיון\n\nארסנל נגד ניוקסל — המשחק שתמיד רצית לראות. חווה את הרוח, הקול, הזעם. הכרטיס שלך לחלום ממתין.\n\nהזמן עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "ארסנל — ניוקסל | 19.3.2026",
+      "body": "פרמיליג (Premier League). סטדיון אמירייטס. תאריך: 19 במרץ 2026. שתי קבוצות מדורגות, משחק שלא תרצה להחמיץ.",
+      "cta": "קנה כרטיס",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "פרמיליג (Premier League). סטדיון אמירייטס. תאריך: 19 במרץ 2026. שתי קבוצות מדורגות, משחק שלא תרצה להחמיץ.",
+          "headline": "ארסנל — ניוקסל | 19.3.2026",
+          "description": "קנה כרטיס"
+        },
+        "instagram": {
+          "caption": "ארסנל — ניוקסל | 19.3.2026\n\nפרמיליג (Premier League). סטדיון אמירייטס. תאריך: 19 במרץ 2026. שתי קבוצות מדורגות, משחק שלא תרצה להחמיץ.\n\nקנה כרטיס"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "הכרטיסים נגמרים מהר!",
+      "body": "ארסנל מול ניוקסל — הזדמנות מוגבלת. תאריך: 19.3.2026 בסטדיון אמירייטס. אל תחכה יותר מדי.",
+      "cta": "שמור כרטיס עכשיו",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "ארסנל מול ניוקסל — הזדמנות מוגבלת. תאריך: 19.3.2026 בסטדיון אמירייטס. אל תחכה יותר מדי.",
+          "headline": "הכרטיסים נגמרים מהר!",
+          "description": "שמור כרטיס עכשיו"
+        },
+        "instagram": {
+          "caption": "הכרטיסים נגמרים מהר!\n\nארסנל מול ניוקסל — הזדמנות מוגבלת. תאריך: 19.3.2026 בסטדיון אמירייטס. אל תחכה יותר מדי.\n\nשמור כרטיס עכשיו"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "homeTeam": "Arsenal",
+    "awayTeam": "Newcastle",
+    "competition": "Premier League",
+    "date": "2026-03-19",
+    "heatScore": 16,
+    "tier": "warm",
+    "source": "orchestrator-full-pipeline",
+    "matchKey": "arsenal__newcastle__premier_league__2026-03-19",
+    "stadium": "אמירייטס סטדיום",
+    "currency": "GBP",
+    "generatedAt": "2026-03-19T15:28:50.003Z",
+    "recommendations": [
+      {
+        "category": "גביע אנגלי 1/4 גמר: סאות'המפטון - ארסנל",
+        "live": {
+          "name": "גביע אנגלי 1/4 גמר: סאות'המפטון - ארסנל",
+          "price": 165,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 150,
+          "currency": "GBP",
+          "formula": "165 × 0.90 = 150"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "גמר גביע הליגה: מנצ'סטר סיטי - ארסנל",
+        "live": {
+          "name": "גמר גביע הליגה: מנצ'סטר סיטי - ארסנל",
+          "price": 250,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 225,
+          "currency": "GBP",
+          "formula": "250 × 0.90 = 225"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ארסנל - בורנמות'",
+        "live": {
+          "name": "ארסנל - בורנמות'",
+          "price": 250,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 225,
+          "currency": "GBP",
+          "formula": "250 × 0.90 = 225"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליגת האלופות: ספורטינג ליסבון - ארסנל",
+        "live": {
+          "name": "ליגת האלופות: ספורטינג ליסבון - ארסנל",
+          "price": 275,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 250,
+          "currency": "EUR",
+          "formula": "275 × 0.90 = 250"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליגת האלופות: ארסנל - ספורטינג ליסבון",
+        "live": {
+          "name": "ליגת האלופות: ארסנל - ספורטינג ליסבון",
+          "price": 295,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 270,
+          "currency": "GBP",
+          "formula": "295 × 0.90 = 270"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ארסנל - ניוקאסל",
+        "live": {
+          "name": "ארסנל - ניוקאסל",
+          "price": 375,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 340,
+          "currency": "GBP",
+          "formula": "375 × 0.90 = 340"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ווסטהאם יונייטד - ארסנל",
+        "live": {
+          "name": "ווסטהאם יונייטד - ארסנל",
+          "price": 375,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 340,
+          "currency": "GBP",
+          "formula": "375 × 0.90 = 340"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "מנצ'סטר סיטי - ארסנל",
+        "live": {
+          "name": "מנצ'סטר סיטי - ארסנל",
+          "price": 450,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 405,
+          "currency": "GBP",
+          "formula": "450 × 0.90 = 405"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ארסנל - פולהאם",
+        "live": {
+          "name": "ארסנל - פולהאם",
+          "price": 625,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 565,
+          "currency": "GBP",
+          "formula": "625 × 0.90 = 565"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "קריסטל פאלאס - ארסנל",
+        "live": {
+          "name": "קריסטל פאלאס - ארסנל",
+          "price": 1000,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 900,
+          "currency": "GBP",
+          "formula": "1000 × 0.90 = 900"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ארסנל - ברנלי",
+        "live": {
+          "name": "ארסנל - ברנלי",
+          "price": 1450,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 1305,
+          "currency": "GBP",
+          "formula": "1450 × 0.90 = 1305"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      }
+    ]
+  },
+  "approvedAt": "2026-03-19T15:28:49.767Z",
+  "selectedVersion": 1,
+  "selectedAd": {
+    "index": 1,
+    "style": "רגשית",
+    "headline": "חלום הופך למציאות בסטדיון",
+    "body": "ארסנל נגד ניוקסל — המשחק שתמיד רצית לראות. חווה את הרוח, הקול, הזעם. הכרטיס שלך לחלום ממתין.",
+    "cta": "הזמן עכשיו",
+    "meta": {
+      "style": "רגשית",
+      "facebook": {
+        "primary_text": "ארסנל נגד ניוקסל — המשחק שתמיד רצית לראות. חווה את הרוח, הקול, הזעם. הכרטיס שלך לחלום ממתין.",
+        "headline": "חלום הופך למציאות בסטדיון",
+        "description": "הזמן עכשיו"
+      },
+      "instagram": {
+        "caption": "חלום הופך למציאות בסטדיון\n\nארסנל נגד ניוקסל — המשחק שתמיד רצית לראות. חווה את הרוח, הקול, הזעם. הכרטיס שלך לחלום ממתין.\n\nהזמן עכשיו"
+      }
+    }
+  },
+  "budgetRecommendation": {
+    "eventName": "Arsenal vs Newcastle",
+    "heatScore": 16,
+    "recommendedDailyBudget": 100,
+    "expectedROAS": null,
+    "recommendedDuration": 1,
+    "recommendedTargeting": "purchase_lookalike",
+    "totalEstimatedBudget": 100,
+    "daysUntilGame": 0
+  },
+  "publishedAt": "2026-03-19T15:29:00.971Z",
+  "campaignId": "120242346352810479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242346352810479"
+}

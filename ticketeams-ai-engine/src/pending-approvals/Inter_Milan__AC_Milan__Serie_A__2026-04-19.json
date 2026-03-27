@@ -1,0 +1,108 @@
+{
+  "matchKey": "Inter_Milan__AC_Milan__Serie_A__2026-04-19",
+  "createdAt": "2026-03-19T16:27:42.227Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום דרבי מילאנו בחיים",
+      "body": "שתי קבוצות אגדיות, אצטדיון שרוע, רגע שיהיה לך לנצח. חוויה שתהפוך אותך לחלק מההיסטוריה. הכרטיס שלך לחלום.",
+      "cta": "הזמן עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "שתי קבוצות אגדיות, אצטדיון שרוע, רגע שיהיה לך לנצח. חוויה שתהפוך אותך לחלק מההיסטוריה. הכרטיס שלך לחלום.",
+          "headline": "חלום דרבי מילאנו בחיים",
+          "description": "הזמן עכשיו"
+        },
+        "instagram": {
+          "caption": "חלום דרבי מילאנו בחיים\n\nשתי קבוצות אגדיות, אצטדיון שרוע, רגע שיהיה לך לנצח. חוויה שתהפוך אותך לחלק מההיסטוריה. הכרטיס שלך לחלום.\n\nהזמן עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "אינטר מילאנו נגד אסי מילאנו",
+      "body": "סדרה א׳ • 19 באפריל 2026 • אצטדיון אינטר מילאנו. הדרבי הגדול בחזרה אל הבית שלך.",
+      "cta": "קנה כרטיס",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "סדרה א׳ • 19 באפריל 2026 • אצטדיון אינטר מילאנו. הדרבי הגדול בחזרה אל הבית שלך.",
+          "headline": "אינטר מילאנו נגד אסי מילאנו",
+          "description": "קנה כרטיס"
+        },
+        "instagram": {
+          "caption": "אינטר מילאנו נגד אסי מילאנו\n\nסדרה א׳ • 19 באפריל 2026 • אצטדיון אינטר מילאנו. הדרבי הגדול בחזרה אל הבית שלך.\n\nקנה כרטיס"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "מתנדנד! מכסות אחרונות",
+      "body": "דרבי מילאנו לא ממתין. כרטיסים נגמרים במהירות. 19 באפריל זה קרוב. פספס את זה לעולם לא תשכח.",
+      "cta": "בחר את מקומך",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "דרבי מילאנו לא ממתין. כרטיסים נגמרים במהירות. 19 באפריל זה קרוב. פספס את זה לעולם לא תשכח.",
+          "headline": "מתנדנד! מכסות אחרונות",
+          "description": "בחר את מקומך"
+        },
+        "instagram": {
+          "caption": "מתנדנד! מכסות אחרונות\n\nדרבי מילאנו לא ממתין. כרטיסים נגמרים במהירות. 19 באפריל זה קרוב. פספס את זה לעולם לא תשכח.\n\nבחר את מקומך"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "homeTeam": "Inter Milan",
+    "awayTeam": "AC Milan",
+    "competition": "Serie A",
+    "date": "2026-04-19",
+    "heatScore": 19,
+    "tier": "warm",
+    "source": "orchestrator-full-pipeline",
+    "matchKey": "inter_milan__ac_milan__serie_a__2026-04-19",
+    "stadium": "סן סירו",
+    "currency": "EUR",
+    "generatedAt": "2026-03-19T16:27:50.207Z",
+    "recommendations": []
+  },
+  "approvedAt": "2026-03-19T16:27:50.133Z",
+  "selectedVersion": 1,
+  "selectedAd": {
+    "index": 1,
+    "style": "רגשית",
+    "headline": "חלום דרבי מילאנו בחיים",
+    "body": "שתי קבוצות אגדיות, אצטדיון שרוע, רגע שיהיה לך לנצח. חוויה שתהפוך אותך לחלק מההיסטוריה. הכרטיס שלך לחלום.",
+    "cta": "הזמן עכשיו",
+    "meta": {
+      "style": "רגשית",
+      "facebook": {
+        "primary_text": "שתי קבוצות אגדיות, אצטדיון שרוע, רגע שיהיה לך לנצח. חוויה שתהפוך אותך לחלק מההיסטוריה. הכרטיס שלך לחלום.",
+        "headline": "חלום דרבי מילאנו בחיים",
+        "description": "הזמן עכשיו"
+      },
+      "instagram": {
+        "caption": "חלום דרבי מילאנו בחיים\n\nשתי קבוצות אגדיות, אצטדיון שרוע, רגע שיהיה לך לנצח. חוויה שתהפוך אותך לחלק מההיסטוריה. הכרטיס שלך לחלום.\n\nהזמן עכשיו"
+      }
+    }
+  },
+  "budgetRecommendation": {
+    "eventName": "Inter Milan vs AC Milan",
+    "heatScore": 19,
+    "recommendedDailyBudget": 100,
+    "expectedROAS": null,
+    "recommendedDuration": 21,
+    "recommendedTargeting": "purchase_lookalike",
+    "totalEstimatedBudget": 2100,
+    "daysUntilGame": 31
+  },
+  "publishedAt": "2026-03-19T16:27:58.060Z",
+  "campaignId": "120242351852470479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242351852470479"
+}

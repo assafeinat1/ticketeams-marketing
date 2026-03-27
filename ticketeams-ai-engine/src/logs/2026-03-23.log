@@ -1,0 +1,11 @@
+{"ts":"2026-03-23T15:13:06.061Z","level":"info","agent":"orchestrator","action":"heatScore","message":"ארסנל vs פולהאם: 65 (onFire)"}
+{"ts":"2026-03-23T15:13:12.245Z","level":"info","agent":"orchestrator","action":"creative","message":"Generated 0 versions for ארסנל__פולהאם__Premier_League__2026-05-02"}
+{"ts":"2026-03-23T15:13:12.247Z","level":"info","agent":"orchestrator","action":"saveApproval","message":"Saved for approval: ארסנל__פולהאם__Premier_League__2026-05-02"}
+{"ts":"2026-03-23T15:13:12.248Z","level":"info","agent":"orchestrator","action":"fullPipeline","message":"Pipeline complete: ארסנל__פולהאם__Premier_League__2026-05-02 (heat: 65)","meta":{"matchKey":"ארסנל__פולהאם__Premier_League__2026-05-02","steps":{"heat":{"status":"ok","score":65,"tier":"onFire"},"creative":{"status":"ok","versions":0},"approval":{"status":"ok"}},"durationMs":17895}}
+{"ts":"2026-03-23T15:14:42.478Z","level":"info","agent":"meta","action":"createCampaign","message":"Campaign created: 120242525248760479","meta":{"matchKey":"_______________Premier_League__2026-05-02","campaignId":"120242525248760479"}}
+{"ts":"2026-03-23T15:14:45.236Z","level":"info","agent":"meta","action":"createAdSet","message":"Ad set created: 120242525250520479","meta":{"format":"feed"}}
+{"ts":"2026-03-23T15:14:46.974Z","level":"info","agent":"meta","action":"createAdSet","message":"Ad set created: 120242525251700479","meta":{"format":"story"}}
+{"ts":"2026-03-23T15:14:48.222Z","level":"info","agent":"meta","action":"createAdSet","message":"Ad set created: 120242525252980479","meta":{"format":"feed"}}
+{"ts":"2026-03-23T15:14:49.575Z","level":"info","agent":"meta","action":"createAdSet","message":"Ad set created: 120242525254270479","meta":{"format":"story"}}
+{"ts":"2026-03-23T15:14:51.355Z","level":"info","agent":"meta","action":"syncMonday","message":"Marketing Board item created: 2797033369 — ארסנל נגד פולהאם | לידים - 02.05.26"}
+{"ts":"2026-03-23T15:14:51.357Z","level":"info","agent":"meta","action":"publishCampaign","message":"Campaign published: 120242525248760479 (4 ad sets, 1 warnings)","meta":{"matchKey":"_______________Premier_League__2026-05-02","campaignId":"120242525248760479","adSets":4,"durationMs":9846}}

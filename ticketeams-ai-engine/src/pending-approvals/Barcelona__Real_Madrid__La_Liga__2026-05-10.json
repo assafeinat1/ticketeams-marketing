@@ -1,0 +1,280 @@
+{
+  "matchKey": "Barcelona__Real_Madrid__La_Liga__2026-05-10",
+  "createdAt": "2026-03-19T16:02:01.582Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום של אלף לילה ממתין לך",
+      "body": "ברצלונה מול מדריד — הקלאסיקו שיהיה בך לנצח. רגע שתחכה לו כל החיים. אצטדיון אולימפיק לואיס קומפאניס, 10 במאי 2026. הכרטיס שלך לחלום.",
+      "cta": "קח את הכרטיס שלך",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "ברצלונה מול מדריד — הקלאסיקו שיהיה בך לנצח. רגע שתחכה לו כל החיים. אצטדיון אולימפיק לואיס קומפאניס, 10 במאי 2026. הכרטיס שלך לחלום.",
+          "headline": "חלום של אלף לילה ממתין לך",
+          "description": "קח את הכרטיס שלך"
+        },
+        "instagram": {
+          "caption": "חלום של אלף לילה ממתין לך\n\nברצלונה מול מדריד — הקלאסיקו שיהיה בך לנצח. רגע שתחכה לו כל החיים. אצטדיון אולימפיק לואיס קומפאניס, 10 במאי 2026. הכרטיס שלך לחלום.\n\nקח את הכרטיס שלך"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "קלאסיקו ספרד: ברצלונה נגד מדריד",
+      "body": "משחק חצי גמר La Liga. ברצלונה מול מדריד. אצטדיון אולימפיק לואיס קומפאניס. תאריך: 10 במאי 2026. הזמן מתיק — הכרטיסים מחכים לך.",
+      "cta": "קנה כרטיס עכשיו",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "משחק חצי גמר La Liga. ברצלונה מול מדריד. אצטדיון אולימפיק לואיס קומפאניס. תאריך: 10 במאי 2026. הזמן מתיק — הכרטיסים מחכים לך.",
+          "headline": "קלאסיקו ספרד: ברצלונה נגד מדריד",
+          "description": "קנה כרטיס עכשיו"
+        },
+        "instagram": {
+          "caption": "קלאסיקו ספרד: ברצלונה נגד מדריד\n\nמשחק חצי גמר La Liga. ברצלונה מול מדריד. אצטדיון אולימפיק לואיס קומפאניס. תאריך: 10 במאי 2026. הזמן מתיק — הכרטיסים מחכים לך.\n\nקנה כרטיס עכשיו"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "לא תחזור על זה — קלאסיקו 2026!",
+      "body": "כרטיסים להיסטוריה בתום מחסור! ברצלונה נגד מדריד, 10 במאי. אצטדיון אולימפיק לואיס קומפאניס. עוד 48 שעות בלבד — אל תפספס את הזדמנותך!",
+      "cta": "בטח את מקומך עכשיו",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "כרטיסים להיסטוריה בתום מחסור! ברצלונה נגד מדריד, 10 במאי. אצטדיון אולימפיק לואיס קומפאניס. עוד 48 שעות בלבד — אל תפספס את הזדמנותך!",
+          "headline": "לא תחזור על זה — קלאסיקו 2026!",
+          "description": "בטח את מקומך עכשיו"
+        },
+        "instagram": {
+          "caption": "לא תחזור על זה — קלאסיקו 2026!\n\nכרטיסים להיסטוריה בתום מחסור! ברצלונה נגד מדריד, 10 במאי. אצטדיון אולימפיק לואיס קומפאניס. עוד 48 שעות בלבד — אל תפספס את הזדמנותך!\n\nבטח את מקומך עכשיו"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "homeTeam": "Barcelona",
+    "awayTeam": "Real Madrid",
+    "competition": "La Liga",
+    "date": "2026-05-10",
+    "heatScore": 65,
+    "tier": "onFire",
+    "source": "orchestrator-full-pipeline",
+    "matchKey": "barcelona__real_madrid__la_liga__2026-05-10",
+    "stadium": "אולימפיק לואיס קומפאניס",
+    "currency": "EUR",
+    "generatedAt": "2026-03-19T18:04:09.952Z",
+    "recommendations": [
+      {
+        "category": "ברצלונה - ראיו ויאקאנו",
+        "live": {
+          "name": "ברצלונה - ראיו ויאקאנו",
+          "price": 250,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 225,
+          "currency": "EUR",
+          "formula": "250 × 0.90 = 225"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ברצלונה - אספניול",
+        "live": {
+          "name": "ברצלונה - אספניול",
+          "price": 295,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 270,
+          "currency": "EUR",
+          "formula": "295 × 0.90 = 270"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ולנסיה - ברצלונה",
+        "live": {
+          "name": "ולנסיה - ברצלונה",
+          "price": 295,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 270,
+          "currency": "EUR",
+          "formula": "295 × 0.90 = 270"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "אתלטיקו מדריד - ברצלונה",
+        "live": {
+          "name": "אתלטיקו מדריד - ברצלונה",
+          "price": 300,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 270,
+          "currency": "EUR",
+          "formula": "300 × 0.90 = 270"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ברצלונה - סלטה ויגו",
+        "live": {
+          "name": "ברצלונה - סלטה ויגו",
+          "price": 300,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 270,
+          "currency": "EUR",
+          "formula": "300 × 0.90 = 270"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ברצלונה - ריאל בטיס",
+        "live": {
+          "name": "ברצלונה - ריאל בטיס",
+          "price": 350,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 315,
+          "currency": "EUR",
+          "formula": "350 × 0.90 = 315"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליגת האלופות: אתלטיקו מדריד - ברצלונה",
+        "live": {
+          "name": "ליגת האלופות: אתלטיקו מדריד - ברצלונה",
+          "price": 365,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 330,
+          "currency": "EUR",
+          "formula": "365 × 0.90 = 330"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליגת האלופות: ברצלונה - אתלטיקו מדריד",
+        "live": {
+          "name": "ליגת האלופות: ברצלונה - אתלטיקו מדריד",
+          "price": 385,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 350,
+          "currency": "EUR",
+          "formula": "385 × 0.90 = 350"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ברצלונה - ריאל מדריד",
+        "live": {
+          "name": "ברצלונה - ריאל מדריד",
+          "price": 1200,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 1080,
+          "currency": "EUR",
+          "formula": "1200 × 0.90 = 1080"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      }
+    ]
+  },
+  "approvedAt": "2026-03-19T18:04:15.677Z",
+  "selectedVersion": 3,
+  "selectedAd": {
+    "index": 3,
+    "style": "דחיפות",
+    "headline": "לא תחזור על זה — קלאסיקו 2026!",
+    "body": "כרטיסים להיסטוריה בתום מחסור! ברצלונה נגד מדריד, 10 במאי. אצטדיון אולימפיק לואיס קומפאניס. עוד 48 שעות בלבד — אל תפספס את הזדמנותך!",
+    "cta": "בטח את מקומך עכשיו",
+    "meta": {
+      "style": "דחיפות",
+      "facebook": {
+        "primary_text": "כרטיסים להיסטוריה בתום מחסור! ברצלונה נגד מדריד, 10 במאי. אצטדיון אולימפיק לואיס קומפאניס. עוד 48 שעות בלבד — אל תפספס את הזדמנותך!",
+        "headline": "לא תחזור על זה — קלאסיקו 2026!",
+        "description": "בטח את מקומך עכשיו"
+      },
+      "instagram": {
+        "caption": "לא תחזור על זה — קלאסיקו 2026!\n\nכרטיסים להיסטוריה בתום מחסור! ברצלונה נגד מדריד, 10 במאי. אצטדיון אולימפיק לואיס קומפאניס. עוד 48 שעות בלבד — אל תפספס את הזדמנותך!\n\nבטח את מקומך עכשיו"
+      }
+    }
+  },
+  "budgetRecommendation": {
+    "eventName": "Barcelona vs Real Madrid",
+    "heatScore": 65,
+    "recommendedDailyBudget": 225,
+    "expectedROAS": null,
+    "recommendedDuration": 21,
+    "recommendedTargeting": "broad_prospecting",
+    "totalEstimatedBudget": 4725,
+    "daysUntilGame": 52
+  },
+  "publishedAt": "2026-03-19T18:04:23.433Z",
+  "campaignId": "120242354304220479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242354304220479"
+}

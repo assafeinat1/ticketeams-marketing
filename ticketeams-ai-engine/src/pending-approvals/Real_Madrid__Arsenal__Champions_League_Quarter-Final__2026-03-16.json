@@ -1,0 +1,142 @@
+{
+  "matchKey": "Real_Madrid__Arsenal__Champions_League_Quarter-Final__2026-03-16",
+  "createdAt": "2026-03-16T16:42:16.407Z",
+  "status": "אושר",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום בברנאבאו ממתין לך",
+      "body": "תיכול לומר שהיית שם. מדריד מול ארסנל, רבע גמר ליגת האלופות. הכרטיס שלך לחלום ממתין לך כרגע.",
+      "cta": "הזמן עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "תיכול לומר שהיית שם. מדריד מול ארסנל, רבע גמר ליגת האלופות. הכרטיס שלך לחלום ממתין לך כרגע.",
+          "headline": "חלום בברנאבאו ממתין לך",
+          "description": "הזמן עכשיו"
+        },
+        "instagram": {
+          "caption": "חלום בברנאבאו ממתין לך\n\nתיכול לומר שהיית שם. מדריד מול ארסנל, רבע גמר ליגת האלופות. הכרטיס שלך לחלום ממתין לך כרגע.\n\nהזמן עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "מדריד נגד ארסנל - 16.3.2026",
+      "body": "רבע גמר - הליגה האירופית המלכותית. אצטדיון סנטיאגו ברנאבאו, מדריד. שתי קבוצות עתידיות, משחק ההחלטות.",
+      "cta": "קנה כרטיס",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "רבע גמר - הליגה האירופית המלכותית. אצטדיון סנטיאגו ברנאבאו, מדריד. שתי קבוצות עתידיות, משחק ההחלטות.",
+          "headline": "מדריד נגד ארסנל - 16.3.2026",
+          "description": "קנה כרטיס"
+        },
+        "instagram": {
+          "caption": "מדריד נגד ארסנל - 16.3.2026\n\nרבע גמר - הליגה האירופית המלכותית. אצטדיון סנטיאגו ברנאבאו, מדריד. שתי קבוצות עתידיות, משחק ההחלטות.\n\nקנה כרטיס"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "נגמר במהרה — כרטיסים מוגבלים!",
+      "body": "רבע גמר אלופות אירופה ריאל מדריד נגד ארסנל! 16 במרץ 2026 בסנטיאגו ברנאבאו. הזדמנות אחרונה. מהרה, כרטיסים נעלמים!",
+      "cta": "בטל עכשיו",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "רבע גמר אלופות אירופה ריאל מדריד נגד ארסנל! 16 במרץ 2026 בסנטיאגו ברנאבאו. הזדמנות אחרונה. מהרה, כרטיסים נעלמים!",
+          "headline": "נגמר במהרה — כרטיסים מוגבלים!",
+          "description": "בטל עכשיו"
+        },
+        "instagram": {
+          "caption": "נגמר במהרה — כרטיסים מוגבלים!\n\nרבע גמר אלופות אירופה ריאל מדריד נגד ארסנל! 16 במרץ 2026 בסנטיאגו ברנאבאו. הזדמנות אחרונה. מהרה, כרטיסים נעלמים!\n\nבטל עכשיו"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "matchKey": "real_madrid__arsenal__champions_league_quarter-final__2026-03-16",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Arsenal",
+    "competition": "Champions League Quarter-Final",
+    "date": "2026-03-16",
+    "stadium": "סנטיאגו ברנאבאו",
+    "currency": "EUR",
+    "generatedAt": "2026-03-16T16:42:02.037Z",
+    "recommendations": [],
+    "heatScore": 87,
+    "suggestedBudget": 225
+  },
+  "images": [
+    {
+      "style": "רגשית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_רגשית_post.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_רגשית_story.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_רגשית_square.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_מידעית_post.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_מידעית_story.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_מידעית_square.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_דחיפות_post.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_דחיפות_story.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_דחיפות_square.jpg"
+    }
+  ],
+  "approvedAt": "2026-03-18T20:19:26.746Z",
+  "selectedVersion": 3,
+  "selectedAd": {
+    "index": 3,
+    "style": "דחיפות",
+    "headline": "נגמר במהרה — כרטיסים מוגבלים!",
+    "body": "רבע גמר אלופות אירופה ריאל מדריד נגד ארסנל! 16 במרץ 2026 בסנטיאגו ברנאבאו. הזדמנות אחרונה. מהרה, כרטיסים נעלמים!",
+    "cta": "בטל עכשיו",
+    "meta": {
+      "style": "דחיפות",
+      "facebook": {
+        "primary_text": "רבע גמר אלופות אירופה ריאל מדריד נגד ארסנל! 16 במרץ 2026 בסנטיאגו ברנאבאו. הזדמנות אחרונה. מהרה, כרטיסים נעלמים!",
+        "headline": "נגמר במהרה — כרטיסים מוגבלים!",
+        "description": "בטל עכשיו"
+      },
+      "instagram": {
+        "caption": "נגמר במהרה — כרטיסים מוגבלים!\n\nרבע גמר אלופות אירופה ריאל מדריד נגד ארסנל! 16 במרץ 2026 בסנטיאגו ברנאבאו. הזדמנות אחרונה. מהרה, כרטיסים נעלמים!\n\nבטל עכשיו"
+      }
+    }
+  },
+  "selectedImageIndex": 0
+}

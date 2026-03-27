@@ -1,0 +1,22 @@
+{
+  "id": "pending-1710850000000",
+  "status": "pending",
+  "createdAt": "2026-03-19T10:00:00.000Z",
+  "decision": {
+    "type": "CREATE_CAMPAIGN",
+    "priority": "high",
+    "event": {
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Arsenal",
+      "competition": "Champions League",
+      "date": "2026-04-18",
+      "score": 87
+    },
+    "suggestedAction": {
+      "action": "CREATE_CAMPAIGN",
+      "reasoning": "Heat score 87 (On Fire) — Champions League semifinal, high demand expected",
+      "suggestedBudgetILS": 300,
+      "matchKey": "Real_Madrid__Arsenal__Champions_League__2026-04-18"
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "matchKey": "Real_Madrid__Arsenal__Champions_League__2026-03-19",
+  "createdAt": "2026-03-19T15:10:30.752Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום בברנאבאו ממתין לך",
+      "body": "מדריד מול ארסנל בליגת האלופות. רגע שתשנה את חייך לנצח. הכרטיס שלך לחלום ממתין כאן.",
+      "cta": "קנה עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "מדריד מול ארסנל בליגת האלופות. רגע שתשנה את חייך לנצח. הכרטיס שלך לחלום ממתין כאן.",
+          "headline": "חלום בברנאבאו ממתין לך",
+          "description": "קנה עכשיו"
+        },
+        "instagram": {
+          "caption": "חלום בברנאבאו ממתין לך\n\nמדריד מול ארסנל בליגת האלופות. רגע שתשנה את חייך לנצח. הכרטיס שלך לחלום ממתין כאן.\n\nקנה עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "ריאל מדריד נגד ארסנל",
+      "body": "תאריך: 19 במרץ 2026. מקום: סנטיאגו ברנאבאו. תחרות: ליגת האלופות. הכרטיס שלך קריא לקנייה.",
+      "cta": "הזמן כרטיס",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "תאריך: 19 במרץ 2026. מקום: סנטיאגו ברנאבאו. תחרות: ליגת האלופות. הכרטיס שלך קריא לקנייה.",
+          "headline": "ריאל מדריד נגד ארסנל",
+          "description": "הזמן כרטיס"
+        },
+        "instagram": {
+          "caption": "ריאל מדריד נגד ארסנל\n\nתאריך: 19 במרץ 2026. מקום: סנטיאגו ברנאבאו. תחרות: ליגת האלופות. הכרטיס שלך קריא לקנייה.\n\nהזמן כרטיס"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "כרטיסים נגמרים במהירות!",
+      "body": "ריאל מדריד נגד ארסנל בברנאבאו - 19.3.2026. מקומות מוגבלים. אל תפספס את הזדמנות זו.",
+      "cta": "קנה עכשיו",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "ריאל מדריד נגד ארסנל בברנאבאו - 19.3.2026. מקומות מוגבלים. אל תפספס את הזדמנות זו.",
+          "headline": "כרטיסים נגמרים במהירות!",
+          "description": "קנה עכשיו"
+        },
+        "instagram": {
+          "caption": "כרטיסים נגמרים במהירות!\n\nריאל מדריד נגד ארסנל בברנאבאו - 19.3.2026. מקומות מוגבלים. אל תפספס את הזדמנות זו.\n\nקנה עכשיו"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Arsenal",
+    "competition": "Champions League",
+    "date": "2026-03-19",
+    "heatScore": 29,
+    "tier": "warm",
+    "source": "orchestrator-full-pipeline",
+    "matchKey": "real_madrid__arsenal__champions_league__2026-03-19",
+    "stadium": "סנטיאגו ברנאבאו",
+    "currency": "EUR",
+    "generatedAt": "2026-03-19T15:12:19.904Z",
+    "recommendations": []
+  },
+  "images": [
+    {
+      "style": "דחיפות",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_דחיפות_post.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_דחיפות_square.jpg"
+    },
+    {
+      "style": "דחיפות",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_דחיפות_story.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_מידעית_post.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_מידעית_square.jpg"
+    },
+    {
+      "style": "מידעית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_מידעית_story.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "post",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_רגשית_post.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "square",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_רגשית_square.jpg"
+    },
+    {
+      "style": "רגשית",
+      "format": "story",
+      "filePath": "/Users/assafeinat/anati gravity/ticketeams-ai-engine/src/generated-ads/Real-Madrid_Arsenal_2026-03-16/Real-Madrid_Arsenal_2026-03-16_רגשית_story.jpg"
+    }
+  ],
+  "approvedAt": "2026-03-19T15:12:19.776Z",
+  "selectedVersion": 1,
+  "selectedAd": {
+    "index": 1,
+    "style": "רגשית",
+    "headline": "חלום בברנאבאו ממתין לך",
+    "body": "מדריד מול ארסנל בליגת האלופות. רגע שתשנה את חייך לנצח. הכרטיס שלך לחלום ממתין כאן.",
+    "cta": "קנה עכשיו",
+    "meta": {
+      "style": "רגשית",
+      "facebook": {
+        "primary_text": "מדריד מול ארסנל בליגת האלופות. רגע שתשנה את חייך לנצח. הכרטיס שלך לחלום ממתין כאן.",
+        "headline": "חלום בברנאבאו ממתין לך",
+        "description": "קנה עכשיו"
+      },
+      "instagram": {
+        "caption": "חלום בברנאבאו ממתין לך\n\nמדריד מול ארסנל בליגת האלופות. רגע שתשנה את חייך לנצח. הכרטיס שלך לחלום ממתין כאן.\n\nקנה עכשיו"
+      }
+    }
+  },
+  "selectedImageIndex": 0,
+  "budgetRecommendation": {
+    "eventName": "Real Madrid vs Arsenal",
+    "heatScore": 29,
+    "recommendedDailyBudget": 100,
+    "expectedROAS": null,
+    "recommendedDuration": 1,
+    "recommendedTargeting": "purchase_lookalike",
+    "totalEstimatedBudget": 100,
+    "daysUntilGame": 0
+  },
+  "publishedAt": "2026-03-19T15:12:30.050Z",
+  "campaignId": "120242342310560479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242342310560479"
+}

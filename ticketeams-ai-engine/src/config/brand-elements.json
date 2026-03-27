@@ -1,0 +1,58 @@
+{
+  "brand": {
+    "name": "Ticketeams",
+    "slogan": "הכרטיס שלך לחלום",
+    "url": "ticketeams.co.il",
+    "colors": {
+      "pink": "#E91E8C",
+      "orange": "#FF6B35",
+      "purple": "#7B2D8B",
+      "gold": "#FFD700",
+      "dark": "#0D0818"
+    },
+    "gradients": {
+      "primary": { "from": [233, 30, 140], "to": [255, 107, 53] },
+      "secondary": { "from": [233, 30, 140], "to": [123, 45, 139] },
+      "cta": { "from": [233, 30, 140], "to": [255, 107, 53] }
+    }
+  },
+  "elements": {
+    "header_bar": {
+      "height_pct": 0.055,
+      "gradient": "primary",
+      "alpha": 230,
+      "corner_radius": 0
+    },
+    "frame_border": {
+      "margin": 16,
+      "thickness": 4,
+      "corner_radius": 24,
+      "gradient": "primary",
+      "alpha": 200
+    },
+    "vs_circle": {
+      "size": 80,
+      "bg_color": [20, 10, 30, 220],
+      "border_color": [233, 30, 140, 200],
+      "border_width": 3,
+      "font_size_ratio": 0.35
+    },
+    "date_badge": {
+      "padding_x": 30,
+      "padding_y": 12,
+      "bg_color": [20, 10, 30, 180],
+      "border_color": [255, 215, 0, 180],
+      "border_width": 2
+    }
+  },
+  "canva_assets": {
+    "ticketeams_logo": { "id": "MAHBGt1xTfc", "uuid": "e4911001-a093-443c-85cb-99e4b74f3ea9", "size": [1600, 444] },
+    "header_bar_story": { "id": "MAHESyXRa4o", "uuid": "46cfbeb4-12a3-4a2f-963b-ab1e4c496112", "size": [1080, 1920], "cache_file": "header_bar_story.png" },
+    "header_bar_post": { "id": "MAHES1eQI4I", "uuid": "6d8a32ab-c485-41d4-9fa5-4e941f593691", "size": [1080, 1920], "cache_file": "header_bar_post.png" },
+    "header_bar_square": { "id": "MAHES9Q2W_U", "uuid": "ad7fa1c4-b910-4969-964f-357ffa38bd66", "size": [1080, 1920], "cache_file": "header_bar_square.png" },
+    "frame_single": { "id": "MAHETAmL2FA", "uuid": "2af54e58-3c28-4f86-bba0-8e5eb166c940", "size": [1080, 1920], "cache_file": "frame_single.png" },
+    "frame_double": { "id": "MAHETHw_JiI", "uuid": "ecdc3249-1b23-4124-b4fa-5402c786c2d8", "size": [1842, 2304], "cache_file": "frame_double.png" },
+    "vs_element": { "id": "MAFn1wbkb3U", "note": "Non-editable Canva element, recreated programmatically", "cache_file": "vs_element.png" }
+  },
+  "brand_kit_id": "kAGCrnUW4vo"
+}

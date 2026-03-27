@@ -1,0 +1,44 @@
+{
+  "monitorKey": "ad_monitor__2026-03-15",
+  "timestamp": 1773558000019,
+  "savedAt": "2026-03-15T07:00:00.019Z",
+  "results": {
+    "monitorKey": "ad_monitor__2026-03-15",
+    "date": "2026-03-15",
+    "competitors": [
+      {
+        "page_id": "330684977663968",
+        "page_name": "Competitor A",
+        "ads_count": 0,
+        "ads": [],
+        "status": "error",
+        "error": "META_ACCESS_TOKEN is missing from .env.\nSteps to fix:\n  1. Go to developers.facebook.com → your app → Tools → Graph API Explorer\n  2. Select your app, add \"ads_read\" permission\n  3. Generate token and paste into .env as META_ACCESS_TOKEN=...\n  4. Accept Ad Library API terms at: facebook.com/ads/library/api"
+      },
+      {
+        "page_id": "1217728965010806",
+        "page_name": "Competitor B",
+        "ads_count": 0,
+        "ads": [],
+        "status": "error",
+        "error": "META_ACCESS_TOKEN is missing from .env.\nSteps to fix:\n  1. Go to developers.facebook.com → your app → Tools → Graph API Explorer\n  2. Select your app, add \"ads_read\" permission\n  3. Generate token and paste into .env as META_ACCESS_TOKEN=...\n  4. Accept Ad Library API terms at: facebook.com/ads/library/api"
+      },
+      {
+        "page_id": "148426588511640",
+        "page_name": "Competitor C",
+        "ads_count": 0,
+        "ads": [],
+        "status": "error",
+        "error": "META_ACCESS_TOKEN is missing from .env.\nSteps to fix:\n  1. Go to developers.facebook.com → your app → Tools → Graph API Explorer\n  2. Select your app, add \"ads_read\" permission\n  3. Generate token and paste into .env as META_ACCESS_TOKEN=...\n  4. Accept Ad Library API terms at: facebook.com/ads/library/api"
+      }
+    ],
+    "totalAds": 0,
+    "summary": {
+      "stadium": 0,
+      "human": 0,
+      "urgency": 0,
+      "unknown": 0
+    },
+    "counterAdCandidates": [],
+    "generatedAt": "2026-03-15T07:00:00.017Z"
+  }
+}

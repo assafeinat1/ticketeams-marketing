@@ -1,0 +1,79 @@
+{
+  "date": "2026-03-18",
+  "generatedAt": "2026-03-18T11:10:28.037Z",
+  "durationMs": 13510,
+  "totalAds": 3,
+  "scoredEvents": [],
+  "newCompetitorAds": [
+    {
+      "delivery_start": "2023-06-28",
+      "body": "This ad ran without a required disclaimer.",
+      "title": "This ad ran without a required disclaimer.",
+      "description": "This ad ran without a required disclaimer.",
+      "page_name": "Arena tickets -כרטיסים וחבילות לארועי ספורט בעולם",
+      "page_id": "330684977663968",
+      "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=290548753378675&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+      "match_info": {
+        "matched": false,
+        "homeTeam": null,
+        "awayTeam": null,
+        "confidence": "none",
+        "rawText": "This ad ran without a required disclaimer. This ad ran without a required disclaimer. This ad ran wi"
+      },
+      "classification": {
+        "format_type": "Stadium",
+        "reasoning": "הפרסומת אינה מכילה תוכן ממשי, אך בהעדר מידע אחר והקטגוריות הנתונות, 'Stadium' היא הברירה ברירת המחדל כקטגוריה כללית ביותר. הטקסט חוזר על עצמו ואינו מכיל אנשים, כוכבים או מילות דחיפות.",
+        "classified_at": "2026-03-18T11:10:17.669Z"
+      }
+    },
+    {
+      "delivery_start": "2023-06-28",
+      "body": "This ad ran without a required disclaimer.",
+      "title": "This ad ran without a required disclaimer.",
+      "description": "This ad ran without a required disclaimer.",
+      "page_name": "Arena tickets -כרטיסים וחבילות לארועי ספורט בעולם",
+      "page_id": "330684977663968",
+      "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=195102073520668&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+      "match_info": {
+        "matched": false,
+        "homeTeam": null,
+        "awayTeam": null,
+        "confidence": "none",
+        "rawText": "This ad ran without a required disclaimer. This ad ran without a required disclaimer. This ad ran wi"
+      },
+      "classification": {
+        "format_type": "Stadium",
+        "reasoning": "הפרסומת אינה מכילה תוכן משמעותי - רק הודעה על חוסר כתב שימתור. לא מזוהים אנשים או דיוקנים (Human), ואין שפה של דחיפות (Urgency). סיווג ברירת מחדל ל-Stadium כקטגוריה הכללית ביותר.",
+        "classified_at": "2026-03-18T11:10:20.082Z"
+      }
+    },
+    {
+      "delivery_start": "2024-09-08",
+      "body": "⚽🎷 חבילות מהסרטים לאירועי ספורט והופעות בחו\"ל רוכשים רק בטיקטיק!\nלפרטים והזמנות הקליקו 👈 https://bit.ly/44ShcvM",
+      "title": "לפרטים והזמנות הקליקו 👈",
+      "description": "",
+      "page_name": "טיקטיק חבילות ספורט והופעות  TikTik",
+      "page_id": "414396735300394",
+      "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1034630757863483&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+      "match_info": {
+        "matched": false,
+        "homeTeam": null,
+        "awayTeam": null,
+        "confidence": "none",
+        "rawText": "לפרטים והזמנות הקליקו 👈 ⚽🎷 חבילות מהסרטים לאירועי ספורט והופעות בחו\"ל רוכשים רק בטיקטיק!\nלפרטים וה"
+      },
+      "classification": {
+        "format_type": "Unknown",
+        "reasoning": "Classification error: Expected ',' or '}' after property value in JSON at position 88 (line 3 column 59)"
+      }
+    }
+  ],
+  "recommendations": [],
+  "sourceSummary": {
+    "competitorAds": 3,
+    "salesItems": 500,
+    "fixtures": 0,
+    "scanSuggestions": 0,
+    "marketingItems": 10
+  }
+}

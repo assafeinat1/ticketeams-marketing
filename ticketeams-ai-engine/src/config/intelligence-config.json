@@ -1,0 +1,56 @@
+{
+  "heatScore": {
+    "weights": {
+      "competitorAds": 20,
+      "ourSales": 25,
+      "leagueSchedules": 15,
+      "competitorWebsites": 10,
+      "ourWebsite": 15,
+      "seasonality": 15
+    },
+    "tiers": {
+      "cold": [0, 15],
+      "warm": [16, 35],
+      "hot": [36, 60],
+      "onFire": [61, 100]
+    },
+    "seasonalMultipliers": {
+      "1": 1.0,
+      "2": 1.3,
+      "3": 1.4,
+      "4": 1.5,
+      "5": 1.6,
+      "6": 0.5,
+      "7": 0.4,
+      "8": 0.5,
+      "9": 1.1,
+      "10": 1.7,
+      "11": 1.8,
+      "12": 1.6
+    }
+  },
+  "footballData": {
+    "baseUrl": "https://api.football-data.org/v4",
+    "competitions": {
+      "PL": 2021,
+      "PD": 2014,
+      "BL1": 2002,
+      "SA": 2019,
+      "FL1": 2015,
+      "CL": 2001
+    },
+    "cacheTtlHours": 12
+  },
+  "mondayBoards": {
+    "sales": { "boardId": 1725685740, "groupId": "topics", "gameDateColumn": "date5" },
+    "inventory": { "boardId": 1712156349, "groupId": "new_group__1" },
+    "marketing": { "boardId": 5046543095, "groupId": "topics" }
+  },
+  "woocommerce": {
+    "baseUrl": "https://ticketeams.co.il/wp-json/wc/v3",
+    "perPage": 50
+  },
+  "email": {
+    "subject": "דוח מודיעין יומי — Ticketeams"
+  }
+}

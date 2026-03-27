@@ -1,0 +1,318 @@
+{
+  "matchKey": "Liverpool__Chelsea__Premier_League__2026-05-09",
+  "createdAt": "2026-03-19T15:35:50.875Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום אדום מול חלום כחול",
+      "body": "ליברפול נגד צ'לסי באנפילד — הקרב שיזיז את הלב. חוויה שתחיה בך לנצח. הכרטיס שלך לחלום.",
+      "cta": "קנה כרטיס עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "ליברפול נגד צ'לסי באנפילד — הקרב שיזיז את הלב. חוויה שתחיה בך לנצח. הכרטיס שלך לחלום.",
+          "headline": "חלום אדום מול חלום כחול",
+          "description": "קנה כרטיס עכשיו"
+        },
+        "instagram": {
+          "caption": "חלום אדום מול חלום כחול\n\nליברפול נגד צ'לסי באנפילד — הקרב שיזיז את הלב. חוויה שתחיה בך לנצח. הכרטיס שלך לחלום.\n\nקנה כרטיס עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "ליברפול מול צ'לסי — 9 במאי 2026",
+      "body": "יום שישי, 9 במאי 2026. אנפילד, לונדון. ליגת העל. שתי קבוצות גדולות, משחק אחד קריטי. הזמן שלך הגיע.",
+      "cta": "הזמן מקום שלך",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "יום שישי, 9 במאי 2026. אנפילד, לונדון. ליגת העל. שתי קבוצות גדולות, משחק אחד קריטי. הזמן שלך הגיע.",
+          "headline": "ליברפול מול צ'לסי — 9 במאי 2026",
+          "description": "הזמן מקום שלך"
+        },
+        "instagram": {
+          "caption": "ליברפול מול צ'לסי — 9 במאי 2026\n\nיום שישי, 9 במאי 2026. אנפילד, לונדון. ליגת העל. שתי קבוצות גדולות, משחק אחד קריטי. הזמן שלך הגיע.\n\nהזמן מקום שלך"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "כרטיסים נגמרים — לא חכה!",
+      "body": "ליברפול נגד צ'לסי באנפילד — 9 במאי. כרטיסים במצב מחסור קריטי! הזדמנות אחרונה. אל תחמיץ.",
+      "cta": "קנה עכשיו קודם שנגמר",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "ליברפול נגד צ'לסי באנפילד — 9 במאי. כרטיסים במצב מחסור קריטי! הזדמנות אחרונה. אל תחמיץ.",
+          "headline": "כרטיסים נגמרים — לא חכה!",
+          "description": "קנה עכשיו קודם שנגמר"
+        },
+        "instagram": {
+          "caption": "כרטיסים נגמרים — לא חכה!\n\nליברפול נגד צ'לסי באנפילד — 9 במאי. כרטיסים במצב מחסור קריטי! הזדמנות אחרונה. אל תחמיץ.\n\nקנה עכשיו קודם שנגמר"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "homeTeam": "Liverpool",
+    "awayTeam": "Chelsea",
+    "competition": "Premier_League",
+    "date": "2026-05-09",
+    "heatScore": 21,
+    "tier": "warm",
+    "source": "orchestrator-full-pipeline",
+    "matchKey": "liverpool__chelsea__premier_league__2026-05-09",
+    "stadium": "אנפילד",
+    "currency": "GBP",
+    "generatedAt": "2026-03-19T15:37:09.929Z",
+    "recommendations": [
+      {
+        "category": "גביע אנגלי 1/4 גמר: מנצ'סטר סיטי - ליברפול",
+        "live": {
+          "name": "גביע אנגלי 1/4 גמר: מנצ'סטר סיטי - ליברפול",
+          "price": 150,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 135,
+          "currency": "GBP",
+          "formula": "150 × 0.90 = 135"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "אסטון וילה - ליברפול",
+        "live": {
+          "name": "אסטון וילה - ליברפול",
+          "price": 185,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 170,
+          "currency": "GBP",
+          "formula": "185 × 0.90 = 170"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליברפול - פולהאם",
+        "live": {
+          "name": "ליברפול - פולהאם",
+          "price": 235,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 215,
+          "currency": "GBP",
+          "formula": "235 × 0.90 = 215"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליברפול - קריסטל פאלאס",
+        "live": {
+          "name": "ליברפול - קריסטל פאלאס",
+          "price": 250,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 225,
+          "currency": "GBP",
+          "formula": "250 × 0.90 = 225"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ברייטון - ליברפול",
+        "live": {
+          "name": "ברייטון - ליברפול",
+          "price": 295,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 270,
+          "currency": "GBP",
+          "formula": "295 × 0.90 = 270"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "אברטון - ליברפול",
+        "live": {
+          "name": "אברטון - ליברפול",
+          "price": 310,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 280,
+          "currency": "GBP",
+          "formula": "310 × 0.90 = 280"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליברפול - ברנטפורד",
+        "live": {
+          "name": "ליברפול - ברנטפורד",
+          "price": 335,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 305,
+          "currency": "GBP",
+          "formula": "335 × 0.90 = 305"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליגת האלופות: ליברפול - פריז סן ז'רמן",
+        "live": {
+          "name": "ליגת האלופות: ליברפול - פריז סן ז'רמן",
+          "price": 375,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 340,
+          "currency": "GBP",
+          "formula": "375 × 0.90 = 340"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליגת האלופות: פריז סן ז'רמן - ליברפול",
+        "live": {
+          "name": "ליגת האלופות: פריז סן ז'רמן - ליברפול",
+          "price": 395,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 360,
+          "currency": "EUR",
+          "formula": "395 × 0.90 = 360"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליברפול - צ'לסי",
+        "live": {
+          "name": "ליברפול - צ'לסי",
+          "price": 395,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 360,
+          "currency": "GBP",
+          "formula": "395 × 0.90 = 360"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "מנצ'סטר יונייטד - ליברפול",
+        "live": {
+          "name": "מנצ'סטר יונייטד - ליברפול",
+          "price": 465,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 420,
+          "currency": "GBP",
+          "formula": "465 × 0.90 = 420"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      }
+    ]
+  },
+  "approvedAt": "2026-03-19T15:37:09.622Z",
+  "selectedVersion": 1,
+  "selectedAd": {
+    "index": 1,
+    "style": "רגשית",
+    "headline": "חלום אדום מול חלום כחול",
+    "body": "ליברפול נגד צ'לסי באנפילד — הקרב שיזיז את הלב. חוויה שתחיה בך לנצח. הכרטיס שלך לחלום.",
+    "cta": "קנה כרטיס עכשיו",
+    "meta": {
+      "style": "רגשית",
+      "facebook": {
+        "primary_text": "ליברפול נגד צ'לסי באנפילד — הקרב שיזיז את הלב. חוויה שתחיה בך לנצח. הכרטיס שלך לחלום.",
+        "headline": "חלום אדום מול חלום כחול",
+        "description": "קנה כרטיס עכשיו"
+      },
+      "instagram": {
+        "caption": "חלום אדום מול חלום כחול\n\nליברפול נגד צ'לסי באנפילד — הקרב שיזיז את הלב. חוויה שתחיה בך לנצח. הכרטיס שלך לחלום.\n\nקנה כרטיס עכשיו"
+      }
+    }
+  },
+  "budgetRecommendation": {
+    "eventName": "Liverpool vs Chelsea",
+    "heatScore": 21,
+    "recommendedDailyBudget": 100,
+    "expectedROAS": null,
+    "recommendedDuration": 21,
+    "recommendedTargeting": "purchase_lookalike",
+    "totalEstimatedBudget": 2100,
+    "daysUntilGame": 51
+  },
+  "publishedAt": "2026-03-19T15:37:19.439Z",
+  "campaignId": "120242348000260479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242348000260479"
+}

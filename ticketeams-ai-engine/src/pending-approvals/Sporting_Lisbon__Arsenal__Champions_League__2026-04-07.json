@@ -1,0 +1,204 @@
+{
+  "matchKey": "Sporting_Lisbon__Arsenal__Champions_League__2026-04-07",
+  "createdAt": "2026-03-19T15:49:06.644Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "הכרטיס שלך לחלום בליסבון",
+      "body": "ספורטינג מול ארסנל בערב קסום בליגת האלופות. חוויה שלא תשכח, אצטדיון מלא רוח, כל רגע חי. זה החלום שלך.",
+      "cta": "הזמן עכשיו",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "ספורטינג מול ארסנל בערב קסום בליגת האלופות. חוויה שלא תשכח, אצטדיון מלא רוח, כל רגע חי. זה החלום שלך.",
+          "headline": "הכרטיס שלך לחלום בליסבון",
+          "description": "הזמן עכשיו"
+        },
+        "instagram": {
+          "caption": "הכרטיס שלך לחלום בליסבון\n\nספורטינג מול ארסנל בערב קסום בליגת האלופות. חוויה שלא תשכח, אצטדיון מלא רוח, כל רגע חי. זה החלום שלך.\n\nהזמן עכשיו"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "ספורטינג נגד ארסנל • 7.4.2026",
+      "body": "ליגת האלופות • אצטדיון ספורטינג בליסבון • שישי 7 באפריל 2026 • שתי קבוצות עילית • הזדמנות ישירה לצפייה בגדולים.",
+      "cta": "קנה כרטיס",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "ליגת האלופות • אצטדיון ספורטינג בליסבון • שישי 7 באפריל 2026 • שתי קבוצות עילית • הזדמנות ישירה לצפייה בגדולים.",
+          "headline": "ספורטינג נגד ארסנל • 7.4.2026",
+          "description": "קנה כרטיס"
+        },
+        "instagram": {
+          "caption": "ספורטינג נגד ארסנל • 7.4.2026\n\nליגת האלופות • אצטדיון ספורטינג בליסבון • שישי 7 באפריל 2026 • שתי קבוצות עילית • הזדמנות ישירה לצפייה בגדולים.\n\nקנה כרטיס"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "⏰ רק מעט כרטיסים נותרו!",
+      "body": "ספורטינג מול ארסנל בליגת האלופות • 7 באפריל • אצטדיון ספורטינג • הכרטיסים נגמרים מהר • אל תפספס את ההזדמנות!",
+      "cta": "בטא מקום עכשיו",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "ספורטינג מול ארסנל בליגת האלופות • 7 באפריל • אצטדיון ספורטינג • הכרטיסים נגמרים מהר • אל תפספס את ההזדמנות!",
+          "headline": "⏰ רק מעט כרטיסים נותרו!",
+          "description": "בטא מקום עכשיו"
+        },
+        "instagram": {
+          "caption": "⏰ רק מעט כרטיסים נותרו!\n\nספורטינג מול ארסנל בליגת האלופות • 7 באפריל • אצטדיון ספורטינג • הכרטיסים נגמרים מהר • אל תפספס את ההזדמנות!\n\nבטא מקום עכשיו"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "homeTeam": "Sporting Lisbon",
+    "awayTeam": "Arsenal",
+    "competition": "Champions_League",
+    "date": "2026-04-07",
+    "heatScore": 19,
+    "tier": "warm",
+    "source": "orchestrator-full-pipeline",
+    "matchKey": "sporting_lisbon__arsenal__champions_league__2026-04-07",
+    "stadium": "אסטדיו דה לוז",
+    "currency": "EUR",
+    "generatedAt": "2026-03-19T15:50:10.403Z",
+    "recommendations": [
+      {
+        "category": "בנפיקה - ויטוריה גימראש",
+        "live": {
+          "name": "בנפיקה - ויטוריה גימראש",
+          "price": 80,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 75,
+          "currency": "EUR",
+          "formula": "80 × 0.90 = 75"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "בנפיקה - נאסיונל",
+        "live": {
+          "name": "בנפיקה - נאסיונל",
+          "price": 90,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 85,
+          "currency": "EUR",
+          "formula": "90 × 0.90 = 85"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "בנפיקה - מוריריינסה",
+        "live": {
+          "name": "בנפיקה - מוריריינסה",
+          "price": 190,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 175,
+          "currency": "EUR",
+          "formula": "190 × 0.90 = 175"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ספורטינג ליסבון - בנפיקה",
+        "live": {
+          "name": "ספורטינג ליסבון - בנפיקה",
+          "price": 300,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 270,
+          "currency": "EUR",
+          "formula": "300 × 0.90 = 270"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "בנפיקה - בראגה",
+        "live": {
+          "name": "בנפיקה - בראגה",
+          "price": 450,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 405,
+          "currency": "EUR",
+          "formula": "450 × 0.90 = 405"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      }
+    ]
+  },
+  "approvedAt": "2026-03-19T15:50:10.144Z",
+  "selectedVersion": 1,
+  "selectedAd": {
+    "index": 1,
+    "style": "רגשית",
+    "headline": "הכרטיס שלך לחלום בליסבון",
+    "body": "ספורטינג מול ארסנל בערב קסום בליגת האלופות. חוויה שלא תשכח, אצטדיון מלא רוח, כל רגע חי. זה החלום שלך.",
+    "cta": "הזמן עכשיו",
+    "meta": {
+      "style": "רגשית",
+      "facebook": {
+        "primary_text": "ספורטינג מול ארסנל בערב קסום בליגת האלופות. חוויה שלא תשכח, אצטדיון מלא רוח, כל רגע חי. זה החלום שלך.",
+        "headline": "הכרטיס שלך לחלום בליסבון",
+        "description": "הזמן עכשיו"
+      },
+      "instagram": {
+        "caption": "הכרטיס שלך לחלום בליסבון\n\nספורטינג מול ארסנל בערב קסום בליגת האלופות. חוויה שלא תשכח, אצטדיון מלא רוח, כל רגע חי. זה החלום שלך.\n\nהזמן עכשיו"
+      }
+    }
+  },
+  "budgetRecommendation": {
+    "eventName": "Sporting Lisbon vs Arsenal",
+    "heatScore": 19,
+    "recommendedDailyBudget": 100,
+    "expectedROAS": null,
+    "recommendedDuration": 14,
+    "recommendedTargeting": "purchase_lookalike",
+    "totalEstimatedBudget": 1400,
+    "daysUntilGame": 19
+  },
+  "publishedAt": "2026-03-19T15:50:18.350Z",
+  "campaignId": "120242351030650479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242351030650479"
+}

@@ -1,0 +1,1157 @@
+{
+  "weekStart": "2026-03-22",
+  "weekEnd": "2026-03-28",
+  "generatedAt": "2026-03-27T10:57:43.582Z",
+  "durationMs": 36059,
+  "executiveSummary": {
+    "totalRevenue": 25839,
+    "totalProfit": 0,
+    "netMarginPct": 0,
+    "dealCount": 1,
+    "allTimeTotalRevenue": 7365515,
+    "allTimeTotalProfit": 0,
+    "allTimeDealCount": 1768,
+    "summaryText": "השבוע נסגרו 1 עסקאות בהכנסה של ₪25,839 ורווח נטו של ₪0. אין מספיק נתונים להמלצת תקציב."
+  },
+  "campaignPerformance": [
+    {
+      "campaignName": "מונדיאל  כללי",
+      "dealCount": 22,
+      "totalTickets": 47,
+      "totalRevenue": 154127,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "משחקי ריאל מדריד",
+      "dealCount": 31,
+      "totalTickets": 56,
+      "totalRevenue": 146284,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "מודעה אלופות דאבלים",
+      "dealCount": 28,
+      "totalTickets": 49,
+      "totalRevenue": 115537,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "מודעה דאבלים אלופות",
+      "dealCount": 21,
+      "totalTickets": 40,
+      "totalRevenue": 77754,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "מודעה אלופות כללי",
+      "dealCount": 9,
+      "totalTickets": 22,
+      "totalRevenue": 41027,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "ריאל ארסנל",
+      "dealCount": 4,
+      "totalTickets": 11,
+      "totalRevenue": 37001,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "רבעים ליגת אלופות",
+      "dealCount": 6,
+      "totalTickets": 17,
+      "totalRevenue": 32394,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "דבלים אנגליה",
+      "dealCount": 10,
+      "totalTickets": 19,
+      "totalRevenue": 31300,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "מונדיאל ניו יורק",
+      "dealCount": 5,
+      "totalTickets": 7,
+      "totalRevenue": 24483,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "ברצלונה - אינטר",
+      "dealCount": 4,
+      "totalTickets": 9,
+      "totalRevenue": 23115,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "לא רשום",
+      "dealCount": 7,
+      "totalTickets": 10,
+      "totalRevenue": 20304,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "פריז נגד ארסנל",
+      "dealCount": 4,
+      "totalTickets": 7,
+      "totalRevenue": 19302,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "מודעה כללית אלופות",
+      "dealCount": 3,
+      "totalTickets": 8,
+      "totalRevenue": 17246,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "צמד שמינית ספרד",
+      "dealCount": 7,
+      "totalTickets": 10,
+      "totalRevenue": 13770,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "צמד חצאים גביע ספרד",
+      "dealCount": 3,
+      "totalTickets": 8,
+      "totalRevenue": 13686,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "איראנה גרנדה",
+      "dealCount": 2,
+      "totalTickets": 2,
+      "totalRevenue": 5731,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "מודעה ברצלונה",
+      "dealCount": 1,
+      "totalTickets": 2,
+      "totalRevenue": 5217,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "ריאל לבאנטה/מונאקו",
+      "dealCount": 2,
+      "totalTickets": 4,
+      "totalRevenue": 3178,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    },
+    {
+      "campaignName": "אתלטיקו מדריד נגד ברצלונה",
+      "dealCount": 1,
+      "totalTickets": 2,
+      "totalRevenue": 2433,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "profitAfterAds": 0,
+      "cpa": null,
+      "isPositiveROI": false,
+      "marketingStatus": ""
+    }
+  ],
+  "weekCampaignPerformance": [],
+  "topEvents": [
+    {
+      "eventName": "ריאל מדריד נגד ברצלונה",
+      "homeTeam": "ריאל מדריד",
+      "gameDate": "2024-10-26",
+      "dealCount": 45,
+      "totalTickets": 86,
+      "totalRevenue": 355919,
+      "totalCost": 331001,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 7,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 4139
+    },
+    {
+      "eventName": "ריאל מדריד נגד מנצ'סטר סיטי",
+      "homeTeam": "ריאל מדריד",
+      "gameDate": "2025-02-19",
+      "dealCount": 53,
+      "totalTickets": 112,
+      "totalRevenue": 263014,
+      "totalCost": 226539,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 13.9,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 2348
+    },
+    {
+      "eventName": "גמר המונדיאל",
+      "homeTeam": "מונדיאל 2026",
+      "gameDate": "2026-07-19",
+      "dealCount": 1,
+      "totalTickets": 6,
+      "totalRevenue": 253590,
+      "totalCost": 176160,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 30.5,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 42265
+    },
+    {
+      "eventName": "ריאל מדריד נגד ארסנל",
+      "homeTeam": "ריאל מדריד",
+      "gameDate": "2025-04-16",
+      "dealCount": 26,
+      "totalTickets": 56,
+      "totalRevenue": 178493,
+      "totalCost": 140233,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 21.4,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 3187
+    },
+    {
+      "eventName": "גמר ליגת האלופות 2025",
+      "homeTeam": "גמר ליגת האלופות",
+      "gameDate": "2025-05-31",
+      "dealCount": 8,
+      "totalTickets": 16,
+      "totalRevenue": 166120,
+      "totalCost": 134940,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 18.8,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 10382
+    },
+    {
+      "eventName": "גמר יורו",
+      "homeTeam": "יורו 2024",
+      "gameDate": "2024-07-14",
+      "dealCount": 9,
+      "totalTickets": 18,
+      "totalRevenue": 142218,
+      "totalCost": 93621,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 34.2,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 7901
+    },
+    {
+      "eventName": "מונדיאל 2026: משחק 99 : רבע גמר",
+      "homeTeam": "מונדיאל 2026",
+      "gameDate": "2026-07-11",
+      "dealCount": 4,
+      "totalTickets": 19,
+      "totalRevenue": 112097,
+      "totalCost": 0,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 100,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 5900
+    },
+    {
+      "eventName": "צ'לסי נגד ברצלונה",
+      "homeTeam": "צ'לסי",
+      "gameDate": "2025-11-25",
+      "dealCount": 21,
+      "totalTickets": 32,
+      "totalRevenue": 104901,
+      "totalCost": 82386,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 21.5,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 3278
+    },
+    {
+      "eventName": "ריאל מדריד - באיירן מינכן",
+      "homeTeam": "ריאל מדריד",
+      "gameDate": "2024-05-08",
+      "dealCount": 15,
+      "totalTickets": 29,
+      "totalRevenue": 102370,
+      "totalCost": 91537,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 10.6,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 3530
+    },
+    {
+      "eventName": "ברצלונה נגד ריאל מדריד",
+      "homeTeam": "ברצלונה",
+      "gameDate": "2025-05-11",
+      "dealCount": 14,
+      "totalTickets": 24,
+      "totalRevenue": 97048,
+      "totalCost": 45803,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 52.8,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 4044
+    }
+  ],
+  "weekTopEvents": [
+    {
+      "eventName": "גמר ליגת האלופות 2026",
+      "homeTeam": "גמר ליגת האלופות",
+      "gameDate": "2026-05-30",
+      "dealCount": 1,
+      "totalTickets": 2,
+      "totalRevenue": 25839,
+      "totalCost": 0,
+      "totalCommissions": 0,
+      "totalAgentCommission": 0,
+      "totalProfit": 0,
+      "grossMarginPct": 100,
+      "netMarginPct": 0,
+      "avgProfitPerDeal": 0,
+      "avgRevenuePerTicket": 12920
+    }
+  ],
+  "channelPerformance": [
+    {
+      "channel": "word_of_mouth",
+      "channelLabel": "פה לאוזן",
+      "dealCount": 462,
+      "totalTickets": 989,
+      "totalRevenue": 1925998,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 4169,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 26.1
+    },
+    {
+      "channel": "paid_meta",
+      "channelLabel": "פרסומת Meta",
+      "dealCount": 321,
+      "totalTickets": 731,
+      "totalRevenue": 1530197,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 4767,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 20.8
+    },
+    {
+      "channel": "suppliers",
+      "channelLabel": "ספקים",
+      "dealCount": 258,
+      "totalTickets": 546,
+      "totalRevenue": 928920,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 3600,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 12.6
+    },
+    {
+      "channel": "agents",
+      "channelLabel": "סוכנים",
+      "dealCount": 119,
+      "totalTickets": 291,
+      "totalRevenue": 839939,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 7058,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 11.4
+    },
+    {
+      "channel": "customer_club",
+      "channelLabel": "מועדון לקוחות",
+      "dealCount": 232,
+      "totalTickets": 528,
+      "totalRevenue": 835911,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 3603,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 11.3
+    },
+    {
+      "channel": "organic",
+      "channelLabel": "אורגני אתר",
+      "dealCount": 111,
+      "totalTickets": 245,
+      "totalRevenue": 508808,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 4584,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 6.9
+    },
+    {
+      "channel": "facebook_groups",
+      "channelLabel": "קבוצות פייסבוק",
+      "dealCount": 106,
+      "totalTickets": 217,
+      "totalRevenue": 287774,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 2715,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 3.9
+    },
+    {
+      "channel": "other",
+      "channelLabel": "אחר/לא מזוהה",
+      "dealCount": 78,
+      "totalTickets": 139,
+      "totalRevenue": 208443,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 2672,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 2.8
+    },
+    {
+      "channel": "influencers",
+      "channelLabel": "משפיענים",
+      "dealCount": 48,
+      "totalTickets": 91,
+      "totalRevenue": 182574,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 3804,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 2.5
+    },
+    {
+      "channel": "whatsapp_groups",
+      "channelLabel": "קבוצות וואטסאפ",
+      "dealCount": 20,
+      "totalTickets": 47,
+      "totalRevenue": 58225,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 2911,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 0.8
+    },
+    {
+      "channel": "paid_google",
+      "channelLabel": "Google Ads",
+      "dealCount": 6,
+      "totalTickets": 12,
+      "totalRevenue": 24440,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 4073,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 0.3
+    },
+    {
+      "channel": "sponsorship",
+      "channelLabel": "חסות",
+      "dealCount": 3,
+      "totalTickets": 8,
+      "totalRevenue": 22767,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 7589,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 0.3
+    },
+    {
+      "channel": "ai",
+      "channelLabel": "AI",
+      "dealCount": 3,
+      "totalTickets": 5,
+      "totalRevenue": 8937,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 2979,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 0.1
+    },
+    {
+      "channel": "podcast",
+      "channelLabel": "פודקאסט",
+      "dealCount": 1,
+      "totalTickets": 1,
+      "totalRevenue": 2582,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 2582,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 0
+    }
+  ],
+  "weekChannelPerformance": [
+    {
+      "channel": "word_of_mouth",
+      "channelLabel": "פה לאוזן",
+      "dealCount": 1,
+      "totalTickets": 2,
+      "totalRevenue": 25839,
+      "totalProfit": 0,
+      "avgRevenuePerDeal": 25839,
+      "avgProfitPerDeal": 0,
+      "pctOfRevenue": 100
+    }
+  ],
+  "budgetRecommendations": [
+    {
+      "campaignName": "מונדיאל  כללי",
+      "dealCount": 22,
+      "totalRevenue": 154127,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "משחקי ריאל מדריד",
+      "dealCount": 31,
+      "totalRevenue": 146284,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "מודעה אלופות דאבלים",
+      "dealCount": 28,
+      "totalRevenue": 115537,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "מודעה דאבלים אלופות",
+      "dealCount": 21,
+      "totalRevenue": 77754,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "מודעה אלופות כללי",
+      "dealCount": 9,
+      "totalRevenue": 41027,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "ריאל ארסנל",
+      "dealCount": 4,
+      "totalRevenue": 37001,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "רבעים ליגת אלופות",
+      "dealCount": 6,
+      "totalRevenue": 32394,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "דבלים אנגליה",
+      "dealCount": 10,
+      "totalRevenue": 31300,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "מונדיאל ניו יורק",
+      "dealCount": 5,
+      "totalRevenue": 24483,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "ברצלונה - אינטר",
+      "dealCount": 4,
+      "totalRevenue": 23115,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "לא רשום",
+      "dealCount": 7,
+      "totalRevenue": 20304,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "פריז נגד ארסנל",
+      "dealCount": 4,
+      "totalRevenue": 19302,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "מודעה כללית אלופות",
+      "dealCount": 3,
+      "totalRevenue": 17246,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "צמד שמינית ספרד",
+      "dealCount": 7,
+      "totalRevenue": 13770,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "צמד חצאים גביע ספרד",
+      "dealCount": 3,
+      "totalRevenue": 13686,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "איראנה גרנדה",
+      "dealCount": 2,
+      "totalRevenue": 5731,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "מודעה ברצלונה",
+      "dealCount": 1,
+      "totalRevenue": 5217,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "ריאל לבאנטה/מונאקו",
+      "dealCount": 2,
+      "totalRevenue": 3178,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    },
+    {
+      "campaignName": "אתלטיקו מדריד נגד ברצלונה",
+      "dealCount": 1,
+      "totalRevenue": 2433,
+      "totalProfit": 0,
+      "adSpend": 0,
+      "roas": null,
+      "recommendation": "no_spend_data",
+      "reason": "אין נתוני הוצאה — לא ניתן לחשב ROAS",
+      "suggestedAction": "לעדכן הוצאה בלוח שיווק"
+    }
+  ],
+  "budgetSummary": {
+    "totalCampaigns": 19,
+    "byAction": {
+      "increase": 0,
+      "maintain": 0,
+      "reduce": 0,
+      "pause": 0,
+      "insufficient_data": 0,
+      "no_spend_data": 19
+    },
+    "topPerformer": null,
+    "worstPerformer": null,
+    "summaryText": "אין מספיק נתונים להמלצת תקציב."
+  },
+  "alerts": [
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ריאל מדריד נגד ברצלונה\" — רווח גולמי 7% (מתחת ל-15%)",
+      "data": {
+        "event": "ריאל מדריד נגד ברצלונה",
+        "grossMarginPct": 7
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ריאל מדריד נגד מנצ'סטר סיטי\" — רווח גולמי 13.9% (מתחת ל-15%)",
+      "data": {
+        "event": "ריאל מדריד נגד מנצ'סטר סיטי",
+        "grossMarginPct": 13.9
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ריאל מדריד - באיירן מינכן\" — רווח גולמי 10.6% (מתחת ל-15%)",
+      "data": {
+        "event": "ריאל מדריד - באיירן מינכן",
+        "grossMarginPct": 10.6
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ספרד- איטליה\" — רווח גולמי 8% (מתחת ל-15%)",
+      "data": {
+        "event": "ספרד- איטליה",
+        "grossMarginPct": 8
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ריאל מדריד - סיטי\" — רווח גולמי 13.3% (מתחת ל-15%)",
+      "data": {
+        "event": "ריאל מדריד - סיטי",
+        "grossMarginPct": 13.3
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"חצי גמר מינכן\" — רווח גולמי 12% (מתחת ל-15%)",
+      "data": {
+        "event": "חצי גמר מינכן",
+        "grossMarginPct": 12
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"פורטוגל - צכיה\" — רווח גולמי 1.2% (מתחת ל-15%)",
+      "data": {
+        "event": "פורטוגל - צכיה",
+        "grossMarginPct": 1.2
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"הולנד - צרפת\" — רווח גולמי 3.8% (מתחת ל-15%)",
+      "data": {
+        "event": "הולנד - צרפת",
+        "grossMarginPct": 3.8
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ריאל מדריד - ברצלונה\" — רווח גולמי 13.3% (מתחת ל-15%)",
+      "data": {
+        "event": "ריאל מדריד - ברצלונה",
+        "grossMarginPct": 13.3
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ספרד - קרואטיה\" — רווח גולמי 8.7% (מתחת ל-15%)",
+      "data": {
+        "event": "ספרד - קרואטיה",
+        "grossMarginPct": 8.7
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"רבע גמר דיסלדורף\" — רווח גולמי 0.5% (מתחת ל-15%)",
+      "data": {
+        "event": "רבע גמר דיסלדורף",
+        "grossMarginPct": 0.5
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ארסנל נגד טוטנהאם\" — רווח גולמי 7.4% (מתחת ל-15%)",
+      "data": {
+        "event": "ארסנל נגד טוטנהאם",
+        "grossMarginPct": 7.4
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ריאל מדריד - אתלטיקו מדריד\" — רווח גולמי 13.7% (מתחת ל-15%)",
+      "data": {
+        "event": "ריאל מדריד - אתלטיקו מדריד",
+        "grossMarginPct": 13.7
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ריאל מדריד נגד ויאריאל\" — רווח גולמי 4.5% (מתחת ל-15%)",
+      "data": {
+        "event": "ריאל מדריד נגד ויאריאל",
+        "grossMarginPct": 4.5
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"איטליה - אלבניה\" — רווח גולמי 7.4% (מתחת ל-15%)",
+      "data": {
+        "event": "איטליה - אלבניה",
+        "grossMarginPct": 7.4
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"שמינית גמר מינכן\" — רווח גולמי 11.3% (מתחת ל-15%)",
+      "data": {
+        "event": "שמינית גמר מינכן",
+        "grossMarginPct": 11.3
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"דורטמונד - פסז\" — רווח גולמי 8.2% (מתחת ל-15%)",
+      "data": {
+        "event": "דורטמונד - פסז",
+        "grossMarginPct": 8.2
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"גרמניה - הונגריה\" — רווח גולמי 2% (מתחת ל-15%)",
+      "data": {
+        "event": "גרמניה - הונגריה",
+        "grossMarginPct": 2
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ריאל מדריד נגד ולנסיה\" — רווח גולמי 11.8% (מתחת ל-15%)",
+      "data": {
+        "event": "ריאל מדריד נגד ולנסיה",
+        "grossMarginPct": 11.8
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"אתלטיקו מדריד - דורטמונד\" — רווח גולמי 10% (מתחת ל-15%)",
+      "data": {
+        "event": "אתלטיקו מדריד - דורטמונד",
+        "grossMarginPct": 10
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"ברצלונה - נאפולי\" — רווח גולמי 11.2% (מתחת ל-15%)",
+      "data": {
+        "event": "ברצלונה - נאפולי",
+        "grossMarginPct": 11.2
+      }
+    },
+    {
+      "type": "low_margin",
+      "severity": "warning",
+      "message": "אירוע \"סלובקיה - פלייאוף\" — רווח גולמי 14% (מתחת ל-15%)",
+      "data": {
+        "event": "סלובקיה - פלייאוף",
+        "grossMarginPct": 14
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"פה לאוזן\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "פה לאוזן",
+        "avgProfitPerDeal": 0,
+        "dealCount": 462
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"פרסומת Meta\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "פרסומת Meta",
+        "avgProfitPerDeal": 0,
+        "dealCount": 321
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"ספקים\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "ספקים",
+        "avgProfitPerDeal": 0,
+        "dealCount": 258
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"סוכנים\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "סוכנים",
+        "avgProfitPerDeal": 0,
+        "dealCount": 119
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"מועדון לקוחות\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "מועדון לקוחות",
+        "avgProfitPerDeal": 0,
+        "dealCount": 232
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"אורגני אתר\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "אורגני אתר",
+        "avgProfitPerDeal": 0,
+        "dealCount": 111
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"קבוצות פייסבוק\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "קבוצות פייסבוק",
+        "avgProfitPerDeal": 0,
+        "dealCount": 106
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"אחר/לא מזוהה\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "אחר/לא מזוהה",
+        "avgProfitPerDeal": 0,
+        "dealCount": 78
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"משפיענים\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "משפיענים",
+        "avgProfitPerDeal": 0,
+        "dealCount": 48
+      }
+    },
+    {
+      "type": "channel_underperform",
+      "severity": "warning",
+      "message": "ערוץ \"קבוצות וואטסאפ\" — רווח ממוצע ₪0/עסקה (מתחת ל-₪300)",
+      "data": {
+        "channel": "קבוצות וואטסאפ",
+        "avgProfitPerDeal": 0,
+        "dealCount": 20
+      }
+    },
+    {
+      "type": "attribution_gap",
+      "severity": "info",
+      "message": "89.4% מהעסקאות ללא שיוך לקמפיין (1598 עסקאות, ₪6,581,626)",
+      "data": {
+        "dealCount": 1598,
+        "totalRevenue": 6581626,
+        "pctOfTotal": 89.4
+      }
+    }
+  ],
+  "dataQuality": {
+    "totalDeals": 1768,
+    "weekDeals": 1,
+    "unattributedDeals": 1598,
+    "unattributedPct": 89.4,
+    "unattributedRevenue": 6581626
+  }
+}

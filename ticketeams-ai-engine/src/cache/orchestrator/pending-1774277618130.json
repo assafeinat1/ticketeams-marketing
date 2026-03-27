@@ -1,0 +1,31 @@
+{
+  "id": "pending-1774277618130",
+  "status": "pending",
+  "createdAt": "2026-03-23T14:53:38.130Z",
+  "decision": {
+    "type": "CREATE_CAMPAIGN",
+    "requiresApproval": true,
+    "priority": "high",
+    "event": {
+      "homeTeam": "צ'לסי",
+      "awayTeam": "נוטינגהאם פורסט",
+      "score": 65,
+      "tier": "onFire",
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "eventDate": "2026-05-02"
+    },
+    "existingCampaign": null,
+    "suggestedAction": {
+      "action": "create_campaign",
+      "matchKey": "צ'לסי__נוטינגהאם_פורסט__unknown__",
+      "suggestedBudgetILS": 300,
+      "targeting": "broad_prospecting",
+      "reasoning": "Heat 65 (onFire) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+    },
+    "classification": "approval_required"
+  }
+}

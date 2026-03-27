@@ -1,0 +1,8 @@
+{
+  "monitorKey": "test__monitor_key",
+  "timestamp": 1773244513333,
+  "savedAt": "2026-03-11T15:55:13.333Z",
+  "results": {
+    "test": true
+  }
+}

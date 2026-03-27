@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "partialSuccess": true,
+  "matchKey": "Liverpool__Chelsea__Premier_League__2026-05-09",
+  "campaignId": "120242348000260479",
+  "campaignName": "Liverpool נגד Chelsea | לידים - 09.05.26",
+  "adSets": [
+    {
+      "adSetId": "120242348009760479",
+      "audienceKey": "lookalike_site_visitors_1pct",
+      "format": "feed",
+      "name": "Liverpool נגד Chelsea | לידים - דומה (1%) - ביקורים באתר 30 יום - Feed - 09.05.26"
+    },
+    {
+      "adSetId": "120242348018460479",
+      "audienceKey": "lookalike_site_visitors_1pct",
+      "format": "story",
+      "name": "Liverpool נגד Chelsea | לידים - דומה (1%) - ביקורים באתר 30 יום - Story - 09.05.26"
+    },
+    {
+      "adSetId": "120242348027080479",
+      "audienceKey": "retargeting_site_visitors_30d",
+      "format": "feed",
+      "name": "Liverpool נגד Chelsea | לידים - ביקורים באתר 30 יום - Feed - 09.05.26"
+    },
+    {
+      "adSetId": "120242348045770479",
+      "audienceKey": "retargeting_site_visitors_30d",
+      "format": "story",
+      "name": "Liverpool נגד Chelsea | לידים - ביקורים באתר 30 יום - Story - 09.05.26"
+    }
+  ],
+  "imageHashes": {
+    "feed": null,
+    "story": null
+  },
+  "status": "PAUSED",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242348000260479",
+  "warnings": [
+    "Ad creative/ad creation skipped — pagePostPublish feature flag is off. Campaign + Ad Sets created. Enable page permissions to create full ads."
+  ],
+  "createdAt": "2026-03-19T15:37:19.439Z",
+  "lastStatusCheck": "2026-03-24T04:00:02.887Z"
+}

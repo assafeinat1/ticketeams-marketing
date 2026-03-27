@@ -1,0 +1,299 @@
+{
+  "matchKey": "_______________Premier_League__2026-05-02",
+  "createdAt": "2026-03-23T15:13:12.246Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום של כל אוהד כדורגל",
+      "body": "ארסנל מול פולהאם — זה לא סתם משחק, זה חוויה שתשנה לך את החיים. תרגיש את הרגש, תשמע את הקהל, תהיה חלק מהקסם בגדול ביותר.",
+      "cta": "הזמן את הכרטיס שלך",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "ארסנל מול פולהאם — זה לא סתם משחק, זה חוויה שתשנה לך את החיים. תרגיש את הרגש, תשמע את הקהל, תהיה חלק מהקסם בגדול ביותר.",
+          "headline": "חלום של כל אוהד כדורגל",
+          "description": "הזמן את הכרטיס שלך"
+        },
+        "instagram": {
+          "caption": "חלום של כל אוהד כדורגל\n\nארסנל מול פולהאם — זה לא סתם משחק, זה חוויה שתשנה לך את החיים. תרגיש את הרגש, תשמע את הקהל, תהיה חלק מהקסם בגדול ביותר.\n\nהזמן את הכרטיס שלך"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "ארסנל נגד פולהאם — 2 במאי",
+      "body": "ליגת הפרימיירשיפ בקטגוריה הגבוהה ביותר. בתאריך 2 במאי 2026 באצטדיון ארסנל. שתי קבוצות חזקות בעימות מלא. קנה כרטיס עכשיו.",
+      "cta": "רכוש כרטיס",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "ליגת הפרימיירשיפ בקטגוריה הגבוהה ביותר. בתאריך 2 במאי 2026 באצטדיון ארסנל. שתי קבוצות חזקות בעימות מלא. קנה כרטיס עכשיו.",
+          "headline": "ארסנל נגד פולהאם — 2 במאי",
+          "description": "רכוש כרטיס"
+        },
+        "instagram": {
+          "caption": "ארסנל נגד פולהאם — 2 במאי\n\nליגת הפרימיירשיפ בקטגוריה הגבוהה ביותר. בתאריך 2 במאי 2026 באצטדיון ארסנל. שתי קבוצות חזקות בעימות מלא. קנה כרטיס עכשיו.\n\nרכוש כרטיס"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "נגמר בעוד שעות בלבד!",
+      "body": "כרטיסים לארסנל נגד פולהאם בעד כמה זמן! הזדמנות אחרונה שלך להיות בגדול ביותר ב-2 במאי. אל תחמיץ — הממלאות ממתינה.",
+      "cta": "קנה עכשיו בחצי דקה",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "כרטיסים לארסנל נגד פולהאם בעד כמה זמן! הזדמנות אחרונה שלך להיות בגדול ביותר ב-2 במאי. אל תחמיץ — הממלאות ממתינה.",
+          "headline": "נגמר בעוד שעות בלבד!",
+          "description": "קנה עכשיו בחצי דקה"
+        },
+        "instagram": {
+          "caption": "נגמר בעוד שעות בלבד!\n\nכרטיסים לארסנל נגד פולהאם בעד כמה זמן! הזדמנות אחרונה שלך להיות בגדול ביותר ב-2 במאי. אל תחמיץ — הממלאות ממתינה.\n\nקנה עכשיו בחצי דקה"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "homeTeam": "ארסנל",
+    "awayTeam": "פולהאם",
+    "competition": "Premier League",
+    "date": "2026-05-02",
+    "heatScore": 65,
+    "tier": "onFire",
+    "source": "orchestrator-full-pipeline",
+    "matchKey": "ארסנל__פולהאם__premier_league__2026-05-02",
+    "stadium": "אמירייטס סטדיום",
+    "currency": "GBP",
+    "generatedAt": "2026-03-23T15:14:41.149Z",
+    "recommendations": [
+      {
+        "category": "גביע אנגלי 1/4 גמר: סאות'המפטון - ארסנל",
+        "live": {
+          "name": "גביע אנגלי 1/4 גמר: סאות'המפטון - ארסנל",
+          "price": 165,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 150,
+          "currency": "GBP",
+          "formula": "165 × 0.90 = 150"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ארסנל - בורנמות'",
+        "live": {
+          "name": "ארסנל - בורנמות'",
+          "price": 250,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 225,
+          "currency": "GBP",
+          "formula": "250 × 0.90 = 225"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליגת האלופות: ספורטינג ליסבון - ארסנל",
+        "live": {
+          "name": "ליגת האלופות: ספורטינג ליסבון - ארסנל",
+          "price": 275,
+          "currency": "EUR"
+        },
+        "recommended": {
+          "price": 250,
+          "currency": "EUR",
+          "formula": "275 × 0.90 = 250"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ליגת האלופות: ארסנל - ספורטינג ליסבון",
+        "live": {
+          "name": "ליגת האלופות: ארסנל - ספורטינג ליסבון",
+          "price": 295,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 270,
+          "currency": "GBP",
+          "formula": "295 × 0.90 = 270"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ארסנל - ניוקאסל",
+        "live": {
+          "name": "ארסנל - ניוקאסל",
+          "price": 375,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 340,
+          "currency": "GBP",
+          "formula": "375 × 0.90 = 340"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ווסטהאם יונייטד - ארסנל",
+        "live": {
+          "name": "ווסטהאם יונייטד - ארסנל",
+          "price": 375,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 340,
+          "currency": "GBP",
+          "formula": "375 × 0.90 = 340"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "מנצ'סטר סיטי - ארסנל",
+        "live": {
+          "name": "מנצ'סטר סיטי - ארסנל",
+          "price": 450,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 405,
+          "currency": "GBP",
+          "formula": "450 × 0.90 = 405"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ארסנל - פולהאם",
+        "live": {
+          "name": "ארסנל - פולהאם",
+          "price": 625,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 565,
+          "currency": "GBP",
+          "formula": "625 × 0.90 = 565"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "קריסטל פאלאס - ארסנל",
+        "live": {
+          "name": "קריסטל פאלאס - ארסנל",
+          "price": 1000,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 900,
+          "currency": "GBP",
+          "formula": "1000 × 0.90 = 900"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ארסנל - ברנלי",
+        "live": {
+          "name": "ארסנל - ברנלי",
+          "price": 1450,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 1305,
+          "currency": "GBP",
+          "formula": "1450 × 0.90 = 1305"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      }
+    ]
+  },
+  "approvedAt": "2026-03-23T15:14:40.927Z",
+  "selectedVersion": 1,
+  "selectedAd": {
+    "index": 1,
+    "style": "רגשית",
+    "headline": "חלום של כל אוהד כדורגל",
+    "body": "ארסנל מול פולהאם — זה לא סתם משחק, זה חוויה שתשנה לך את החיים. תרגיש את הרגש, תשמע את הקהל, תהיה חלק מהקסם בגדול ביותר.",
+    "cta": "הזמן את הכרטיס שלך",
+    "meta": {
+      "style": "רגשית",
+      "facebook": {
+        "primary_text": "ארסנל מול פולהאם — זה לא סתם משחק, זה חוויה שתשנה לך את החיים. תרגיש את הרגש, תשמע את הקהל, תהיה חלק מהקסם בגדול ביותר.",
+        "headline": "חלום של כל אוהד כדורגל",
+        "description": "הזמן את הכרטיס שלך"
+      },
+      "instagram": {
+        "caption": "חלום של כל אוהד כדורגל\n\nארסנל מול פולהאם — זה לא סתם משחק, זה חוויה שתשנה לך את החיים. תרגיש את הרגש, תשמע את הקהל, תהיה חלק מהקסם בגדול ביותר.\n\nהזמן את הכרטיס שלך"
+      }
+    }
+  },
+  "budgetRecommendation": {
+    "eventName": "ארסנל vs פולהאם",
+    "heatScore": 65,
+    "recommendedDailyBudget": 225,
+    "expectedROAS": null,
+    "recommendedDuration": 21,
+    "recommendedTargeting": "broad_prospecting",
+    "totalEstimatedBudget": 4725,
+    "daysUntilGame": 40
+  },
+  "publishedAt": "2026-03-23T15:14:49.575Z",
+  "campaignId": "120242525248760479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242525248760479"
+}

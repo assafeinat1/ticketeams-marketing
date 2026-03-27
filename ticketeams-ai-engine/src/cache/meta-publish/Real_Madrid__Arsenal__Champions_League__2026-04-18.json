@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "partialSuccess": true,
+  "matchKey": "Real_Madrid__Arsenal__Champions_League__2026-04-18",
+  "campaignId": "120242335918950479",
+  "campaignName": "Real Madrid vs Arsenal | לידים - 18.04.26",
+  "adSets": [
+    {
+      "adSetId": "120242335919390479",
+      "audienceKey": "lookalike_purchase_1pct",
+      "format": "feed",
+      "name": "Real Madrid vs Arsenal | לידים - דומה (1%) - רכישה - Feed - 18.04.26"
+    },
+    {
+      "adSetId": "120242335920100479",
+      "audienceKey": "lookalike_purchase_1pct",
+      "format": "story",
+      "name": "Real Madrid vs Arsenal | לידים - דומה (1%) - רכישה - Story - 18.04.26"
+    },
+    {
+      "adSetId": "120242335921050479",
+      "audienceKey": "retargeting_site_visitors_30d",
+      "format": "feed",
+      "name": "Real Madrid vs Arsenal | לידים - ביקורים באתר 30 יום - Feed - 18.04.26"
+    },
+    {
+      "adSetId": "120242335921480479",
+      "audienceKey": "retargeting_site_visitors_30d",
+      "format": "story",
+      "name": "Real Madrid vs Arsenal | לידים - ביקורים באתר 30 יום - Story - 18.04.26"
+    },
+    {
+      "adSetId": "120242335922050479",
+      "audienceKey": "retargeting_fb_engagement",
+      "format": "feed",
+      "name": "Real Madrid vs Arsenal | לידים - מעורבות פייסבוק - Feed - 18.04.26"
+    },
+    {
+      "adSetId": "120242335922450479",
+      "audienceKey": "retargeting_fb_engagement",
+      "format": "story",
+      "name": "Real Madrid vs Arsenal | לידים - מעורבות פייסבוק - Story - 18.04.26"
+    }
+  ],
+  "imageHashes": {
+    "feed": "69973e0385a067aeb39d72352230b74c",
+    "story": "834c05a32cfc4a6148695ce8cfb69fb0"
+  },
+  "status": "PAUSED",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242335918950479",
+  "warnings": [
+    "Ad creative/ad creation skipped — pagePostPublish feature flag is off. Campaign + Ad Sets created. Enable page permissions to create full ads."
+  ],
+  "createdAt": "2026-03-19T11:46:25.026Z",
+  "lastStatusCheck": "2026-03-24T04:00:04.929Z"
+}

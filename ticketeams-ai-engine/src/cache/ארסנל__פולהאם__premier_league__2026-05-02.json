@@ -1,0 +1,81 @@
+{
+  "matchKey": "ארסנל__פולהאם__premier_league__2026-05-02",
+  "timestamp": 1774278881147,
+  "savedAt": "2026-03-23T15:14:41.147Z",
+  "results": {
+    "matchKey": "ארסנל__פולהאם__premier_league__2026-05-02",
+    "homeTeam": "ארסנל",
+    "awayTeam": "פולהאם",
+    "competition": "Premier League",
+    "date": "2026-05-02",
+    "currency": "GBP",
+    "stadium": "אמירייטס סטדיום",
+    "city": "לונדון",
+    "name_he": "ארסנל",
+    "scrapedAt": "2026-03-23T15:14:41.147Z",
+    "sources": {
+      "livetickets": {
+        "url": "https://www.livetickets.co.il/performers/Arsenal%20FC.aspx",
+        "eventName": "ארסנל",
+        "eventDate": null,
+        "currency": "GBP",
+        "officialCurrency": "GBP",
+        "scrapedAt": "2026-03-23T15:14:41.147Z",
+        "status": "ok",
+        "dateWarning": null,
+        "categories": [
+          {
+            "name": "גביע אנגלי 1/4 גמר: סאות'המפטון - ארסנל",
+            "price": 165,
+            "currency": "GBP"
+          },
+          {
+            "name": "ליגת האלופות: ספורטינג ליסבון - ארסנל",
+            "price": 275,
+            "currency": "EUR"
+          },
+          {
+            "name": "ארסנל - בורנמות'",
+            "price": 250,
+            "currency": "GBP"
+          },
+          {
+            "name": "ליגת האלופות: ארסנל - ספורטינג ליסבון",
+            "price": 295,
+            "currency": "GBP"
+          },
+          {
+            "name": "מנצ'סטר סיטי - ארסנל",
+            "price": 450,
+            "currency": "GBP"
+          },
+          {
+            "name": "ארסנל - ניוקאסל",
+            "price": 375,
+            "currency": "GBP"
+          },
+          {
+            "name": "ארסנל - פולהאם",
+            "price": 625,
+            "currency": "GBP"
+          },
+          {
+            "name": "ווסטהאם יונייטד - ארסנל",
+            "price": 375,
+            "currency": "GBP"
+          },
+          {
+            "name": "ארסנל - ברנלי",
+            "price": 1450,
+            "currency": "GBP"
+          },
+          {
+            "name": "קריסטל פאלאס - ארסנל",
+            "price": 1000,
+            "currency": "GBP"
+          }
+        ]
+      }
+    }
+  }
+}

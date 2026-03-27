@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "apiVersion": "v21.0",
+    "apiBase": "https://graph.facebook.com/v21.0",
+    "rateLimitPerHour": 200,
+    "retryAttempts": 3,
+    "retryDelayMs": 2000
+  },
+  "campaignDefaults": {
+    "objective": "OUTCOME_TRAFFIC",
+    "status": "PAUSED",
+    "specialAdCategories": [],
+    "buyingType": "AUCTION"
+  },
+  "adSetDefaults": {
+    "billingEvent": "IMPRESSIONS",
+    "optimizationGoal": "LINK_CLICKS",
+    "bidStrategy": "LOWEST_COST_WITHOUT_CAP",
+    "defaultDailyBudgetILS": 100,
+    "status": "PAUSED",
+    "ageMin": 18,
+    "ageMax": 65,
+    "geoLocations": {
+      "countries": ["IL"]
+    },
+    "publisherPlatforms": ["facebook"],
+    "facebookPositions": ["feed"]
+  },
+  "formatPlacements": {
+    "feed": {
+      "publisherPlatforms": ["facebook", "instagram"],
+      "facebookPositions": ["feed"],
+      "instagramPositions": ["stream"]
+    },
+    "story": {
+      "publisherPlatforms": ["facebook", "instagram"],
+      "facebookPositions": ["story"],
+      "instagramPositions": ["story"]
+    }
+  },
+  "adDefaults": {
+    "status": "PAUSED",
+    "callToAction": "LEARN_MORE",
+    "websiteUrl": "https://ticketeams.co.il"
+  },
+  "naming": {
+    "campaignTemplate": "{event} | לידים - {date}",
+    "adSetTemplate": "{event} | לידים - {targeting} - {date}",
+    "adTemplate": "{event} | {style} - v{version}"
+  },
+  "audiences": {
+    "mappings": {
+      "lookalike_site_visitors_1pct": { "id": "120241587101770479", "label": "דומה (1%) - ביקורים באתר 30 יום" },
+      "lookalike_purchase_1pct": { "id": "120241587031730479", "label": "דומה (1%) - רכישה" },
+      "lookalike_purchase_2pct": { "id": "120241587022680479", "label": "דומה (2%) - טיקטימס רכישה" },
+      "retargeting_purchase": { "id": "120239223873180479", "label": "רכישה" },
+      "retargeting_fb_engagement": { "id": "120239223845420479", "label": "מעורבות פייסבוק" },
+      "retargeting_fb_page": { "id": "120239223835120479", "label": "אינטראקציה עם הדף" },
+      "retargeting_ig_account": { "id": "120239223758400479", "label": "אינטראקציה אינסטגרם" },
+      "retargeting_ig_engagement": { "id": "120239223739450479", "label": "מעורבות אינסטגרם" },
+      "retargeting_site_visitors_30d": { "id": "120236893913670479", "label": "ביקורים באתר 30 יום" }
+    },
+    "competitionToAudience": {
+      "Premier League": ["lookalike_site_visitors_1pct", "retargeting_site_visitors_30d"],
+      "La Liga": ["lookalike_site_visitors_1pct", "retargeting_site_visitors_30d"],
+      "Champions League": ["lookalike_purchase_1pct", "retargeting_site_visitors_30d", "retargeting_fb_engagement"],
+      "Bundesliga": ["lookalike_site_visitors_1pct", "retargeting_site_visitors_30d"],
+      "Serie A": ["lookalike_site_visitors_1pct", "retargeting_site_visitors_30d"],
+      "World Cup": ["lookalike_purchase_1pct", "lookalike_purchase_2pct", "retargeting_site_visitors_30d"],
+      "default": ["lookalike_site_visitors_1pct", "retargeting_site_visitors_30d"]
+    }
+  },
+  "featureFlags": {
+    "pagePostPublish": false,
+    "instagramPublish": false,
+    "autoActivate": false,
+    "sendEmailNotification": true,
+    "sendMondayNotification": true
+  },
+  "tokenRefresh": {
+    "refreshThresholdDays": 7,
+    "alertThresholdDays": 3
+  }
+}

@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ticketeams Command Center</title>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --pink: #E91E8C;
+      --orange: #FF6B35;
+      --purple: #7B2D8B;
+      --bg: #080808;
+      --card: #111111;
+      --card-hover: #1a1a1a;
+      --border: #222222;
+      --text: #f0f0f0;
+      --text-dim: #888888;
+      --green: #22c55e;
+      --red: #ef4444;
+    }
+
+    body {
+      font-family: 'Heebo', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      direction: rtl;
+    }
+
+    /* ===== HEADER ===== */
+    .header {
+      padding: 20px 40px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      background: linear-gradient(135deg, var(--pink), var(--orange), var(--purple));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      font-weight: 800;
+      color: #fff;
+    }
+
+    .logo-text {
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .logo-text span {
+      background: linear-gradient(90deg, var(--pink), var(--orange), var(--purple));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .logo-sub {
+      font-size: 12px;
+      color: var(--text-dim);
+      font-weight: 400;
+    }
+
+    /* ===== AGENT STATUS ===== */
+    .agents-status {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .agent-badge {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 14px;
+      border-radius: 20px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    .agent-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 6px var(--green);
+      animation: pulse 2s infinite;
+    }
+
+    .agent-dot.inactive {
+      background: #444;
+      box-shadow: none;
+      animation: none;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    /* ===== MAIN CONTENT ===== */
+    .main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 40px;
+    }
+
+    /* ===== STAT CARDS ===== */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 40px;
+    }
+
+    .stat-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      transition: border-color 0.3s, transform 0.2s;
+    }
+
+    .stat-card:hover {
+      border-color: #333;
+      transform: translateY(-2px);
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: var(--text-dim);
+      margin-bottom: 8px;
+      font-weight: 400;
+    }
+
+    .stat-number {
+      font-size: 36px;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    .stat-card:nth-child(1) .stat-number { color: var(--orange); }
+    .stat-card:nth-child(2) .stat-number { color: var(--green); }
+    .stat-card:nth-child(3) .stat-number { color: var(--pink); }
+    .stat-card:nth-child(4) .stat-number { color: var(--purple); }
+
+    /* ===== SECTION HEADERS ===== */
+    .section-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .section-title {
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .section-badge {
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      background: rgba(233, 30, 140, 0.15);
+      color: var(--pink);
+      font-weight: 500;
+    }
+
+    /* ===== MATCH CARD ===== */
+    .match-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      margin-bottom: 40px;
+    }
+
+    .match-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 24px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .match-info h2 {
+      font-size: 22px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+
+    .match-meta {
+      display: flex;
+      gap: 16px;
+      color: var(--text-dim);
+      font-size: 14px;
+    }
+
+    .match-meta span {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .match-status {
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 600;
+      background: rgba(255, 107, 53, 0.15);
+      color: var(--orange);
+    }
+
+    .match-status.approved {
+      background: rgba(34, 197, 94, 0.15);
+      color: var(--green);
+    }
+
+    /* ===== AD VERSIONS ===== */
+    .versions-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .version-card {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      transition: all 0.4s ease;
+      opacity: 1;
+      transform: scale(1);
+    }
+
+    .version-card.rejected {
+      opacity: 0;
+      transform: scale(0.9);
+      pointer-events: none;
+    }
+
+    .version-card.approved-card {
+      border-color: var(--green);
+      box-shadow: 0 0 20px rgba(34, 197, 94, 0.1);
+    }
+
+    .version-tag {
+      display: inline-block;
+      padding: 3px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 14px;
+    }
+
+    .version-tag.emotional {
+      background: rgba(233, 30, 140, 0.15);
+      color: var(--pink);
+    }
+
+    .version-tag.info {
+      background: rgba(59, 130, 246, 0.15);
+      color: #3b82f6;
+    }
+
+    .version-tag.urgency {
+      background: rgba(255, 107, 53, 0.15);
+      color: var(--orange);
+    }
+
+    .version-headline {
+      font-size: 17px;
+      font-weight: 700;
+      margin-bottom: 10px;
+      line-height: 1.4;
+    }
+
+    .version-body {
+      font-size: 14px;
+      color: var(--text-dim);
+      line-height: 1.6;
+      margin-bottom: 10px;
+    }
+
+    .version-cta {
+      font-size: 13px;
+      color: var(--orange);
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+
+    .version-price {
+      font-size: 12px;
+      color: var(--text-dim);
+      padding: 8px 0;
+      border-top: 1px solid var(--border);
+      margin-bottom: 16px;
+    }
+
+    .version-price strong {
+      color: var(--text);
+    }
+
+    .version-actions {
+      display: flex;
+      gap: 8px;
+    }
+
+    .btn {
+      flex: 1;
+      padding: 10px 16px;
+      border-radius: 8px;
+      border: none;
+      font-family: 'Heebo', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-approve {
+      background: linear-gradient(135deg, var(--green), #16a34a);
+      color: #fff;
+    }
+
+    .btn-approve:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+    }
+
+    .btn-reject {
+      background: transparent;
+      color: var(--red);
+      border: 1px solid rgba(239, 68, 68, 0.3);
+    }
+
+    .btn-reject:hover {
+      background: rgba(239, 68, 68, 0.1);
+    }
+
+    .btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none !important;
+      box-shadow: none !important;
+    }
+
+    .approved-label {
+      display: none;
+      text-align: center;
+      padding: 10px;
+      color: var(--green);
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .version-card.approved-card .approved-label {
+      display: block;
+    }
+
+    .version-card.approved-card .version-actions {
+      display: none;
+    }
+
+    /* ===== SYSTEM FLOW ===== */
+    .flow-section {
+      margin-top: 48px;
+    }
+
+    .flow-container {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 32px;
+    }
+
+    .flow-steps {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0;
+      flex-wrap: wrap;
+    }
+
+    .flow-step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .flow-icon {
+      width: 52px;
+      height: 52px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      border: 1px solid var(--border);
+      transition: all 0.3s;
+    }
+
+    .flow-step:nth-child(1) .flow-icon { background: rgba(123, 45, 139, 0.15); }
+    .flow-step:nth-child(3) .flow-icon { background: rgba(59, 130, 246, 0.15); }
+    .flow-step:nth-child(5) .flow-icon { background: rgba(233, 30, 140, 0.15); }
+    .flow-step:nth-child(7) .flow-icon { background: rgba(255, 107, 53, 0.15); }
+    .flow-step:nth-child(9) .flow-icon { background: rgba(168, 85, 247, 0.15); }
+    .flow-step:nth-child(11) .flow-icon { background: rgba(34, 197, 94, 0.15); }
+    .flow-step:nth-child(13) .flow-icon { background: rgba(59, 130, 246, 0.15); }
+
+    .flow-label {
+      font-size: 12px;
+      color: var(--text-dim);
+      font-weight: 500;
+    }
+
+    .flow-arrow {
+      font-size: 18px;
+      color: #333;
+      margin: 0 6px;
+      padding-bottom: 24px;
+    }
+
+    /* ===== FOOTER ===== */
+    .footer {
+      text-align: center;
+      padding: 32px 40px;
+      color: #333;
+      font-size: 12px;
+      border-top: 1px solid var(--border);
+      margin-top: 48px;
+    }
+
+    /* ===== ANIMATIONS ===== */
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .stat-card { animation: fadeInUp 0.5s ease forwards; }
+    .stat-card:nth-child(1) { animation-delay: 0.05s; }
+    .stat-card:nth-child(2) { animation-delay: 0.1s; }
+    .stat-card:nth-child(3) { animation-delay: 0.15s; }
+    .stat-card:nth-child(4) { animation-delay: 0.2s; }
+
+    .version-card { animation: fadeInUp 0.5s ease forwards; }
+    .version-card:nth-child(1) { animation-delay: 0.1s; }
+    .version-card:nth-child(2) { animation-delay: 0.2s; }
+    .version-card:nth-child(3) { animation-delay: 0.3s; }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 900px) {
+      .header { flex-direction: column; gap: 16px; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .versions-grid { grid-template-columns: 1fr; }
+      .agents-status { flex-wrap: wrap; justify-content: center; }
+      .flow-steps { gap: 4px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="header">
+    <div class="logo">
+      <div class="logo-icon">T</div>
+      <div>
+        <div class="logo-text"><span>Ticketeams</span> Command Center</div>
+        <div class="logo-sub">מרכז הבקרה — ניהול מודעות ואישורים</div>
+      </div>
+    </div>
+    <div class="agents-status">
+      <div class="agent-badge">
+        <div class="agent-dot"></div>
+        Scout Agent
+      </div>
+      <div class="agent-badge">
+        <div class="agent-dot"></div>
+        CMO Agent
+      </div>
+      <div class="agent-badge">
+        <div class="agent-dot"></div>
+        Creative Agent
+      </div>
+      <div class="agent-badge">
+        <div class="agent-dot inactive"></div>
+        Approval
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== MAIN ===== -->
+  <main class="main">
+
+    <!-- STAT CARDS -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">ממתינות לאישור</div>
+        <div class="stat-number" id="stat-pending">1</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">אושרו</div>
+        <div class="stat-number" id="stat-approved">0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">פורסמו</div>
+        <div class="stat-number" id="stat-published">0</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">סוכנים פעילים</div>
+        <div class="stat-number">3<span style="font-size:18px;color:var(--text-dim);font-weight:400"> / 4</span></div>
+      </div>
+    </div>
+
+    <!-- PENDING APPROVALS -->
+    <div class="section-header">
+      <div class="section-title">מודעות ממתינות לאישור</div>
+      <div class="section-badge" id="matches-badge">טוען...</div>
+    </div>
+
+    <div id="matches-container">
+      <div class="empty-state" id="empty-state" style="display:none;">
+        <div style="text-align:center;padding:60px 20px;color:var(--text-dim);">
+          <div style="font-size:48px;margin-bottom:16px;">&#128203;</div>
+          <div style="font-size:18px;font-weight:600;margin-bottom:8px;color:var(--text);">אין מודעות ממתינות</div>
+          <div style="font-size:14px;">כשתגיע מודעה חדשה מהמערכת, היא תופיע כאן</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SEO SECTION -->
+    <div style="margin-top: 40px;">
+      <div class="section-header">
+        <div class="section-title">SEO — דפי נחיתה ותוכן</div>
+        <div style="display: flex; gap: 10px;">
+          <button class="btn btn-approve" onclick="refreshSEO()" style="flex:none;padding:8px 20px;">רענן</button>
+        </div>
+      </div>
+      <div class="stats-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom: 20px;">
+        <div class="stat-card">
+          <div class="stat-label">דפי נחיתה</div>
+          <div class="stat-number" id="seo-landing-count" style="color:var(--green);">-</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">פוסטים בבלוג</div>
+          <div class="stat-number" id="seo-blog-count" style="color:var(--orange);">-</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">URLים ב-Sitemap</div>
+          <div class="stat-number" id="seo-sitemap-count" style="color:var(--purple);">-</div>
+        </div>
+      </div>
+      <div id="seo-content-list"></div>
+    </div>
+
+    <!-- SYSTEM FLOW -->
+    <div class="flow-section">
+      <div class="section-header">
+        <div class="section-title">זרימת המערכת</div>
+      </div>
+      <div class="flow-container">
+        <div class="flow-steps">
+          <div class="flow-step">
+            <div class="flow-icon">&#128203;</div>
+            <div class="flow-label">Monday</div>
+          </div>
+          <div class="flow-arrow">&#8592;</div>
+          <div class="flow-step">
+            <div class="flow-icon">&#128268;</div>
+            <div class="flow-label">Webhook</div>
+          </div>
+          <div class="flow-arrow">&#8592;</div>
+          <div class="flow-step">
+            <div class="flow-icon">&#128269;</div>
+            <div class="flow-label">Scout</div>
+          </div>
+          <div class="flow-arrow">&#8592;</div>
+          <div class="flow-step">
+            <div class="flow-icon">&#128176;</div>
+            <div class="flow-label">CMO</div>
+          </div>
+          <div class="flow-arrow">&#8592;</div>
+          <div class="flow-step">
+            <div class="flow-icon">&#127912;</div>
+            <div class="flow-label">Creative</div>
+          </div>
+          <div class="flow-arrow">&#8592;</div>
+          <div class="flow-step">
+            <div class="flow-icon">&#9989;</div>
+            <div class="flow-label">Approval</div>
+          </div>
+          <div class="flow-arrow">&#8592;</div>
+          <div class="flow-step">
+            <div class="flow-icon">&#128640;</div>
+            <div class="flow-label">Meta Ads</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <div class="footer">
+    Ticketeams Command Center &copy; 2026 — הכרטיס שלך לחלום
+  </div>
+
+  <!-- ===== JAVASCRIPT ===== -->
+  <script>
+    const API_BASE = window.location.origin;
+    let allApprovals = [];
+
+    // ===== מיפוי סגנון לתג צבעוני =====
+    function getStyleTag(style) {
+      const s = (style || '').trim();
+      if (s.includes('רגשית') || s.toLowerCase().includes('emotional')) return { cls: 'emotional', label: 'רגשית' };
+      if (s.includes('מידעית') || s.toLowerCase().includes('info')) return { cls: 'info', label: 'מידעית' };
+      if (s.includes('דחיפות') || s.toLowerCase().includes('urgenc')) return { cls: 'urgency', label: 'דחיפות' };
+      return { cls: 'info', label: s || 'כללי' };
+    }
+
+    // ===== בניית מחרוזת מחירים מתוך pricingReport =====
+    function buildPriceString(pricingReport) {
+      if (!pricingReport || !pricingReport.recommendations) return '';
+      return pricingReport.recommendations
+        .filter(r => r.recommended && r.recommended.price != null)
+        .map(r => `<strong>${r.recommended.price} ${r.recommended.currency}</strong> (${r.category})`)
+        .join(' | ');
+    }
+
+    // ===== עדכון מונים =====
+    function updateStats() {
+      const pending = allApprovals.filter(a => a.status === 'ממתין לאישור').length;
+      const approved = allApprovals.filter(a => a.status === 'אושר').length;
+
+      document.getElementById('stat-pending').textContent = pending;
+      document.getElementById('stat-approved').textContent = approved;
+      document.getElementById('matches-badge').textContent =
+        pending > 0 ? pending + ' משחקים' : 'אין ממתינים';
+    }
+
+    // ===== רינדור כל המודעות =====
+    function renderApprovals() {
+      const container = document.getElementById('matches-container');
+      const emptyState = document.getElementById('empty-state');
+
+      // נקה כרטיסים קיימים (לא empty-state)
+      container.querySelectorAll('.match-card').forEach(el => el.remove());
+
+      const pendingApprovals = allApprovals.filter(a => a.status === 'ממתין לאישור');
+      const approvedApprovals = allApprovals.filter(a => a.status === 'אושר');
+      const allToShow = [...pendingApprovals, ...approvedApprovals];
+
+      if (allToShow.length === 0) {
+        emptyState.style.display = 'block';
+        return;
+      }
+
+      emptyState.style.display = 'none';
+
+      for (const approval of allToShow) {
+        const matchCard = document.createElement('div');
+        matchCard.className = 'match-card';
+        matchCard.id = 'match-' + approval.matchKey;
+
+        const isApproved = approval.status === 'אושר';
+        const statusClass = isApproved ? 'match-status approved' : 'match-status';
+        const statusText = isApproved
+          ? 'אושר — גרסה ' + approval.selectedVersion
+          : 'ממתין לאישור';
+
+        // חילוץ שם משחק מ-matchKey
+        const parts = approval.matchKey.split('__');
+        const home = parts[0] || '';
+        const away = parts[1] || '';
+        const comp = (parts[2] || '').replace(/-/g, ' ');
+        const date = parts[3] || '';
+
+        const priceStr = buildPriceString(approval.pricingReport);
+
+        let versionsHTML = '';
+        for (let i = 0; i < approval.versions.length; i++) {
+          const v = approval.versions[i];
+          const tag = getStyleTag(v.style);
+          const vNum = i + 1;
+          const isSelectedVersion = isApproved && approval.selectedVersion === vNum;
+          const cardClass = isSelectedVersion ? 'version-card approved-card' : 'version-card';
+
+          versionsHTML += `
+            <div class="${cardClass}" id="${approval.matchKey}-v${vNum}">
+              <div class="version-tag ${tag.cls}">${tag.label}</div>
+              <div class="version-headline">${escapeHtml(v.headline || v.meta?.facebook?.headline || '')}</div>
+              <div class="version-body">${escapeHtml(v.body || v.meta?.facebook?.primary_text || '')}</div>
+              <div class="version-cta">&#8592; ${escapeHtml(v.cta || v.meta?.facebook?.description || '')}</div>
+              ${priceStr ? `<div class="version-price">מחיר מומלץ: ${priceStr}</div>` : ''}
+              <div class="version-actions" ${isApproved ? 'style="display:none"' : ''}>
+                <button class="btn btn-approve" onclick="handleApprove('${approval.matchKey}', ${vNum})">אשר ופרסם</button>
+                <button class="btn btn-reject" onclick="handleReject('${approval.matchKey}', ${vNum})">דחה</button>
+              </div>
+              <div class="approved-label" ${isSelectedVersion ? '' : 'style="display:none"'}>&#10003; אושר לפרסום</div>
+            </div>
+          `;
+        }
+
+        matchCard.innerHTML = `
+          <div class="match-header">
+            <div class="match-info">
+              <h2>${capitalize(home)} vs ${capitalize(away)}</h2>
+              <div class="match-meta">
+                <span>&#9917; ${capitalize(comp)}</span>
+                <span>&#128197; ${date}</span>
+              </div>
+            </div>
+            <div class="${statusClass}" id="status-${approval.matchKey}">${statusText}</div>
+          </div>
+          <div class="versions-grid">
+            ${versionsHTML}
+          </div>
+        `;
+
+        container.appendChild(matchCard);
+      }
+
+      updateStats();
+    }
+
+    // ===== אישור גרסה — שליחה לשרת =====
+    async function handleApprove(matchKey, versionNum) {
+      const btn = event.target;
+      btn.disabled = true;
+      btn.textContent = 'מאשר...';
+
+      try {
+        const res = await fetch(API_BASE + '/api/approve/' + encodeURIComponent(matchKey), {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ selectedVersion: versionNum }),
+        });
+
+        const result = await res.json();
+
+        if (res.ok && result.status === 'אושר') {
+          // עדכון נתונים מקומיים
+          const approval = allApprovals.find(a => a.matchKey === matchKey);
+          if (approval) {
+            approval.status = 'אושר';
+            approval.selectedVersion = versionNum;
+          }
+          renderApprovals();
+        } else {
+          alert('שגיאה באישור: ' + (result.error || 'לא ידוע'));
+          btn.disabled = false;
+          btn.textContent = 'אשר ופרסם';
+        }
+      } catch (err) {
+        alert('שגיאת רשת: ' + err.message);
+        btn.disabled = false;
+        btn.textContent = 'אשר ופרסם';
+      }
+    }
+
+    // ===== דחיית גרסה — UI בלבד =====
+    function handleReject(matchKey, versionNum) {
+      const card = document.getElementById(matchKey + '-v' + versionNum);
+      if (card) card.classList.add('rejected');
+
+      // בדיקה אם כל הגרסאות נדחו
+      setTimeout(() => {
+        const matchCard = document.getElementById('match-' + matchKey);
+        if (!matchCard) return;
+        const remaining = matchCard.querySelectorAll('.version-card:not(.rejected)');
+        if (remaining.length === 0) {
+          const status = document.getElementById('status-' + matchKey);
+          if (status) {
+            status.textContent = 'כל הגרסאות נדחו';
+            status.style.background = 'rgba(239, 68, 68, 0.15)';
+            status.style.color = 'var(--red)';
+          }
+        }
+      }, 400);
+    }
+
+    // ===== טעינת נתונים מהשרת =====
+    async function loadApprovals() {
+      try {
+        const res = await fetch(API_BASE + '/api/pending-approvals');
+        allApprovals = await res.json();
+        renderApprovals();
+      } catch (err) {
+        console.error('שגיאה בטעינת מודעות:', err.message);
+        document.getElementById('empty-state').style.display = 'block';
+        document.getElementById('matches-badge').textContent = 'שגיאת חיבור';
+      }
+    }
+
+    // ===== פונקציות עזר =====
+    function escapeHtml(str) {
+      const div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+
+    function capitalize(str) {
+      return str.replace(/\b\w/g, c => c.toUpperCase());
+    }
+
+    // ===== SEO Section =====
+    async function refreshSEO() {
+      try {
+        const [contentRes, healthRes] = await Promise.all([
+          fetch(API_BASE + '/api/seo/content').then(r => r.json()),
+          fetch(API_BASE + '/api/seo/health').then(r => r.json()),
+        ]);
+
+        const landingPages = (contentRes.created || []).filter(c => c.type === 'landing_page');
+        const blogPosts = (contentRes.created || []).filter(c => c.type === 'blog_post');
+
+        document.getElementById('seo-landing-count').textContent = landingPages.length;
+        document.getElementById('seo-blog-count').textContent = blogPosts.length;
+        document.getElementById('seo-sitemap-count').textContent = healthRes.totalUrls || 0;
+
+        // Render content list
+        const listEl = document.getElementById('seo-content-list');
+        if (contentRes.created && contentRes.created.length > 0) {
+          let html = '<div style="background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;">';
+          html += '<div style="font-size:14px;font-weight:600;margin-bottom:12px;color:var(--text-dim);">תוכן שנוצר ע"י SEO Agent</div>';
+          for (const item of contentRes.created) {
+            const typeLabel = item.type === 'landing_page' ? 'דף נחיתה' : 'בלוג';
+            const typeColor = item.type === 'landing_page' ? 'var(--green)' : 'var(--orange)';
+            html += `<div style="display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid var(--border);">`;
+            html += `<div><span style="color:${typeColor};font-weight:600;font-size:12px;margin-left:8px;">${typeLabel}</span>${escapeHtml(item.title || item.matchKey)}</div>`;
+            html += `<div style="color:var(--text-dim);font-size:12px;">${item.createdAt ? new Date(item.createdAt).toLocaleDateString('he-IL') : ''}</div>`;
+            html += `</div>`;
+          }
+          html += '</div>';
+          listEl.innerHTML = html;
+        } else {
+          listEl.innerHTML = '<div style="text-align:center;padding:20px;color:var(--text-dim);font-size:14px;">אין תוכן שנוצר עדיין. דפי נחיתה ייווצרו כשיזוהו אירועים חמים.</div>';
+        }
+      } catch (err) {
+        console.error('SEO refresh error:', err.message);
+        document.getElementById('seo-landing-count').textContent = '?';
+        document.getElementById('seo-blog-count').textContent = '?';
+        document.getElementById('seo-sitemap-count').textContent = '?';
+      }
+    }
+
+    // ===== אתחול — טעינה ראשונית + רענון כל 30 שניות =====
+    loadApprovals();
+    refreshSEO();
+    setInterval(loadApprovals, 30000);
+  </script>
+
+</body>
+</html>

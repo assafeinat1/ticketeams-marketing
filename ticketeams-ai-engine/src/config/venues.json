@@ -1,0 +1,184 @@
+{
+  "teams": {
+    "arsenal": {
+      "name_he": "ארסנל",
+      "stadium": "אמירייטס סטדיום",
+      "city": "לונדון",
+      "competition": "premier_league",
+      "logo": "arsenal.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Arsenal%20FC.aspx",
+      "arenatickets_url": null
+    },
+    "chelsea": {
+      "name_he": "צ'לסי",
+      "stadium": "סטמפורד בריג'",
+      "city": "לונדון",
+      "competition": "premier_league",
+      "logo": "chelsea.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Chelsea%20FC.aspx",
+      "arenatickets_url": null
+    },
+    "barcelona": {
+      "name_he": "ברצלונה",
+      "stadium": "אולימפיק לואיס קומפאניס",
+      "city": "ברצלונה",
+      "competition": "la_liga",
+      "logo": "barcelona.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/FC%20Barcelona.aspx",
+      "arenatickets_url": null
+    },
+    "real_madrid": {
+      "name_he": "ריאל מדריד",
+      "stadium": "סנטיאגו ברנאבאו",
+      "city": "מדריד",
+      "competition": "la_liga",
+      "logo": "real_madrid.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Real%20Madrid.aspx",
+      "arenatickets_url": null
+    },
+    "liverpool": {
+      "name_he": "ליברפול",
+      "stadium": "אנפילד",
+      "city": "ליברפול",
+      "competition": "premier_league",
+      "logo": "liverpool.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Liverpool%20FC.aspx",
+      "arenatickets_url": null
+    },
+    "man_city": {
+      "name_he": "מנצ'סטר סיטי",
+      "stadium": "אתיאד סטדיום",
+      "city": "מנצ'סטר",
+      "competition": "premier_league",
+      "logo": "man_city.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Manchester%20City%20FC.aspx",
+      "arenatickets_url": null
+    },
+    "man_utd": {
+      "name_he": "מנצ'סטר יונייטד",
+      "stadium": "אולד טראפורד",
+      "city": "מנצ'סטר",
+      "competition": "premier_league",
+      "logo": "man_utd.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Manchester%20United.aspx",
+      "arenatickets_url": null
+    },
+    "tottenham": {
+      "name_he": "טוטנהאם",
+      "stadium": "טוטנהאם הוטספור סטדיום",
+      "city": "לונדון",
+      "competition": "premier_league",
+      "logo": "tottenham.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Tottenham%20Hotspur.aspx",
+      "arenatickets_url": null
+    },
+    "bayern": {
+      "name_he": "באיירן מינכן",
+      "stadium": "אליאנץ ארנה",
+      "city": "מינכן",
+      "competition": "bundesliga",
+      "logo": "bayern.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Bayern%20Munich.aspx",
+      "arenatickets_url": null
+    },
+    "dortmund": {
+      "name_he": "בורוסיה דורטמונד",
+      "stadium": "זיגנל אידונה פארק",
+      "city": "דורטמונד",
+      "competition": "bundesliga",
+      "logo": "dortmund.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Borussia%20Dortmund.aspx",
+      "arenatickets_url": null
+    },
+    "juventus": {
+      "name_he": "יובנטוס",
+      "stadium": "אליאנץ סטדיום",
+      "city": "טורינו",
+      "competition": "serie_a",
+      "logo": "juventus.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Juventus%20FC.aspx",
+      "arenatickets_url": null
+    },
+    "milan": {
+      "name_he": "מילאן",
+      "stadium": "סן סירו",
+      "city": "מילאן",
+      "competition": "serie_a",
+      "logo": "milan.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/AC%20Milan.aspx",
+      "arenatickets_url": null
+    },
+    "inter": {
+      "name_he": "אינטר מילאן",
+      "stadium": "סן סירו",
+      "city": "מילאן",
+      "competition": "serie_a",
+      "logo": "inter.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Inter%20Milan.aspx",
+      "arenatickets_url": null
+    },
+    "atletico": {
+      "name_he": "אתלטיקו מדריד",
+      "stadium": "מטרופוליטנו",
+      "city": "מדריד",
+      "competition": "la_liga",
+      "logo": "atletico.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Atletico%20Madrid.aspx",
+      "arenatickets_url": null
+    },
+    "psg": {
+      "name_he": "פריז סן ז'רמן",
+      "stadium": "פארק דה פרנס",
+      "city": "פריז",
+      "competition": "ligue_1",
+      "logo": "psg.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Paris%20Saint-Germain.aspx",
+      "arenatickets_url": null
+    },
+    "benfica": {
+      "name_he": "בנפיקה",
+      "stadium": "אסטדיו דה לוז",
+      "city": "ליסבון",
+      "competition": "champions_league",
+      "logo": "benfica.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/SL%20Benfica.aspx",
+      "arenatickets_url": null
+    },
+    "real_sociedad": {
+      "name_he": "ריאל סוסיאדד",
+      "stadium": "אנואטה",
+      "city": "סן סבסטיאן",
+      "competition": "la_liga",
+      "logo": "real_sociedad.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Real%20Sociedad.aspx",
+      "arenatickets_url": null
+    },
+    "frankfurt": {
+      "name_he": "איינטראכט פרנקפורט",
+      "stadium": "דויטשה בנק פארק",
+      "city": "פרנקפורט",
+      "competition": "bundesliga",
+      "logo": "frankfurt.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Eintracht%20Frankfurt.aspx",
+      "arenatickets_url": null
+    },
+    "rb_salzburg": {
+      "name_he": "רד בול זלצבורג",
+      "stadium": "רד בול ארנה",
+      "city": "זלצבורג",
+      "competition": "champions_league",
+      "logo": "rb_salzburg.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Red%20Bull%20Salzburg.aspx",
+      "arenatickets_url": null
+    },
+    "celta_vigo": {
+      "name_he": "סלטה ויגו",
+      "stadium": "אבנקו בלאיד ארנה",
+      "city": "ויגו",
+      "competition": "la_liga",
+      "logo": "celta_vigo.png",
+      "livetickets_url": "https://www.livetickets.co.il/performers/Celta%20Vigo.aspx",
+      "arenatickets_url": null
+    }
+  }
+}

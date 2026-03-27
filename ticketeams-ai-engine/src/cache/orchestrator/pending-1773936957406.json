@@ -1,0 +1,31 @@
+{
+  "id": "pending-1773936957406",
+  "status": "pending",
+  "createdAt": "2026-03-19T16:15:57.406Z",
+  "decision": {
+    "type": "CREATE_CAMPAIGN",
+    "requiresApproval": true,
+    "priority": "high",
+    "event": {
+      "homeTeam": "ברצלונה",
+      "awayTeam": "ריאל מדריד",
+      "score": 65,
+      "tier": "onFire",
+      "activeSources": [
+        "NEW",
+        "SITE",
+        "SEASON"
+      ],
+      "eventDate": "2026-05-10"
+    },
+    "existingCampaign": null,
+    "suggestedAction": {
+      "action": "create_campaign",
+      "matchKey": "ברצלונה__ריאל_מדריד__unknown__",
+      "suggestedBudgetILS": 300,
+      "targeting": "broad_prospecting",
+      "reasoning": "Heat 65 (onFire) — NEW,SITE,SEASON מקורות פעילים, אין קמפיין קיים"
+    },
+    "classification": "approval_required"
+  }
+}

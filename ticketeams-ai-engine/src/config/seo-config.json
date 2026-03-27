@@ -1,0 +1,26 @@
+{
+  "wordpress": {
+    "baseUrl": "https://ticketeams.co.il",
+    "restBase": "https://ticketeams.co.il/wp-json/wp/v2"
+  },
+  "landingPage": {
+    "defaultStatus": "draft",
+    "minHeatScore": 36,
+    "seoDescriptionTemplate": "קנו כרטיסים ל{event} ב{date}. כרטיסים רשמיים דרך Ticketeams, משלוח מהיר, תמיכה בעברית. הזמינו עכשיו!",
+    "titleTemplate": "כרטיסים ל{homeTeam} נגד {awayTeam} | {date} | Ticketeams"
+  },
+  "blogPost": {
+    "defaultStatus": "draft",
+    "categoryId": null
+  },
+  "keywordGroups": [
+    "כרטיסים ל{homeTeam} נגד {awayTeam}",
+    "כרטיסים {competition} {year}",
+    "לראות {homeTeam} באצטדיון",
+    "כרטיסים כדורגל אירופה"
+  ],
+  "targetLanguage": "he",
+  "cache": {
+    "directory": "seo"
+  }
+}

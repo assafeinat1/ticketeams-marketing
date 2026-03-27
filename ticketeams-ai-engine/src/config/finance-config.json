@@ -1,0 +1,74 @@
+{
+  "boards": {
+    "sales": { "boardId": 1725685740, "groupId": "topics" },
+    "marketing": { "boardId": 5046543095, "groupId": "topics" },
+    "inventory": { "boardId": 1712156349, "groupId": "new_group__1" }
+  },
+  "salesColumns": {
+    "matchName": "text",
+    "homeTeam": "text3",
+    "gameDate": "date5",
+    "dealDate": "date",
+    "channel": "status_1",
+    "campaignName": "color_mkwzxpqp",
+    "closer": "color_mkp4rm9q",
+    "ticketQty": "numeric",
+    "finalPrice": "numeric4",
+    "ticketCost": "numeric9",
+    "commissions": "numbers_1__1",
+    "totalProfit": "formula2",
+    "grossMarginPct": "formula4__1",
+    "agentCommission": "formula_mkp4xnjc",
+    "clientType": "color_mknshwfc",
+    "supplier": "text_mkyvs4cj"
+  },
+  "channelMapping": {
+    "paid_meta": ["פרסומת", "מיכאל פרסומת", "כולם פרסומת", "יובל פרסומת"],
+    "paid_google": ["גוגל", "קמפיין גוגל אנגלי"],
+    "organic": ["אורגני אתר"],
+    "word_of_mouth": ["פה ואוזן", "פה ואוזן כללי", "מיכאל פה ואוזן"],
+    "customer_club": ["מועדון לקוחות", "רואי מועדון לקוחות", "מיכאל מועדון לקוחות", "כולם מועדון לקוחות", "אסף מועדון לקוחות"],
+    "facebook_groups": ["קבוצות פייסבוק", "אסף קבוצות פייסבוק", "קבוצה פרטית פייסבוק"],
+    "whatsapp_groups": ["קבוצות ווצאפ", "מיכאל קבוצות ווצאפ", "אסף קבוצות ווצאפ"],
+    "influencers": ["משפיען", "מיכאל משפיען", "רואי משפיען"],
+    "agents": ["סוכנים", "רואי סוכנים"],
+    "suppliers": ["ספקים"],
+    "sponsorship": ["חסות"],
+    "podcast": ["פודקאסט"],
+    "ai": ["AI"]
+  },
+  "channelLabels": {
+    "paid_meta": "פרסומת Meta",
+    "paid_google": "Google Ads",
+    "organic": "אורגני אתר",
+    "word_of_mouth": "פה לאוזן",
+    "customer_club": "מועדון לקוחות",
+    "facebook_groups": "קבוצות פייסבוק",
+    "whatsapp_groups": "קבוצות וואטסאפ",
+    "influencers": "משפיענים",
+    "agents": "סוכנים",
+    "suppliers": "ספקים",
+    "sponsorship": "חסות",
+    "podcast": "פודקאסט",
+    "ai": "AI",
+    "other": "אחר/לא מזוהה"
+  },
+  "alerts": {
+    "roas_minimum": 2.0,
+    "roas_critical": 1.0,
+    "cpa_maximum": 1500,
+    "gross_margin_minimum": 15,
+    "net_margin_minimum": 10,
+    "channel_profit_per_deal_min": 300
+  },
+  "budgetRecommendation": {
+    "increaseThreshold": 5.0,
+    "maintainThreshold": 2.0,
+    "reduceThreshold": 1.0,
+    "increaseMultiplier": 1.3,
+    "reduceMultiplier": 0.7
+  },
+  "email": {
+    "subject": "דוח פיננסי שבועי — Ticketeams"
+  }
+}

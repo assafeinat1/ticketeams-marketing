@@ -1,0 +1,299 @@
+{
+  "matchKey": "Manchester_City__Arsenal__Premier_League__2026-04-26",
+  "createdAt": "2026-03-19T16:25:58.975Z",
+  "status": "פורסם",
+  "versions": [
+    {
+      "index": 1,
+      "style": "רגשית",
+      "headline": "חלום הופך למציאות בליגה המדהימה",
+      "body": "אתה שם, באצטדיון מנצ'סטר סיטי, כשהחלום שלך מתחולל לנגד עיניך. משחק אגדי בין שתי קבוצות גדולות. זה לא רק כדורגל — זה חיים.",
+      "cta": "הכרטיס שלך לחלום",
+      "meta": {
+        "style": "רגשית",
+        "facebook": {
+          "primary_text": "אתה שם, באצטדיון מנצ'סטר סיטי, כשהחלום שלך מתחולל לנגד עיניך. משחק אגדי בין שתי קבוצות גדולות. זה לא רק כדורגל — זה חיים.",
+          "headline": "חלום הופך למציאות בליגה המדהימה",
+          "description": "הכרטיס שלך לחלום"
+        },
+        "instagram": {
+          "caption": "חלום הופך למציאות בליגה המדהימה\n\nאתה שם, באצטדיון מנצ'סטר סיטי, כשהחלום שלך מתחולל לנגד עיניך. משחק אגדי בין שתי קבוצות גדולות. זה לא רק כדורגל — זה חיים.\n\nהכרטיס שלך לחלום"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "style": "מידעית",
+      "headline": "מנצ'סטר סיטי נגד ארסנל • 26.4.2026",
+      "body": "ליגה עליונה אנגלית, משחק משמעותי. שתי קבוצות אלמה מתעמתות באצטדיון מנצ'סטר סיטי. תאריך: 26 באפריל 2026. הישראל לא צריכה להיות במקום הזה.",
+      "cta": "קנה כרטיס עכשיו",
+      "meta": {
+        "style": "מידעית",
+        "facebook": {
+          "primary_text": "ליגה עליונה אנגלית, משחק משמעותי. שתי קבוצות אלמה מתעמתות באצטדיון מנצ'סטר סיטי. תאריך: 26 באפריל 2026. הישראל לא צריכה להיות במקום הזה.",
+          "headline": "מנצ'סטר סיטי נגד ארסנל • 26.4.2026",
+          "description": "קנה כרטיס עכשיו"
+        },
+        "instagram": {
+          "caption": "מנצ'סטר סיטי נגד ארסנל • 26.4.2026\n\nליגה עליונה אנגלית, משחק משמעותי. שתי קבוצות אלמה מתעמתות באצטדיון מנצ'סטר סיטי. תאריך: 26 באפריל 2026. הישראל לא צריכה להיות במקום הזה.\n\nקנה כרטיס עכשיו"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "style": "דחיפות",
+      "headline": "נשאר מעט מאוד! מיד נגמרים!",
+      "body": "מנצ'סטר סיטי נגד ארסנל — 26 באפריל 2026. הכרטיסים יוצאים מהמלאי במהירות. אל תפספס את ההזדמנות הזו. כל שנייה חשובה!",
+      "cta": "בחזרה לכרטיס!",
+      "meta": {
+        "style": "דחיפות",
+        "facebook": {
+          "primary_text": "מנצ'סטר סיטי נגד ארסנל — 26 באפריל 2026. הכרטיסים יוצאים מהמלאי במהירות. אל תפספס את ההזדמנות הזו. כל שנייה חשובה!",
+          "headline": "נשאר מעט מאוד! מיד נגמרים!",
+          "description": "בחזרה לכרטיס!"
+        },
+        "instagram": {
+          "caption": "נשאר מעט מאוד! מיד נגמרים!\n\nמנצ'סטר סיטי נגד ארסנל — 26 באפריל 2026. הכרטיסים יוצאים מהמלאי במהירות. אל תפספס את ההזדמנות הזו. כל שנייה חשובה!\n\nבחזרה לכרטיס!"
+        }
+      }
+    }
+  ],
+  "pricingReport": {
+    "homeTeam": "Manchester City",
+    "awayTeam": "Arsenal",
+    "competition": "Premier League",
+    "date": "2026-04-26",
+    "heatScore": 19,
+    "tier": "warm",
+    "source": "orchestrator-full-pipeline",
+    "matchKey": "manchester_city__arsenal__premier_league__2026-04-26",
+    "stadium": "אתיאד סטדיום",
+    "currency": "GBP",
+    "generatedAt": "2026-03-19T16:26:06.629Z",
+    "recommendations": [
+      {
+        "category": "מנצ'סטר סיטי - קריסטל פאלאס (המשחק נדחה למועד שטרם נקבע)",
+        "live": {
+          "name": "מנצ'סטר סיטי - קריסטל פאלאס (המשחק נדחה למועד שטרם נקבע)",
+          "price": 95,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 90,
+          "currency": "GBP",
+          "formula": "95 × 0.90 = 90"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "מנצ'סטר סיטי - ברנטפורד",
+        "live": {
+          "name": "מנצ'סטר סיטי - ברנטפורד",
+          "price": 125,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 115,
+          "currency": "GBP",
+          "formula": "125 × 0.90 = 115"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "גביע אנגלי 1/4 גמר: מנצ'סטר סיטי - ליברפול",
+        "live": {
+          "name": "גביע אנגלי 1/4 גמר: מנצ'סטר סיטי - ליברפול",
+          "price": 150,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 135,
+          "currency": "GBP",
+          "formula": "150 × 0.90 = 135"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "מנצ'סטר סיטי - אסטון וילה",
+        "live": {
+          "name": "מנצ'סטר סיטי - אסטון וילה",
+          "price": 180,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 165,
+          "currency": "GBP",
+          "formula": "180 × 0.90 = 165"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "אברטון - מנצ'סטר סיטי",
+        "live": {
+          "name": "אברטון - מנצ'סטר סיטי",
+          "price": 205,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 185,
+          "currency": "GBP",
+          "formula": "205 × 0.90 = 185"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "ברנלי - מנצ'סטר סיטי",
+        "live": {
+          "name": "ברנלי - מנצ'סטר סיטי",
+          "price": 240,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 220,
+          "currency": "GBP",
+          "formula": "240 × 0.90 = 220"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "גמר גביע הליגה: מנצ'סטר סיטי - ארסנל",
+        "live": {
+          "name": "גמר גביע הליגה: מנצ'סטר סיטי - ארסנל",
+          "price": 250,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 225,
+          "currency": "GBP",
+          "formula": "250 × 0.90 = 225"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "בורנמות' - מנצ'סטר סיטי",
+        "live": {
+          "name": "בורנמות' - מנצ'סטר סיטי",
+          "price": 375,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 340,
+          "currency": "GBP",
+          "formula": "375 × 0.90 = 340"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "צ'לסי - מנצ'סטר סיטי",
+        "live": {
+          "name": "צ'לסי - מנצ'סטר סיטי",
+          "price": 450,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 405,
+          "currency": "GBP",
+          "formula": "450 × 0.90 = 405"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      },
+      {
+        "category": "מנצ'סטר סיטי - ארסנל",
+        "live": {
+          "name": "מנצ'סטר סיטי - ארסנל",
+          "price": 450,
+          "currency": "GBP"
+        },
+        "recommended": {
+          "price": 405,
+          "currency": "GBP",
+          "formula": "450 × 0.90 = 405"
+        },
+        "arena": {
+          "name": null,
+          "price": null,
+          "currency": null,
+          "role": "אימות קטגוריות בלבד — לא לחישוב מחיר"
+        }
+      }
+    ]
+  },
+  "approvedAt": "2026-03-19T16:26:06.409Z",
+  "selectedVersion": 1,
+  "selectedAd": {
+    "index": 1,
+    "style": "רגשית",
+    "headline": "חלום הופך למציאות בליגה המדהימה",
+    "body": "אתה שם, באצטדיון מנצ'סטר סיטי, כשהחלום שלך מתחולל לנגד עיניך. משחק אגדי בין שתי קבוצות גדולות. זה לא רק כדורגל — זה חיים.",
+    "cta": "הכרטיס שלך לחלום",
+    "meta": {
+      "style": "רגשית",
+      "facebook": {
+        "primary_text": "אתה שם, באצטדיון מנצ'סטר סיטי, כשהחלום שלך מתחולל לנגד עיניך. משחק אגדי בין שתי קבוצות גדולות. זה לא רק כדורגל — זה חיים.",
+        "headline": "חלום הופך למציאות בליגה המדהימה",
+        "description": "הכרטיס שלך לחלום"
+      },
+      "instagram": {
+        "caption": "חלום הופך למציאות בליגה המדהימה\n\nאתה שם, באצטדיון מנצ'סטר סיטי, כשהחלום שלך מתחולל לנגד עיניך. משחק אגדי בין שתי קבוצות גדולות. זה לא רק כדורגל — זה חיים.\n\nהכרטיס שלך לחלום"
+      }
+    }
+  },
+  "budgetRecommendation": {
+    "eventName": "Manchester City vs Arsenal",
+    "heatScore": 19,
+    "recommendedDailyBudget": 100,
+    "expectedROAS": null,
+    "recommendedDuration": 21,
+    "recommendedTargeting": "purchase_lookalike",
+    "totalEstimatedBudget": 2100,
+    "daysUntilGame": 38
+  },
+  "publishedAt": "2026-03-19T16:26:13.830Z",
+  "campaignId": "120242351747160479",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242351747160479"
+}

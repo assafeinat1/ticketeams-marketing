@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "partialSuccess": true,
+  "matchKey": "Arsenal__Newcastle__Premier_League__2026-03-19",
+  "campaignId": "120242346352810479",
+  "campaignName": "Arsenal נגד Newcastle | לידים - 19.03.26",
+  "adSets": [
+    {
+      "adSetId": "120242346357080479",
+      "audienceKey": "lookalike_site_visitors_1pct",
+      "format": "feed",
+      "name": "Arsenal נגד Newcastle | לידים - דומה (1%) - ביקורים באתר 30 יום - Feed - 19.03.26"
+    },
+    {
+      "adSetId": "120242346360230479",
+      "audienceKey": "lookalike_site_visitors_1pct",
+      "format": "story",
+      "name": "Arsenal נגד Newcastle | לידים - דומה (1%) - ביקורים באתר 30 יום - Story - 19.03.26"
+    },
+    {
+      "adSetId": "120242346363560479",
+      "audienceKey": "retargeting_site_visitors_30d",
+      "format": "feed",
+      "name": "Arsenal נגד Newcastle | לידים - ביקורים באתר 30 יום - Feed - 19.03.26"
+    },
+    {
+      "adSetId": "120242346366770479",
+      "audienceKey": "retargeting_site_visitors_30d",
+      "format": "story",
+      "name": "Arsenal נגד Newcastle | לידים - ביקורים באתר 30 יום - Story - 19.03.26"
+    }
+  ],
+  "imageHashes": {
+    "feed": null,
+    "story": null
+  },
+  "status": "PAUSED",
+  "metaDashboardUrl": "https://business.facebook.com/adsmanager/manage/campaigns?act=9249156761811113&campaign_ids=120242346352810479",
+  "warnings": [
+    "Ad creative/ad creation skipped — pagePostPublish feature flag is off. Campaign + Ad Sets created. Enable page permissions to create full ads."
+  ],
+  "createdAt": "2026-03-19T15:29:00.971Z",
+  "lastStatusCheck": "2026-03-24T04:00:01.553Z"
+}

@@ -1,0 +1,150 @@
+{
+  "monitorKey": "ad_monitor__2026-03-18",
+  "timestamp": 1773832227245,
+  "savedAt": "2026-03-18T11:10:27.245Z",
+  "results": {
+    "monitorKey": "ad_monitor__2026-03-18",
+    "date": "2026-03-18",
+    "competitors": [
+      {
+        "page_id": "330684977663968",
+        "page_name": "ArenaTickets",
+        "search_terms": null,
+        "ads_count": 2,
+        "method": "page_id",
+        "vip": true,
+        "ads": [
+          {
+            "delivery_start": "2023-06-28",
+            "body": "This ad ran without a required disclaimer.",
+            "title": "This ad ran without a required disclaimer.",
+            "description": "This ad ran without a required disclaimer.",
+            "page_name": "Arena tickets -כרטיסים וחבילות לארועי ספורט בעולם",
+            "page_id": "330684977663968",
+            "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=290548753378675&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+            "match_info": {
+              "matched": false,
+              "homeTeam": null,
+              "awayTeam": null,
+              "confidence": "none",
+              "rawText": "This ad ran without a required disclaimer. This ad ran without a required disclaimer. This ad ran wi"
+            },
+            "classification": {
+              "format_type": "Stadium",
+              "reasoning": "הפרסומת אינה מכילה תוכן ממשי, אך בהעדר מידע אחר והקטגוריות הנתונות, 'Stadium' היא הברירה ברירת המחדל כקטגוריה כללית ביותר. הטקסט חוזר על עצמו ואינו מכיל אנשים, כוכבים או מילות דחיפות.",
+              "classified_at": "2026-03-18T11:10:17.669Z"
+            }
+          },
+          {
+            "delivery_start": "2023-06-28",
+            "body": "This ad ran without a required disclaimer.",
+            "title": "This ad ran without a required disclaimer.",
+            "description": "This ad ran without a required disclaimer.",
+            "page_name": "Arena tickets -כרטיסים וחבילות לארועי ספורט בעולם",
+            "page_id": "330684977663968",
+            "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=195102073520668&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+            "match_info": {
+              "matched": false,
+              "homeTeam": null,
+              "awayTeam": null,
+              "confidence": "none",
+              "rawText": "This ad ran without a required disclaimer. This ad ran without a required disclaimer. This ad ran wi"
+            },
+            "classification": {
+              "format_type": "Stadium",
+              "reasoning": "הפרסומת אינה מכילה תוכן משמעותי - רק הודעה על חוסר כתב שימתור. לא מזוהים אנשים או דיוקנים (Human), ואין שפה של דחיפות (Urgency). סיווג ברירת מחדל ל-Stadium כקטגוריה הכללית ביותר.",
+              "classified_at": "2026-03-18T11:10:20.082Z"
+            }
+          }
+        ],
+        "scrapedAt": "2026-03-18T11:10:15.407Z",
+        "status": "ok"
+      },
+      {
+        "page_id": null,
+        "page_name": "LordTickets",
+        "search_terms": "לורד טיקטס",
+        "ads_count": 0,
+        "method": "search_terms",
+        "vip": false,
+        "ads": [],
+        "scrapedAt": "2026-03-18T11:10:20.927Z",
+        "status": "ok"
+      },
+      {
+        "page_id": null,
+        "page_name": "LiveTickets",
+        "search_terms": "לייב טיקטס",
+        "ads_count": 0,
+        "method": "search_terms",
+        "vip": false,
+        "ads": [],
+        "scrapedAt": "2026-03-18T11:10:21.500Z",
+        "status": "ok"
+      },
+      {
+        "page_id": null,
+        "page_name": "IsstaSport",
+        "search_terms": "איסתא ספורט",
+        "ads_count": 0,
+        "method": "search_terms",
+        "vip": false,
+        "ads": [],
+        "scrapedAt": "2026-03-18T11:10:22.301Z",
+        "status": "ok"
+      },
+      {
+        "page_id": null,
+        "page_name": "Ticketingo",
+        "search_terms": "טיקטינגו",
+        "ads_count": 0,
+        "method": "search_terms",
+        "vip": false,
+        "ads": [],
+        "scrapedAt": "2026-03-18T11:10:22.882Z",
+        "status": "ok"
+      },
+      {
+        "page_id": "414396735300394",
+        "page_name": "TikTik",
+        "search_terms": null,
+        "ads_count": 1,
+        "method": "page_id",
+        "vip": true,
+        "ads": [
+          {
+            "delivery_start": "2024-09-08",
+            "body": "⚽🎷 חבילות מהסרטים לאירועי ספורט והופעות בחו\"ל רוכשים רק בטיקטיק!\nלפרטים והזמנות הקליקו 👈 https://bit.ly/44ShcvM",
+            "title": "לפרטים והזמנות הקליקו 👈",
+            "description": "",
+            "page_name": "טיקטיק חבילות ספורט והופעות  TikTik",
+            "page_id": "414396735300394",
+            "snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1034630757863483&access_token=EAAUbkEnRD9EBQ3mfOQcgi6W2PV6l80VlZCJF75ke6nr4mwngkOAOTSlhOB0YvlhJSnEJxm1rAJ5XUVo947ZAmZC7hBmae3ggjlq1xV5glDCZB3ZAFUEz8CLQFaRWIwQPjcy3EiXKS5VvblHuR8VCV55q5lcenAm3rOPaOsZAYkglr5b7Po2QsiGKk0egs6",
+            "match_info": {
+              "matched": false,
+              "homeTeam": null,
+              "awayTeam": null,
+              "confidence": "none",
+              "rawText": "לפרטים והזמנות הקליקו 👈 ⚽🎷 חבילות מהסרטים לאירועי ספורט והופעות בחו\"ל רוכשים רק בטיקטיק!\nלפרטים וה"
+            },
+            "classification": {
+              "format_type": "Unknown",
+              "reasoning": "Classification error: Expected ',' or '}' after property value in JSON at position 88 (line 3 column 59)"
+            }
+          }
+        ],
+        "scrapedAt": "2026-03-18T11:10:23.368Z",
+        "status": "ok"
+      }
+    ],
+    "totalAds": 3,
+    "summary": {
+      "stadium": 2,
+      "human": 0,
+      "urgency": 0,
+      "unknown": 1
+    },
+    "counterAdCandidates": [],
+    "generatedAt": "2026-03-18T11:10:14.527Z"
+  }
+}
