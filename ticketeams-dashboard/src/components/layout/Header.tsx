@@ -17,7 +17,7 @@ export default function Header() {
               Ticketeams
             </span>
             {' '}
-            <span className="text-text font-semibold">Command Center</span>
+            <span className="text-text font-semibold">Marketing</span>
           </h1>
           <p className="text-[10px] text-text-dim/60 font-medium tracking-wide header-subtitle">Marketing Agency Dashboard</p>
         </div>
