@@ -28,15 +28,20 @@ if (!COOKIES || !CSRF || !PUBLIC_API_TOKEN) {
   process.exit(1);
 }
 
-// Manychat inbox label → tag mapping (must match the tag ids configured in Manychat Flows)
+// Manychat inbox label → tag mapping.
+// tagName: tag fired on the subscriber in Manychat (visible to sales in Manychat).
+// makeTag: value sent directly to Make.com webhook, matching existing Make Router filters
+//          (those filters were set up before the cloud poller and expect the old names).
 const LABEL_TO_TAG = {
-  15584: { labelName: 'ליד חם',              tagName: 'ליד חם' },
-  14307: { labelName: 'לחזור לליד',          tagName: 'לחזור לליד' },
-  14308: { labelName: 'לקוח סגר',            tagName: 'לקוח סגר' },
-  2396:  { labelName: 'ליד רציני מונדיאל',   tagName: 'ליד רציני מונדיאל' },
-  15582: { labelName: 'ליד רציני',           tagName: 'ליד רציני' },
-  [-2]:  { labelName: 'ליד רציני הפועות',    tagName: 'ליד רציני הופעות' },
+  15584: { labelName: 'ליד חם',              tagName: 'ליד חם',              makeTag: 'ליד חם' },
+  14307: { labelName: 'לחזור לליד',          tagName: 'לחזור לליד',          makeTag: 'לחזור לליד' },
+  14308: { labelName: 'לקוח סגר',            tagName: 'לקוח סגר',            makeTag: 'לקוח סגר' },
+  2396:  { labelName: 'ליד רציני מונדיאל',   tagName: 'ליד רציני מונדיאל',   makeTag: 'ליד חם מונדיאל' },
+  15582: { labelName: 'ליד רציני',           tagName: 'ליד רציני',           makeTag: 'מחכים לתשלום' },
+  [-2]:  { labelName: 'ליד רציני הפועות',    tagName: 'ליד רציני הופעות',    makeTag: 'ליד חם הופעות' },
 };
+
+const MAKE_WEBHOOK_URL = 'https://hook.eu2.make.com/nzj7gzx0ikit78u597mfvja32h5273yn';
 
 const internalHeaders = {
   'Accept': 'application/json',
@@ -92,6 +97,30 @@ async function removeTagByName(subscriberId, tagName) {
   return resp.json();
 }
 
+async function getSubscriberPhone(subscriberId) {
+  const u = new URL('https://api.manychat.com/fb/subscriber/getInfo');
+  u.searchParams.set('subscriber_id', String(subscriberId));
+  const resp = await fetch(u, { headers: { 'Authorization': `Bearer ${PUBLIC_API_TOKEN}` } });
+  const d = await resp.json();
+  return d?.data?.phone || '';
+}
+
+function normalizePhone(raw) {
+  if (!raw) return '';
+  const t = raw.trim();
+  if (t.startsWith('+')) return t;
+  if (t.startsWith('0')) return '+972' + t.slice(1);
+  return '+' + t;
+}
+
+async function sendMakeWebhook(phone, makeTag) {
+  await fetch(MAKE_WEBHOOK_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ phone, tag: makeTag }),
+  });
+}
+
 // Force-fire: remove then re-add so the "Tag applied" flow trigger fires even if the tag already exists.
 async function forceFireTag(subscriberId, tagName) {
   try { await removeTagByName(subscriberId, tagName); } catch {}
@@ -131,6 +160,18 @@ async function pollOnce() {
             await forceFireTag(uid, meta.tagName);
             firedThisRun.push({ uid, name: names[uid], label: meta.labelName, tag: meta.tagName });
             console.log(`[fired] ${names[uid]} (${uid}) label="${meta.labelName}" → tag="${meta.tagName}"`);
+            // Send webhook directly to Make so Monday updates even if Manychat Flow doesn't forward.
+            try {
+              const phone = normalizePhone(await getSubscriberPhone(uid));
+              if (phone) {
+                await sendMakeWebhook(phone, meta.makeTag);
+                console.log(`  → Make webhook sent (phone=${phone}, makeTag="${meta.makeTag}")`);
+              } else {
+                console.log(`  → skipped webhook: no phone for ${names[uid]}`);
+              }
+            } catch (we) {
+              console.error(`  → webhook failed for ${uid}: ${we.message}`);
+            }
           } catch (e) {
             console.error(`[fire-failed] ${names[uid]} (${uid}): ${e.message}`);
           }
