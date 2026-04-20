@@ -102,7 +102,11 @@ async function getSubscriberPhone(subscriberId) {
   u.searchParams.set('subscriber_id', String(subscriberId));
   const resp = await fetch(u, { headers: { 'Authorization': `Bearer ${PUBLIC_API_TOKEN}` } });
   const d = await resp.json();
-  return d?.data?.phone || '';
+  const data = d?.data || {};
+  if (data.whatsapp_phone) return data.whatsapp_phone;
+  if (data.phone) return data.phone;
+  const cf = (data.custom_fields || []).find((f) => f.name === 'phone-num' || f.name === 'phone');
+  return cf?.value ? String(cf.value) : '';
 }
 
 function normalizePhone(raw) {
