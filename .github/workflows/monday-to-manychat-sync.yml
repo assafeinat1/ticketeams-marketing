@@ -1,0 +1,44 @@
+name: Monday → Manychat Sync
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monday-to-manychat-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Poll Monday status changes and mirror as Manychat tags
+        env:
+          MONDAY_API_KEY: ${{ secrets.MONDAY_API_KEY }}
+          MANYCHAT_PUBLIC_API_TOKEN: ${{ secrets.MANYCHAT_PUBLIC_API_TOKEN }}
+        run: node ticketeams-ai-engine/scripts/monday-to-manychat-poll.mjs
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ticketeams-ai-engine/state/monday-to-manychat-state.json
+          if git diff --cached --quiet; then
+            echo "No state change."
+          else
+            git commit -m "chore(monday-to-manychat): update state [skip ci]"
+            git push
+          fi
