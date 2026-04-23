@@ -1,0 +1,20 @@
+name: _Discover Manychat Label Endpoint
+
+on:
+  workflow_dispatch:
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Probe
+        env:
+          MANYCHAT_COOKIES: ${{ secrets.MANYCHAT_COOKIES }}
+          MANYCHAT_CSRF: ${{ secrets.MANYCHAT_CSRF }}
+          MANYCHAT_PAGE_ID: ${{ secrets.MANYCHAT_PAGE_ID }}
+        run: node ticketeams-ai-engine/scripts/_discover-label-endpoint.mjs
