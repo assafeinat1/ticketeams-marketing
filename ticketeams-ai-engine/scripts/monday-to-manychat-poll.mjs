@@ -91,12 +91,39 @@ async function mcPublic(pathname, body) {
   return r.json();
 }
 
+// Manychat custom field id holding the WhatsApp phone as a 9-digit number (no country code).
+// Every WhatsApp subscriber has this populated.
+const PHONE_NUM_FIELD_ID = 14154393;
+
+// Normalize any phone format → 9-digit local Israeli number (matches the phone-num custom field).
+//   +972502757516 → 502757516
+//   0502757516    → 502757516
+//   972502757516  → 502757516
+function toLocal9(raw) {
+  if (!raw) return null;
+  let p = String(raw).replace(/\D/g, '');
+  if (p.startsWith('972')) p = p.slice(3);
+  if (p.startsWith('0')) p = p.slice(1);
+  return p.length === 9 ? p : null;
+}
+
 async function findSubscriberByPhone(phone) {
-  const u = `/fb/subscriber/findBySystemField?phone=${encodeURIComponent(phone)}`;
-  const resp = await mcPublic(u);
-  if (resp.status !== 'success') return null;
-  const data = resp.data;
-  return Array.isArray(data) ? data[0] : data;
+  // First try findByCustomField on phone-num (works for WhatsApp subscribers — our case).
+  const local = toLocal9(phone);
+  if (local) {
+    const u = `/fb/subscriber/findByCustomField?field_id=${PHONE_NUM_FIELD_ID}&field_value=${local}`;
+    const resp = await mcPublic(u);
+    if (resp.status === 'success') {
+      const data = Array.isArray(resp.data) ? resp.data[0] : resp.data;
+      if (data?.id) return data;
+    }
+  }
+  // Fallback: findBySystemField on phone (works for Messenger subscribers — rare here).
+  const u2 = `/fb/subscriber/findBySystemField?phone=${encodeURIComponent(phone)}`;
+  const resp2 = await mcPublic(u2);
+  if (resp2.status !== 'success') return null;
+  const data2 = Array.isArray(resp2.data) ? resp2.data[0] : resp2.data;
+  return data2?.id ? data2 : null;
 }
 
 async function getTags(subscriberId) {
